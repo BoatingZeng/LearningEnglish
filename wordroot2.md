@@ -2,6 +2,8 @@
 
 **ab** 偏离(away);来自(from) abdicate,abduct,aboriginal
 
+**de** 离开,除掉,去掉(off);来自(from);向下;相反;完全(thoroughly) decapitate,demote,derive,deduce,deject,decry
+
 **im** 否定(not);向...内(in);在...上(on) improvise,imbibe,immanent
 
 **infra** 在...之下;在下部 infrared,infrastructure
