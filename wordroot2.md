@@ -16,9 +16,13 @@
 
 **ary** ...的;...的人;与...有关 hereditary
 
+**ate** 有...性质的(possessing a certain quality);给予....性质(to make have a certain quality) disparate,desolate,desiccate,vitiate,liquidate,punctuate
+
 **en** 形容词后缀 sunken,spoken
 
 **ennial** 年 bi-ennial,perennial
+
+**ive** 构成形容词;与...有关的(of or that which does something);倾向于...活动的 abortive,impassive
 
 **ment** 表性质、状态;行为或结果 development
 
