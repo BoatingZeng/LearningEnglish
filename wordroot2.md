@@ -16,11 +16,15 @@
 
 **ary** ...的;...的人;与...有关 hereditary
 
+**ast** 表示人 gymnast
+
 **ate** 有...性质的(possessing a certain quality);给予....性质(to make have a certain quality) disparate,desolate,desiccate,vitiate,liquidate,punctuate
 
 **en** 形容词后缀 sunken,spoken
 
 **ennial** 年 bi-ennial,perennial
+
+**ic** ...的;与...有关的;由...产生的 novelistic,gymnastic
 
 **ive** 构成形容词;与...有关的(of or that which does something);倾向于...活动的 abortive,impassive
 
