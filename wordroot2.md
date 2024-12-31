@@ -14,6 +14,8 @@
 
 ### 后缀 ###
 
+**al** 与...有关的(of or relating to);表示过程或状态(action, process) practical,emotional,typical,dispersal,reprisal
+
 **ary** ...的;...的人;与...有关 hereditary
 
 **ast** 表示人 gymnast
@@ -24,7 +26,13 @@
 
 **ennial** 年 bi-ennial,perennial
 
+**ful** 充满...的(full of);有...性质或倾向的(resembling) grateful,graceful,baleful,healthful
+
 **ic** ...的;与...有关的;由...产生的 novelistic,gymnastic
+
+**ion** 构成名词;表示行为的过程;表示状态,情况(act,state,or result of doing something) operation,commutation,translation
+
+**ious** 具有...特质的(of the nature of) gracious,odious,fractious,furious,noxious
 
 **ive** 构成形容词;与...有关的(of or that which does something);倾向于...活动的 abortive,impassive
 
@@ -32,4 +40,4 @@
 
 **titis** 炎症 hepatitis,otitis
 
-**ure** ...的行动(或过程,结果等) composure
+**ure** ...的行动(或过程,结果等) composure,creature,sculpture
