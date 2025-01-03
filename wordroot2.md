@@ -32,11 +32,11 @@
 
 **ion** 构成名词;表示行为的过程;表示状态,情况(act,state,or result of doing something) operation,commutation,translation
 
-**ious** 具有...特质的(of the nature of) gracious,odious,fractious,furious,noxious
-
 **ive** 构成形容词;与...有关的(of or that which does something);倾向于...活动的 abortive,impassive
 
 **ment** 表性质、状态;行为或结果 development
+
+**ous,acious,eous,ious,itious,uous** 具有...特质的(of the nature of);多...的(full of, having);有...倾向的(inclined to, abounding in) luminous,famous,anonymous,solicitous,erroneous,courteous,gaseous,tenacious,veracious,rapacious,gracious,odious,fractious,furious,noxious,fictitious,adventitious,surreptitious,contiguous,continuous
 
 **titis** 炎症 hepatitis,otitis
 
