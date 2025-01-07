@@ -4,13 +4,19 @@
 
 **de** 离开,除掉,去掉(off);来自(from);向下;相反;完全(thoroughly) decapitate,demote,derive,deduce,deject,decry
 
+**hydr(o)** 水,氢 hydrogen,hydrant,hydrophobic
+
 **im** 否定(not);向...内(in);在...上(on) improvise,imbibe,immanent
 
 **infra** 在...之下;在下部 infrared,infrastructure
 
+**mal** 糟糕,坏,错误(bad,evil) mulfunction,mulformed,maltreat,malice
+
 **per** 通过(through);彻底(thoroughly) permit,persevere
 
 **pro** 在前 proactive
+
+**retro** 向后(backward) retrograde,retrospect,retroactive
 
 ### 后缀 ###
 
@@ -29,6 +35,8 @@
 **ful** 充满...的(full of);有...性质或倾向的(resembling) grateful,graceful,baleful,healthful
 
 **ic** ...的;与...有关的;由...产生的 novelistic,gymnastic
+
+**ice** 构成名词,有...性质 service,justice,cowardice
 
 **ion** 构成名词;表示行为的过程;表示状态,情况(act,state,or result of doing something) operation,commutation,translation
 
