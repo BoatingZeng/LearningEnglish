@@ -2,6 +2,10 @@
 
 **ab** 偏离(away);来自(from) abdicate,abduct,aboriginal
 
+**ante** 在...前(before) anteroom,antedate,antecedent,antecede
+
+**cata** 完全(thoroughly) catastrophe,catalog,cataclysm
+
 **de** 离开,除掉,去掉(off);来自(from);向下;相反;完全(thoroughly) decapitate,demote,derive,deduce,deject,decry
 
 **hydr(o)** 水,氢 hydrogen,hydrant,hydrophobic
@@ -11,6 +15,8 @@
 **infra** 在...之下;在下部 infrared,infrastructure
 
 **mal** 糟糕,坏,错误(bad,evil) mulfunction,mulformed,maltreat,malice
+
+**omni** 总,全,遍(all) omnibus,omniscient,omnipotent,omnipresent
 
 **per** 通过(through);彻底(thoroughly) permit,persevere
 
@@ -32,6 +38,8 @@
 
 **ennial** 年 bi-ennial,perennial
 
+**ery** 构成名词,表性质,职业,场所,类,状态 foolery,bravery,cutlery,bribery
+
 **ful** 充满...的(full of);有...性质或倾向的(resembling) grateful,graceful,baleful,healthful
 
 **ic** ...的;与...有关的;由...产生的 novelistic,gymnastic
@@ -49,3 +57,11 @@
 **titis** 炎症 hepatitis,otitis
 
 **ure** ...的行动(或过程,结果等) composure,creature,sculpture
+
+### 位置不定 ###
+
+**carn** 肉(meat) carnal,carnage,carnation,carnival,carrion,incarnate
+
+**lud(lus)** 玩弄(play,tric) delude(delusive),collude(collusive),allude(allusive),elude(elusive),illusive
+
+**vor** 吃(eat) voracious,herbivore,herbivorous,carnivore,insectivore,omnivore,devour
