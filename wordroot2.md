@@ -8,6 +8,12 @@
 
 **de** 离开,除掉,去掉(off);来自(from);向下;相反;完全(thoroughly) decapitate,demote,derive,deduce,deject,decry
 
+**ec** 超出,偏离(out of,from) eccentric,ecstasy,eclipse
+
+**ex** 超出,偏离(out of,from);彻底(throughly) exit,exclude,exceed,exclaim,exact,exhaust,exhilarate
+
+**exo** 外(outside) exotic,exoskeleton,exothermic
+
 **hydr(o)** 水,氢 hydrogen,hydrant,hydrophobic
 
 **im** 否定(not);向...内(in);在...上(on) improvise,imbibe,immanent
@@ -27,6 +33,8 @@
 ### 后缀 ###
 
 **al** 与...有关的(of or relating to);表示过程或状态(action, process) practical,emotional,typical,dispersal,reprisal
+
+**ant** 构成形容词或名词;是...的;做...的;...人;...事物;(being in a state or condition) assistant,dominant,defendant,servant,significant,coolant,claimant
 
 **ary** ...的;...的人;与...有关 hereditary
 
@@ -62,6 +70,12 @@
 
 **carn** 肉(meat) carnal,carnage,carnation,carnival,carrion,incarnate
 
+**cuss** 打(strike) percussion,repercussion,concuss
+
 **lud(lus)** 玩弄(play,tric) delude(delusive),collude(collusive),allude(allusive),elude(elusive),illusive
+
+**oner** 负担(burden, load) exonerate,onerous
+
+**rog** 问,索求(ask,request) interrogate,abrogate,surrogate,prerogative,derogatory
 
 **vor** 吃(eat) voracious,herbivore,herbivorous,carnivore,insectivore,omnivore,devour
