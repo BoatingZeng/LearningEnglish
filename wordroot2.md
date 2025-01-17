@@ -28,6 +28,8 @@
 
 **pro** 在前 proactive
 
+**re** 重新,又,再(again);后(back);完全,彻底,非常(thoroughly) reject,recede,return,revert,resplendent,reticent,repertoire,resolve
+
 **retro** 向后(backward) retrograde,retrospect,retroactive
 
 ### 后缀 ###
@@ -44,7 +46,11 @@
 
 **en** 形容词后缀 sunken,spoken
 
+**ence** 构成名词,表性质(state or condition) transience,confluence,dependence,luminescence
+
 **ennial** 年 bi-ennial,perennial
+
+**ent** 构成形容词或名词,有...性质的(人或事物)(being in a state or condition) luminescent,pungent,dissident,gradient
 
 **ery** 构成名词,表性质,职业,场所,类,状态 foolery,bravery,cutlery,bribery
 
@@ -57,6 +63,8 @@
 **ion** 构成名词;表示行为的过程;表示状态,情况(act,state,or result of doing something) operation,commutation,translation
 
 **ive** 构成形容词;与...有关的(of or that which does something);倾向于...活动的 abortive,impassive
+
+**ity** 构成名词,表状态或性质(state or quality) gravity,enormity,luminosity,verity
 
 **ment** 表性质、状态;行为或结果 development
 
@@ -72,7 +80,15 @@
 
 **cuss** 打(strike) percussion,repercussion,concuss
 
+**he(r)** 粘住,附着,紧抓(stick, cling, hold fast) adhere,cohere,hesitate,cohesive
+
+**luc** 光,透明,清晰(light,brightness,clarity) pellucid,elucidate,lucid,translucent
+
 **lud(lus)** 玩弄(play,tric) delude(delusive),collude(collusive),allude(allusive),elude(elusive),illusive
+
+**lumin** 光(light,glow) luminous,luminary,illuminate
+
+**lustr** 光(illumine,brighten) lustrous,illustrious,illustrate,lustre(luster)
 
 **oner** 负担(burden, load) exonerate,onerous
 
