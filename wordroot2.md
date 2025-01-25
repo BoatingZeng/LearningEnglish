@@ -74,11 +74,15 @@
 
 **ure** ...的行动(或过程,结果等) composure,creature,sculpture
 
+**us** 构成名词 nexus,animus,focus,radius
+
 ### 位置不定 ###
 
 **carn** 肉(meat) carnal,carnage,carnation,carnival,carrion,incarnate
 
 **cuss** 打(strike) percussion,repercussion,concuss
+
+**geni** 内在性质,天赋(innate quality, inborn talent) genius,ingenious,genial,congenial
 
 **he(r)** 粘住,附着,紧抓(stick, cling, hold fast) adhere,cohere,hesitate,cohesive
 
