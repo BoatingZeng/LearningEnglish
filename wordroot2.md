@@ -98,4 +98,8 @@
 
 **rog** 问,索求(ask,request) interrogate,abrogate,surrogate,prerogative,derogatory
 
+**terr** 土地(earth,land) territory,terrain,Mediterranean
+
+**terr** 恐吓(frighten) terror,terrible,terrific
+
 **vor** 吃(eat) voracious,herbivore,herbivorous,carnivore,insectivore,omnivore,devour
