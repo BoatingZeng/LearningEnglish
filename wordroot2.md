@@ -22,11 +22,15 @@
 
 **mal** 糟糕,坏,错误(bad,evil) mulfunction,mulformed,maltreat,malice
 
+**ob** 阻碍,反对,对面(against) obstacle,object,obstruct
+
 **omni** 总,全,遍(all) omnibus,omniscient,omnipotent,omnipresent
+
+**para** 平行,并行,与...一起(beside, alongside) paradox,parallel,parasite,paramount
 
 **per** 通过(through);彻底(thoroughly) permit,persevere
 
-**pro** 在前 proactive
+**pro** 在前 proactive,profess
 
 **re** 重新,又,再(again);后(back);完全,彻底,非常(thoroughly) reject,recede,return,revert,resplendent,reticent,repertoire,resolve
 

@@ -1,3 +1,5 @@
+**a close one** a situation that is almost dangerous but wasn't
+
 **beat around the bush** 绕圈子;拐弯抹角;旁敲侧击
 
 **bun in the oven** 怀孕
@@ -10,4 +12,8 @@
 
 **pink slip** 解雇通知书
 
+**pound key** 井号键
+
 **take a dip** 泡个澡;去游泳;为时不长的游泳
+
+**the last streach** the last or final moments before an ending
