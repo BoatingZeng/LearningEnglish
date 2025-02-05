@@ -102,6 +102,8 @@
 
 **rog** 问,索求(ask,request) interrogate,abrogate,surrogate,prerogative,derogatory
 
+**tin(tain,ten,tent)** (hold) continent,pertinent,continuous,maintain,detention,content,contain
+
 **terr** 土地(earth,land) territory,terrain,Mediterranean
 
 **terr** 恐吓(frighten) terror,terrible,terrific
