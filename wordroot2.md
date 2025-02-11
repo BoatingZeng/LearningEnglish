@@ -2,6 +2,8 @@
 
 **ab** 偏离(away);来自(from) abdicate,abduct,aboriginal
 
+**ad** 向(to,toward) advertise,adventure,adapt,adhere,adverb,adjective
+
 **ante** 在...前(before) anteroom,antedate,antecedent,antecede
 
 **cata** 完全(thoroughly) catastrophe,catalog,cataclysm
@@ -14,11 +16,15 @@
 
 **exo** 外(outside) exotic,exoskeleton,exothermic
 
+**extra(extro)** 外,在...之外,超出(outside) extra,extraordinary,extrovert
+
 **hydr(o)** 水,氢 hydrogen,hydrant,hydrophobic
 
 **im** 否定(not);向...内(in);在...上(on) improvise,imbibe,immanent
 
 **infra** 在...之下;在下部 infrared,infrastructure
+
+**intro** 内,在...之内(within) intrinsic,introspective,introvert
 
 **mal** 糟糕,坏,错误(bad,evil) mulfunction,mulformed,maltreat,malice
 
@@ -82,9 +88,13 @@
 
 ### 位置不定 ###
 
+**cand** 亮白,发光,热(be of brilliant whiteness, shine, be hot) candor,candid,incendiary,incandescent,candle,candelabrum,candidate
+
 **carn** 肉(meat) carnal,carnage,carnation,carnival,carrion,incarnate
 
 **cuss** 打(strike) percussion,repercussion,concuss
+
+**err** 游荡(wander);错误(make a mistake) errant,errand,erratic,aberrant,error
 
 **geni** 内在性质,天赋(innate quality, inborn talent) genius,ingenious,genial,congenial
 
@@ -98,6 +108,8 @@
 
 **lustr** 光(illumine,brighten) lustrous,illustrious,illustrate,lustre(luster)
 
+**not** 使知道,发现(gotten to know, found out);标记,符号(mark,sign) notorious,notice,notion,notify,note,annotate,keynote,notary,notarize,denote
+
 **oner** 负担(burden, load) exonerate,onerous
 
 **rog** 问,索求(ask,request) interrogate,abrogate,surrogate,prerogative,derogatory
@@ -107,5 +119,11 @@
 **terr** 土地(earth,land) territory,terrain,Mediterranean
 
 **terr** 恐吓(frighten) terror,terrible,terrific
+
+**tom** 切(cut) anatomy,atom,appendectomy(有很多tomy结尾的表示某种切除手术)
+
+**vert** 转(turn) invert,revert,divert,avert,extrovert,introvert,vertigo
+
+**vin** 葡萄酒(wine) vine,vinegar,vintage
 
 **vor** 吃(eat) voracious,herbivore,herbivorous,carnivore,insectivore,omnivore,devour
