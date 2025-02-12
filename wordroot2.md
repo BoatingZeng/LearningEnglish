@@ -8,7 +8,7 @@
 
 **cata** 完全(thoroughly) catastrophe,catalog,cataclysm
 
-**de** 离开,除掉,去掉(off);来自(from);向下;相反;完全(thoroughly) decapitate,demote,derive,deduce,deject,decry
+**de** 离开,除掉,去掉(off);来自(from);向下;相反;完全(thoroughly) decapitate,demote,derive,deduce,deject,decry,decease
 
 **ec** 超出,偏离(out of,from) eccentric,ecstasy,eclipse
 
@@ -29,6 +29,8 @@
 **mal** 糟糕,坏,错误(bad,evil) mulfunction,mulformed,maltreat,malice
 
 **ob** 阻碍,反对,对面(against) obstacle,object,obstruct
+
+**ob** 彻底的(thoroughly) obnoxious
 
 **omni** 总,全,遍(all) omnibus,omniscient,omnipotent,omnipresent
 
@@ -88,9 +90,13 @@
 
 ### 位置不定 ###
 
+**ag** 做(do, act, drive) agenda,agent,agitate,agile,coagulate
+
 **cand** 亮白,发光,热(be of brilliant whiteness, shine, be hot) candor,candid,incendiary,incandescent,candle,candelabrum,candidate
 
 **carn** 肉(meat) carnal,carnage,carnation,carnival,carrion,incarnate
+
+**cogn** 知道,认识(learn, know) cognition,recognize,cognoscenti,connoisseur,incognito,reconnoiter,reconnaissance
 
 **cuss** 打(strike) percussion,repercussion,concuss
 
@@ -99,6 +105,8 @@
 **geni** 内在性质,天赋(innate quality, inborn talent) genius,ingenious,genial,congenial
 
 **he(r)** 粘住,附着,紧抓(stick, cling, hold fast) adhere,cohere,hesitate,cohesive
+
+**heri(heir,here)** 后继,继承(successor, one who inherits property) heritage,heir,inherit,heirloom,heredity
 
 **luc** 光,透明,清晰(light,brightness,clarity) pellucid,elucidate,lucid,translucent
 

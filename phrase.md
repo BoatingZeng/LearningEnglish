@@ -1,6 +1,10 @@
 **a close one** a situation that is almost dangerous but wasn't
 
+**bar exam** 律师资格考试
+
 **beat around the bush** 绕圈子;拐弯抹角;旁敲侧击
+
+**be blown away** be suprised and amazed
 
 **bun in the oven** 怀孕
 
@@ -11,6 +15,8 @@
 **crash** 借宿
 
 **dig** understand;like
+
+**don't get me wrongh** don't misunderstand me
 
 **fall for it(that)** 上当,信以为真(一定要用it,that等指代前述谎言)
 
@@ -39,5 +45,7 @@
 **take a dip** 泡个澡;去游泳;为时不长的游泳
 
 **the last streach** the last or final moments before an ending
+
+**throw in** include
 
 **writ large** 显而易见
