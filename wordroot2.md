@@ -18,6 +18,8 @@
 
 **extra(extro)** 外,在...之外,超出(outside) extra,extraordinary,extrovert
 
+**holo** 全 holocaust,hologram
+
 **hydr(o)** 水,氢 hydrogen,hydrant,hydrophobic
 
 **im** 否定(not);向...内(in);在...上(on) improvise,imbibe,immanent
@@ -96,6 +98,8 @@
 
 **carn** 肉(meat) carnal,carnage,carnation,carnival,carrion,incarnate
 
+**caust** 烧,红热(burnt,red hot) caustic,cauterize,cautery,holocaust
+
 **cogn** 知道,认识(learn, know) cognition,recognize,cognoscenti,connoisseur,incognito,reconnoiter,reconnaissance
 
 **cuss** 打(strike) percussion,repercussion,concuss
@@ -130,8 +134,14 @@
 
 **tom** 切(cut) anatomy,atom,appendectomy(有很多tomy结尾的表示某种切除手术)
 
+**tum** 肿(swell);干扰,障碍,紊乱,骚乱(disturbance);骚动(uproar) tumor,tumid,tumescent,contumacious,tumult,tumultuous
+
 **vert** 转(turn) invert,revert,divert,avert,extrovert,introvert,vertigo
 
+**vest** 衣服,服装(clothing, garments) vest,divest,travesty,invest,vestment
+
 **vin** 葡萄酒(wine) vine,vinegar,vintage
+
+**vok** 叫,喊(call, call upon) convoke,evoke,provoke,invoke,revoke
 
 **vor** 吃(eat) voracious,herbivore,herbivorous,carnivore,insectivore,omnivore,devour
