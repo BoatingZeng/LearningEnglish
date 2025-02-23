@@ -4,11 +4,19 @@
 
 **ad** 向(to,toward) advertise,adventure,adapt,adhere,adverb,adjective
 
+**ag** 向(to,toward) aggress,aggregate,agglomerate,aggrandize,aggravate
+
 **ante** 在...前(before) anteroom,antedate,antecedent,antecede
+
+**at** 向(to,toward) attract,attend,attempt,attain,attenuate
 
 **cata** 完全(thoroughly) catastrophe,catalog,cataclysm
 
 **de** 离开,除掉,去掉(off);来自(from);向下;相反;完全(thoroughly) decapitate,demote,derive,deduce,deject,decry,decease
+
+**di(s)** 分开(apart);否定(not) distant,distract,disrupt,disease,disinter,dislocate,disband,dilatory,divest,digress,digest,dilate,divert,disperse
+
+**e** 超出,偏离(out of,from) egress
 
 **ec** 超出,偏离(out of,from) eccentric,ecstasy,eclipse
 
@@ -24,6 +32,8 @@
 
 **im** 否定(not);向...内(in);在...上(on) improvise,imbibe,immanent
 
+**in** 内(in),在...上(on),向内(into) ingress
+
 **infra** 在...之下;在下部 infrared,infrastructure
 
 **intro** 内,在...之内(within) intrinsic,introspective,introvert
@@ -32,7 +42,7 @@
 
 **ob** 阻碍,反对,对面(against) obstacle,object,obstruct
 
-**ob** 彻底的(thoroughly) obnoxious
+**ob** 彻底的(thoroughly) obnoxious,obscure
 
 **omni** 总,全,遍(all) omnibus,omniscient,omnipotent,omnipresent
 
@@ -40,11 +50,13 @@
 
 **per** 通过(through);彻底(thoroughly) permit,persevere
 
-**pro** 在前 proactive,profess
+**pro** 在前 proactive,profess,progress
 
-**re** 重新,又,再(again);后(back);完全,彻底,非常(thoroughly) reject,recede,return,revert,resplendent,reticent,repertoire,resolve
+**re** 重新,又,再(again);后(back);完全,彻底,非常(thoroughly) reject,recede,return,revert,resplendent,reticent,repertoire,resolve,regress
 
-**retro** 向后(backward) retrograde,retrospect,retroactive
+**retro** 向后(backward) retrograde,retrospect,retroactive,retrogress
+
+**trans** 
 
 ### 后缀 ###
 
@@ -108,6 +120,12 @@
 
 **geni** 内在性质,天赋(innate quality, inborn talent) genius,ingenious,genial,congenial
 
+**glomerat**
+
+**greg** 
+
+**gress** 步,行走(step) progress,regress,digress,ingress,transgress,egress,aggress,retrogress
+
 **he(r)** 粘住,附着,紧抓(stick, cling, hold fast) adhere,cohere,hesitate,cohesive
 
 **heri(heir,here)** 后继,继承(successor, one who inherits property) heritage,heir,inherit,heirloom,heredity
@@ -120,21 +138,27 @@
 
 **lustr** 光(illumine,brighten) lustrous,illustrious,illustrate,lustre(luster)
 
+**lut,luv,lug** 洗(wash) ablution,dilute,deluge,antediluvian,alluvial
+
 **not** 使知道,发现(gotten to know, found out);标记,符号(mark,sign) notorious,notice,notion,notify,note,annotate,keynote,notary,notarize,denote
 
 **oner** 负担(burden, load) exonerate,onerous
 
 **rog** 问,索求(ask,request) interrogate,abrogate,surrogate,prerogative,derogatory
 
-**tin(tain,ten,tent)** (hold) continent,pertinent,continuous,maintain,detention,content,contain
+**tend** 倾向 distend,intend,extend,attend
 
 **terr** 土地(earth,land) territory,terrain,Mediterranean
 
 **terr** 恐吓(frighten) terror,terrible,terrific
 
+**tin(tain,ten,tent)** (hold) continent,pertinent,continuous,maintain,detention,content,contain
+
 **tom** 切(cut) anatomy,atom,appendectomy(有很多tomy结尾的表示某种切除手术)
 
 **tum** 肿(swell);干扰,障碍,紊乱,骚乱(disturbance);骚动(uproar) tumor,tumid,tumescent,contumacious,tumult,tumultuous
+
+**vent** 来(come) advent,invent,event,prevent
 
 **vert** 转(turn) invert,revert,divert,avert,extrovert,introvert,vertigo
 
