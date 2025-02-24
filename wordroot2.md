@@ -16,7 +16,7 @@
 
 **di(s)** 分开(apart);否定(not) distant,distract,disrupt,disease,disinter,dislocate,disband,dilatory,divest,digress,digest,dilate,divert,disperse
 
-**e** 超出,偏离(out of,from) egress
+**e** 超出,偏离(out of,from) egress,emerge,eject
 
 **ec** 超出,偏离(out of,from) eccentric,ecstasy,eclipse
 
@@ -35,6 +35,8 @@
 **in** 内(in),在...上(on),向内(into) ingress
 
 **infra** 在...之下;在下部 infrared,infrastructure
+
+**inter** (between, within, among) internet,interrupt,intercept,intersection,interact
 
 **intro** 内,在...之内(within) intrinsic,introspective,introvert
 
@@ -56,7 +58,9 @@
 
 **retro** 向后(backward) retrograde,retrospect,retroactive,retrogress
 
-**trans** 
+**se** 分开(apart) secret,select,separate,secede,seclude
+
+**trans** 横过,穿越(across, through) transport,transgress,transfer,translate,transform
 
 ### 后缀 ###
 
@@ -112,7 +116,17 @@
 
 **caust** 烧,红热(burnt,red hot) caustic,cauterize,cautery,holocaust
 
+**ceiv** (take) perceive,conceive,deceive,receive
+
+**cept** (taken, seized) accept,except,intercept,susceptible
+
+**clud** 关,闭(shut, close) include,exclude,conclude,seclude,recluse
+
 **cogn** 知道,认识(learn, know) cognition,recognize,cognoscenti,connoisseur,incognito,reconnoiter,reconnaissance
+
+**cret** 筛选,识别,分离(sift, discern, separate) discrete,discretion,excrete,secret
+
+**cret** 生长,扩大(grow) accrete,concrete
 
 **cuss** 打(strike) percussion,repercussion,concuss
 
@@ -120,15 +134,17 @@
 
 **geni** 内在性质,天赋(innate quality, inborn talent) genius,ingenious,genial,congenial
 
-**glomerat**
+**glomerat** 聚集成团,积累(gathered into a ball-shaped mass, accumulated) agglomerate,conglomerate,glomerular
 
-**greg** 
+**greg** 聚集,群集(flock) aggregate,gregarious,congregate,segregate,egregious
 
 **gress** 步,行走(step) progress,regress,digress,ingress,transgress,egress,aggress,retrogress
 
 **he(r)** 粘住,附着,紧抓(stick, cling, hold fast) adhere,cohere,hesitate,cohesive
 
 **heri(heir,here)** 后继,继承(successor, one who inherits property) heritage,heir,inherit,heirloom,heredity
+
+**lat** 宽(wide) dilate,dilatory,latitude
 
 **luc** 光,透明,清晰(light,brightness,clarity) pellucid,elucidate,lucid,translucent
 
@@ -145,6 +161,8 @@
 **oner** 负担(burden, load) exonerate,onerous
 
 **rog** 问,索求(ask,request) interrogate,abrogate,surrogate,prerogative,derogatory
+
+**rupt** (burst) disrupt,interrupt,erupt,abrupt,rupture,corrupt
 
 **tend** 倾向 distend,intend,extend,attend
 
