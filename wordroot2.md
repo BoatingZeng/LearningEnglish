@@ -1,5 +1,7 @@
 ### 前缀 ###
 
+**ac,ad,af,ag,al,an,ap,ar,as,at,a** 向(to,toward)
+
 **ab** 偏离(away);来自(from) abdicate,abduct,aboriginal
 
 **ad** 向(to,toward) advertise,adventure,adapt,adhere,adverb,adjective
@@ -45,6 +47,8 @@
 **ob** 阻碍,反对,对面(against) obstacle,object,obstruct
 
 **ob** 彻底的(thoroughly) obnoxious,obscure
+
+**ob** (to, toward) obtain,observe,oblige
 
 **omni** 总,全,遍(all) omnibus,omniscient,omnipotent,omnipresent
 
@@ -116,6 +120,10 @@
 
 **caust** 烧,红热(burnt,red hot) caustic,cauterize,cautery,holocaust
 
+**ced** (go,move) precede,secede,accede,antecede,recede,intercede,procedure
+
+**cede** (yield) cede,concede
+
 **ceiv** (take) perceive,conceive,deceive,receive
 
 **cept** (taken, seized) accept,except,intercept,susceptible
@@ -163,6 +171,10 @@
 **rog** 问,索求(ask,request) interrogate,abrogate,surrogate,prerogative,derogatory
 
 **rupt** (burst) disrupt,interrupt,erupt,abrupt,rupture,corrupt
+
+**stitut** (set up, decided) restitution,destitute,constitute,institute
+
+**tain** (have, hold) retain,contain,detain,abstain,obtain,pertain,maintain
 
 **tend** 倾向 distend,intend,extend,attend
 
