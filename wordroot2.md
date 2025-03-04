@@ -1,8 +1,12 @@
 ### 前缀 ###
 
-**ac,ad,af,ag,al,an,ap,ar,as,at,a** 向(to,toward)
+**a,an** (not, without) asocial,atom,anonymous
+
+**a,ac,ad,af,ag,al,an,ap,ar,as,at** 向(to,toward)
 
 **ab** 偏离(away);来自(from) abdicate,abduct,aboriginal
+
+**abs** (away, from) abstruse,abstinence,abstract,abscond,abstain
 
 **ad** 向(to,toward) advertise,adventure,adapt,adhere,adverb,adjective
 
@@ -14,6 +18,8 @@
 
 **cata** 完全(thoroughly) catastrophe,catalog,cataclysm
 
+**con** (thoroughly,with,together) connive,conscript,confident,conclude,connect,convene,consensus,consent,concise
+
 **de** 离开,除掉,去掉(off);来自(from);向下;相反;完全(thoroughly) decapitate,demote,derive,deduce,deject,decry,decease
 
 **di(s)** 分开(apart);否定(not) distant,distract,disrupt,disease,disinter,dislocate,disband,dilatory,divest,digress,digest,dilate,divert,disperse
@@ -21,6 +27,8 @@
 **e** 超出,偏离(out of,from) egress,emerge,eject
 
 **ec** 超出,偏离(out of,from) eccentric,ecstasy,eclipse
+
+**epi**
 
 **ex** 超出,偏离(out of,from);彻底(throughly) exit,exclude,exceed,exclaim,exact,exhaust,exhilarate
 
@@ -43,6 +51,8 @@
 **intro** 内,在...之内(within) intrinsic,introspective,introvert
 
 **mal** 糟糕,坏,错误(bad,evil) mulfunction,mulformed,maltreat,malice
+
+**meta**
 
 **ob** 阻碍,反对,对面(against) obstacle,object,obstruct
 
@@ -114,6 +124,10 @@
 
 **ag** 做(do, act, drive) agenda,agent,agitate,agile,coagulate
 
+**anthrop** (human) anthropology,anthropoid,misanthrope,anthropocentric,anthropomorphic
+
+**apt,ept** (suitable, fit) apt,aptitude,adept,adapt,inept
+
 **cand** 亮白,发光,热(be of brilliant whiteness, shine, be hot) candor,candid,incendiary,incandescent,candle,candelabrum,candidate
 
 **carn** 肉(meat) carnal,carnage,carnation,carnival,carrion,incarnate
@@ -124,13 +138,19 @@
 
 **cede** (yield) cede,concede
 
-**ceiv** (take) perceive,conceive,deceive,receive
+**ceiv** (take) perceive,conceive,deceive,receive,incisive,incise
+
+**centr** (center) central,concentrate,geocentric,heliocentric,egocentric,centripetal,centrifugal,epicenter
 
 **cept** (taken, seized) accept,except,intercept,susceptible
+
+**cis** (cut) decide,homicide,herbicide
 
 **clud** 关,闭(shut, close) include,exclude,conclude,seclude,recluse
 
 **cogn** 知道,认识(learn, know) cognition,recognize,cognoscenti,connoisseur,incognito,reconnoiter,reconnaissance
+
+**cond** (hide, put away) ensconce,recondite,abscond,condiment
 
 **cret** 筛选,识别,分离(sift, discern, separate) discrete,discretion,excrete,secret
 
@@ -138,7 +158,11 @@
 
 **cuss** 打(strike) percussion,repercussion,concuss
 
+**ego** 我(I) egotist,egotistical,egotism,egomaniac
+
 **err** 游荡(wander);错误(make a mistake) errant,errand,erratic,aberrant,error
+
+**fug**
 
 **geni** 内在性质,天赋(innate quality, inborn talent) genius,ingenious,genial,congenial
 
@@ -164,13 +188,23 @@
 
 **lut,luv,lug** 洗(wash) ablution,dilute,deluge,antediluvian,alluvial
 
+**morph** (shape, form) metamorphose,amorphous,polymorph,morpheme,morphology
+
+**mur**
+
 **not** 使知道,发现(gotten to know, found out);标记,符号(mark,sign) notorious,notice,notion,notify,note,annotate,keynote,notary,notarize,denote
 
 **oner** 负担(burden, load) exonerate,onerous
 
+**onym**
+
+**phil** (love) philosophy,philanthropist,philology
+
 **rog** 问,索求(ask,request) interrogate,abrogate,surrogate,prerogative,derogatory
 
 **rupt** (burst) disrupt,interrupt,erupt,abrupt,rupture,corrupt
+
+**soph**
 
 **stitut** (set up, decided) restitution,destitute,constitute,institute
 
@@ -189,6 +223,8 @@
 **tum** 肿(swell);干扰,障碍,紊乱,骚乱(disturbance);骚动(uproar) tumor,tumid,tumescent,contumacious,tumult,tumultuous
 
 **vent** 来(come) advent,invent,event,prevent
+
+**verg**
 
 **vert** 转(turn) invert,revert,divert,avert,extrovert,introvert,vertigo
 
