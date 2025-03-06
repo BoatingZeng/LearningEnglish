@@ -48,4 +48,6 @@
 
 **throw in** include
 
+**wind down** (使)逐步收缩;(使)降级;(使)逐步结束;放松;放松一下;逐渐平静下来
+
 **writ large** 显而易见

@@ -28,7 +28,7 @@
 
 **ec** 超出,偏离(out of,from) eccentric,ecstasy,eclipse
 
-**epi**
+**epi** (upon, over) epidemic,epidermis,epilogue,epicenter,epigram,epigraph
 
 **ex** 超出,偏离(out of,from);彻底(throughly) exit,exclude,exceed,exclaim,exact,exhaust,exhilarate
 
@@ -52,7 +52,7 @@
 
 **mal** 糟糕,坏,错误(bad,evil) mulfunction,mulformed,maltreat,malice
 
-**meta**
+**meta** (beyond, change) metaphor,metamorphose,metabolic,metaphysics
 
 **ob** 阻碍,反对,对面(against) obstacle,object,obstruct
 
@@ -61,6 +61,8 @@
 **ob** (to, toward) obtain,observe,oblige
 
 **omni** 总,全,遍(all) omnibus,omniscient,omnipotent,omnipresent
+
+**pan** (all) panacea,pandemic,pandemonium,panorama,pantheon
 
 **para** 平行,并行,与...一起(beside, alongside) paradox,parallel,parasite,paramount
 
@@ -152,11 +154,19 @@
 
 **cond** (hide, put away) ensconce,recondite,abscond,condiment
 
+**crat**
+
 **cret** 筛选,识别,分离(sift, discern, separate) discrete,discretion,excrete,secret
 
 **cret** 生长,扩大(grow) accrete,concrete
 
 **cuss** 打(strike) percussion,repercussion,concuss
+
+**dem** (people) endemic,epidemic,pandemic,democracy,demography
+
+**divid**
+
+**divis**
 
 **ego** 我(I) egotist,egotistical,egotism,egomaniac
 
@@ -167,6 +177,8 @@
 **geni** 内在性质,天赋(innate quality, inborn talent) genius,ingenious,genial,congenial
 
 **glomerat** 聚集成团,积累(gathered into a ball-shaped mass, accumulated) agglomerate,conglomerate,glomerular
+
+**gram**
 
 **greg** 聚集,群集(flock) aggregate,gregarious,congregate,segregate,egregious
 
@@ -199,6 +211,12 @@
 **onym**
 
 **phil** (love) philosophy,philanthropist,philology
+
+**phor**
+
+**puls**
+
+**reg**
 
 **rog** 问,索求(ask,request) interrogate,abrogate,surrogate,prerogative,derogatory
 
