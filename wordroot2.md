@@ -76,6 +76,8 @@
 
 **se** 分开(apart) secret,select,separate,secede,seclude
 
+**sur**
+
 **trans** 横过,穿越(across, through) transport,transgress,transfer,translate,transform
 
 ### 后缀 ###
@@ -154,7 +156,7 @@
 
 **cond** (hide, put away) ensconce,recondite,abscond,condiment
 
-**crat**
+**crat** (rule) democrat,aristocrat,plutocrat,technocrat,bureaucrat,autocrat
 
 **cret** 筛选,识别,分离(sift, discern, separate) discrete,discretion,excrete,secret
 
@@ -164,15 +166,25 @@
 
 **dem** (people) endemic,epidemic,pandemic,democracy,demography
 
-**divid**
+**divid** (separate into parts) divide,individual,dividend
 
-**divis**
+**divis** (separate into parts) divisive,division,divisor
 
 **ego** 我(I) egotist,egotistical,egotism,egomaniac
 
 **err** 游荡(wander);错误(make a mistake) errant,errand,erratic,aberrant,error
 
-**fug**
+**feit** (made, done) surfeit,counterfeit,forfeit
+
+**fest** (feast, holidays) fete,festal,festive,festoon,gabfest
+
+**for** (outside) foreclose,foreign,forecast,forfeit
+
+**fug** (flee) subterfuge,refuge,centrifugal,fugitive
+
+**gen** (born, produced) progeny,progenitor,indigenous,generate,gene
+
+**gen** (kind, type, class) generic,homogeneous,genre,general,genus
 
 **geni** 内在性质,天赋(innate quality, inborn talent) genius,ingenious,genial,congenial
 
@@ -200,6 +212,10 @@
 
 **lut,luv,lug** 洗(wash) ablution,dilute,deluge,antediluvian,alluvial
 
+**man**
+
+**mit**
+
 **morph** (shape, form) metamorphose,amorphous,polymorph,morpheme,morphology
 
 **mur**
@@ -209,6 +225,10 @@
 **oner** 负担(burden, load) exonerate,onerous
 
 **onym**
+
+**oram**
+
+**pend,pens**
 
 **phil** (love) philosophy,philanthropist,philology
 
@@ -243,6 +263,8 @@
 **vent** 来(come) advent,invent,event,prevent
 
 **verg**
+
+**vers**
 
 **vert** 转(turn) invert,revert,divert,avert,extrovert,introvert,vertigo
 
