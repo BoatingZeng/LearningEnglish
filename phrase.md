@@ -42,6 +42,8 @@
 
 **pound key** 井号键
 
+**stay tuned** 继续收听;继续关注事情的发展;别换频道;敬请期待
+
 **take a dip** 泡个澡;去游泳;为时不长的游泳
 
 **the last streach** the last or final moments before an ending

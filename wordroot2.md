@@ -20,6 +20,8 @@
 
 **con** (thoroughly,with,together) connive,conscript,confident,conclude,connect,convene,consensus,consent,concise
 
+**contra** (opposite, against) contradict,contrast,contrary,contraindicate
+
 **de** 离开,除掉,去掉(off);来自(from);向下;相反;完全(thoroughly) decapitate,demote,derive,deduce,deject,decry,decease
 
 **di(s)** 分开(apart);否定(not) distant,distract,disrupt,disease,disinter,dislocate,disband,dilatory,divest,digress,digest,dilate,divert,disperse
@@ -39,6 +41,8 @@
 **holo** 全 holocaust,hologram
 
 **hydr(o)** 水,氢 hydrogen,hydrant,hydrophobic
+
+**idio** (own, personal, private) idiosyncratic,idiocy,idiom,idiot
 
 **im** 否定(not);向...内(in);在...上(on) improvise,imbibe,immanent
 
@@ -76,7 +80,11 @@
 
 **se** 分开(apart) secret,select,separate,secede,seclude
 
-**sur**
+**sur** (over, above) surreal,surmount,surfeit,surface,surpass,survey
+
+**sur** (under) surreptitious,surrogate,surmise
+
+**syn** (with, together) synergy,synchronize,synonym,symphony,symptom,sympathy,synapse,synthesis,symmetry
 
 **trans** 横过,穿越(across, through) transport,transgress,transfer,translate,transform
 
@@ -190,7 +198,7 @@
 
 **glomerat** 聚集成团,积累(gathered into a ball-shaped mass, accumulated) agglomerate,conglomerate,glomerular
 
-**gram**
+**gram** (line, stroke of a pen, letter) epigram,diagram,hologram,grammar,program,telegram
 
 **greg** 聚集,群集(flock) aggregate,gregarious,congregate,segregate,egregious
 
@@ -229,6 +237,8 @@
 **oram**
 
 **pend,pens**
+
+**pet**
 
 **phil** (love) philosophy,philanthropist,philology
 
@@ -269,6 +279,10 @@
 **vert** 转(turn) invert,revert,divert,avert,extrovert,introvert,vertigo
 
 **vest** 衣服,服装(clothing, garments) vest,divest,travesty,invest,vestment
+
+**vey**
+
+**vibr**
 
 **vin** 葡萄酒(wine) vine,vinegar,vintage
 
