@@ -32,6 +32,8 @@
 
 **epi** (upon, over) epidemic,epidermis,epilogue,epicenter,epigram,epigraph
 
+**eu**
+
 **ex** 超出,偏离(out of,from);彻底(throughly) exit,exclude,exceed,exclaim,exact,exhaust,exhilarate
 
 **exo** 外(outside) exotic,exoskeleton,exothermic
@@ -41,6 +43,8 @@
 **holo** 全 holocaust,hologram
 
 **hydr(o)** 水,氢 hydrogen,hydrant,hydrophobic
+
+**hypo** (under, below) hypodermic,hypothermia,hypocritical,hypotenuse,hypothesis
 
 **idio** (own, personal, private) idiosyncratic,idiocy,idiom,idiot
 
@@ -71,6 +75,8 @@
 **para** 平行,并行,与...一起(beside, alongside) paradox,parallel,parasite,paramount
 
 **per** 通过(through);彻底(thoroughly) permit,persevere
+
+**peri**
 
 **pro** 在前 proactive,profess,progress
 
@@ -170,6 +176,8 @@
 
 **cret** 生长,扩大(grow) accrete,concrete
 
+**crit** (judge) critical,hypocritical,critic,criterion
+
 **cuss** 打(strike) percussion,repercussion,concuss
 
 **dem** (people) endemic,epidemic,pandemic,democracy,demography
@@ -220,29 +228,33 @@
 
 **lut,luv,lug** 洗(wash) ablution,dilute,deluge,antediluvian,alluvial
 
-**man**
+**man** (hand) manipulate,manual,manufacture,manage,manuscript
 
-**mit**
+**mit** (stay, remain) remnant,immanent,permanent
 
 **morph** (shape, form) metamorphose,amorphous,polymorph,morpheme,morphology
 
-**mur**
+**mun** (gift, public service) munificent,immune,remunerate,municipal
+
+**mur** (wall) immure,mural,extramural,intermural,intramural
 
 **not** 使知道,发现(gotten to know, found out);标记,符号(mark,sign) notorious,notice,notion,notify,note,annotate,keynote,notary,notarize,denote
 
 **oner** 负担(burden, load) exonerate,onerous
 
-**onym**
+**onym** (name) anonym,pseudonym,synonym,antonym,homonym
 
-**oram**
+**oram** (sight, view) diorama,panorama
 
-**pend,pens**
+**pend,pens** (hang, weigh) dependent,suspend,pensive
 
-**pet**
+**pend,pens** 花费 expend,expense,recompense,compensate
+
+**pet** (seek, attack, go for) petulant,competent,perpetuate,compete,appetite,petition,repeat,repetitive
 
 **phil** (love) philosophy,philanthropist,philology
 
-**phor**
+**phor,pher** (a carrying) metaphor,euphoria,semaphore,periphery,paraphernalia,pheromone
 
 **puls**
 
