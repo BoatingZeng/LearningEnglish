@@ -62,6 +62,8 @@
 
 **meta** (beyond, change) metaphor,metamorphose,metabolic,metaphysics
 
+**mono**
+
 **ob** 阻碍,反对,对面(against) obstacle,object,obstruct
 
 **ob** 彻底的(thoroughly) obnoxious,obscure
@@ -77,6 +79,8 @@
 **per** 通过(through);彻底(thoroughly) permit,persevere
 
 **peri**
+
+**poly**
 
 **pro** 在前 proactive,profess,progress
 
@@ -185,6 +189,8 @@
 **divid** (separate into parts) divide,individual,dividend
 
 **divis** (separate into parts) divisive,division,divisor
+
+**doc**
 
 **ego** 我(I) egotist,egotistical,egotism,egomaniac
 
