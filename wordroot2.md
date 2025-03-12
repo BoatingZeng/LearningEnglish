@@ -14,6 +14,8 @@
 
 **ante** 在...前(before) anteroom,antedate,antecedent,antecede
 
+**apo** (away, from) apocryphal,apogee,apostate,apology,apostrophe
+
 **at** 向(to,toward) attract,attend,attempt,attain,attenuate
 
 **cata** 完全(thoroughly) catastrophe,catalog,cataclysm
@@ -32,7 +34,7 @@
 
 **epi** (upon, over) epidemic,epidermis,epilogue,epicenter,epigram,epigraph
 
-**eu**
+**eu** (well) euphoria,euphony,euphoric,euphemism,eulogy
 
 **ex** 超出,偏离(out of,from);彻底(throughly) exit,exclude,exceed,exclaim,exact,exhaust,exhilarate
 
@@ -62,7 +64,7 @@
 
 **meta** (beyond, change) metaphor,metamorphose,metabolic,metaphysics
 
-**mono**
+**mono** (one, single) monopoly,monologue,monorail,monk,monarch
 
 **ob** 阻碍,反对,对面(against) obstacle,object,obstruct
 
@@ -78,9 +80,9 @@
 
 **per** 通过(through);彻底(thoroughly) permit,persevere
 
-**peri**
+**peri** (around, near, about) peripatetic,periphery,perigee,perihelion,perimeter,period,periscope
 
-**poly**
+**poly** (many) polygon,polyhedron,polynomial,polymath,polysyllabic
 
 **pro** 在前 proactive,profess,progress
 
@@ -196,6 +198,8 @@
 
 **err** 游荡(wander);错误(make a mistake) errant,errand,erratic,aberrant,error
 
+**fact**
+
 **feit** (made, done) surfeit,counterfeit,forfeit
 
 **fest** (feast, holidays) fete,festal,festive,festoon,gabfest
@@ -236,6 +240,8 @@
 
 **man** (hand) manipulate,manual,manufacture,manage,manuscript
 
+**math**
+
 **mit** (stay, remain) remnant,immanent,permanent
 
 **morph** (shape, form) metamorphose,amorphous,polymorph,morpheme,morphology
@@ -258,7 +264,11 @@
 
 **pet** (seek, attack, go for) petulant,competent,perpetuate,compete,appetite,petition,repeat,repetitive
 
+**phem**
+
 **phil** (love) philosophy,philanthropist,philology
+
+**phon**
 
 **phor,pher** (a carrying) metaphor,euphoria,semaphore,periphery,paraphernalia,pheromone
 
@@ -269,6 +279,12 @@
 **rog** 问,索求(ask,request) interrogate,abrogate,surrogate,prerogative,derogatory
 
 **rupt** (burst) disrupt,interrupt,erupt,abrupt,rupture,corrupt
+
+**scrib**
+
+**script**
+
+**simil**
 
 **soph**
 
@@ -287,6 +303,8 @@
 **tom** 切(cut) anatomy,atom,appendectomy(有很多tomy结尾的表示某种切除手术)
 
 **tum** 肿(swell);干扰,障碍,紊乱,骚乱(disturbance);骚动(uproar) tumor,tumid,tumescent,contumacious,tumult,tumultuous
+
+**trit**
 
 **vent** 来(come) advent,invent,event,prevent
 
