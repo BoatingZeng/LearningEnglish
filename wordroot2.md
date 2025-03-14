@@ -18,6 +18,8 @@
 
 **at** 向(to,toward) attract,attend,attempt,attain,attenuate
 
+**bene** (well) benefit,benefaction,benefactor,benign,benevolent
+
 **cata** 完全(thoroughly) catastrophe,catalog,cataclysm
 
 **con** (thoroughly,with,together) connive,conscript,confident,conclude,connect,convene,consensus,consent,concise
@@ -128,6 +130,8 @@
 
 **ice** 构成名词,有...性质 service,justice,cowardice
 
+**ile** (tending to do or be something) servile,docile,tactile,volatile
+
 **ion** 构成名词;表示行为的过程;表示状态,情况(act,state,or result of doing something) operation,commutation,translation
 
 **ive** 构成形容词;与...有关的(of or that which does something);倾向于...活动的 abortive,impassive
@@ -148,6 +152,8 @@
 
 **ag** 做(do, act, drive) agenda,agent,agitate,agile,coagulate
 
+**am**
+
 **anthrop** (human) anthropology,anthropoid,misanthrope,anthropocentric,anthropomorphic
 
 **apt,ept** (suitable, fit) apt,aptitude,adept,adapt,inept
@@ -163,6 +169,10 @@
 **cede** (yield) cede,concede
 
 **ceiv** (take) perceive,conceive,deceive,receive,incisive,incise
+
+**cent** (hundred) percent,century,centennial,centimeter
+
+**cent** (sing) accent,accentuate,incentive
 
 **centr** (center) central,concentrate,geocentric,heliocentric,egocentric,centripetal,centrifugal,epicenter
 
@@ -192,13 +202,17 @@
 
 **divis** (separate into parts) divisive,division,divisor
 
-**doc**
+**doc** (teach) doctrine,docile,docent,doctor,document
+
+**dot**
 
 **ego** 我(I) egotist,egotistical,egotism,egomaniac
 
+**enn**
+
 **err** 游荡(wander);错误(make a mistake) errant,errand,erratic,aberrant,error
 
-**fact**
+**fact** (made, done) factual,factory,manufacture,artifact,malefactor,benefactor
 
 **feit** (made, done) surfeit,counterfeit,forfeit
 
@@ -216,7 +230,11 @@
 
 **glomerat** 聚集成团,积累(gathered into a ball-shaped mass, accumulated) agglomerate,conglomerate,glomerular
 
+**grad**
+
 **gram** (line, stroke of a pen, letter) epigram,diagram,hologram,grammar,program,telegram
+
+**gran**
 
 **greg** 聚集,群集(flock) aggregate,gregarious,congregate,segregate,egregious
 
@@ -238,6 +256,8 @@
 
 **lut,luv,lug** 洗(wash) ablution,dilute,deluge,antediluvian,alluvial
 
+**mal**
+
 **man** (hand) manipulate,manual,manufacture,manage,manuscript
 
 **math**
@@ -251,6 +271,8 @@
 **mur** (wall) immure,mural,extramural,intermural,intramural
 
 **not** 使知道,发现(gotten to know, found out);标记,符号(mark,sign) notorious,notice,notion,notify,note,annotate,keynote,notary,notarize,denote
+
+**nov**
 
 **oner** 负担(burden, load) exonerate,onerous
 
@@ -280,6 +302,8 @@
 
 **rupt** (burst) disrupt,interrupt,erupt,abrupt,rupture,corrupt
 
+**sat**
+
 **scrib**
 
 **script**
@@ -288,7 +312,11 @@
 
 **soph**
 
+**sper**
+
 **stitut** (set up, decided) restitution,destitute,constitute,institute
+
+**tact**
 
 **tain** (have, hold) retain,contain,detain,abstain,obtain,pertain,maintain
 
@@ -323,5 +351,7 @@
 **vin** 葡萄酒(wine) vine,vinegar,vintage
 
 **vok** 叫,喊(call, call upon) convoke,evoke,provoke,invoke,revoke
+
+**volat**
 
 **vor** 吃(eat) voracious,herbivore,herbivorous,carnivore,insectivore,omnivore,devour
