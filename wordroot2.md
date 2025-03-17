@@ -152,7 +152,9 @@
 
 **ag** 做(do, act, drive) agenda,agent,agitate,agile,coagulate
 
-**am**
+**am** (love) amorous,amenity,enamored,enamor,amateur
+
+**ami** (friend) amity,amicable,amiable
 
 **anthrop** (human) anthropology,anthropoid,misanthrope,anthropocentric,anthropomorphic
 
@@ -204,11 +206,11 @@
 
 **doc** (teach) doctrine,docile,docent,doctor,document
 
-**dot**
+**dot** (give) anecdote
 
 **ego** 我(I) egotist,egotistical,egotism,egomaniac
 
-**enn**
+**enn** (year) perennial,millennium,biennium,centennial
 
 **err** 游荡(wander);错误(make a mistake) errant,errand,erratic,aberrant,error
 
@@ -230,7 +232,7 @@
 
 **glomerat** 聚集成团,积累(gathered into a ball-shaped mass, accumulated) agglomerate,conglomerate,glomerular
 
-**grad**
+**grad** (step) grade,graduate,gradual,centigrade,graduated
 
 **gram** (line, stroke of a pen, letter) epigram,diagram,hologram,grammar,program,telegram
 
@@ -293,6 +295,8 @@
 **phon**
 
 **phor,pher** (a carrying) metaphor,euphoria,semaphore,periphery,paraphernalia,pheromone
+
+**preci**
 
 **puls**
 
