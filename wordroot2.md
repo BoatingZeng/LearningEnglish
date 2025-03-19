@@ -28,6 +28,8 @@
 
 **de** 离开,除掉,去掉(off);来自(from);向下;相反;完全(thoroughly) decapitate,demote,derive,deduce,deject,decry,decease
 
+**dif** (apart, not, away from) diffuse,diffident,different,difficult,diffraction
+
 **di(s)** 分开(apart);否定(not) distant,distract,disrupt,disease,disinter,dislocate,disband,dilatory,divest,digress,digest,dilate,divert,disperse
 
 **e** 超出,偏离(out of,from) egress,emerge,eject
@@ -136,6 +138,8 @@
 
 **ive** 构成形容词;与...有关的(of or that which does something);倾向于...活动的 abortive,impassive
 
+**itude** (state or quality of) latitude,turpitude,platitude,fortitude,magnitude
+
 **ity** 构成名词,表状态或性质(state or quality) gravity,enormity,luminosity,verity
 
 **ment** 表性质、状态;行为或结果 development
@@ -214,13 +218,27 @@
 
 **err** 游荡(wander);错误(make a mistake) errant,errand,erratic,aberrant,error
 
+**facil** (easy, easily accomplished) facile,facilitate,facilitator,facility
+
 **fact** (made, done) factual,factory,manufacture,artifact,malefactor,benefactor
 
 **feit** (made, done) surfeit,counterfeit,forfeit
 
+**fer**
+
 **fest** (feast, holidays) fete,festal,festive,festoon,gabfest
 
+**fic**
+
+**fid**
+
 **for** (outside) foreclose,foreign,forecast,forfeit
+
+**fort**
+
+**fract**
+
+**fus**
 
 **fug** (flee) subterfuge,refuge,centrifugal,fugitive
 
@@ -257,6 +275,8 @@
 **lustr** 光(illumine,brighten) lustrous,illustrious,illustrate,lustre(luster)
 
 **lut,luv,lug** 洗(wash) ablution,dilute,deluge,antediluvian,alluvial
+
+**magn**
 
 **mal**
 
