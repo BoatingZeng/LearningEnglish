@@ -6,6 +6,8 @@
 
 **be blown away** be suprised and amazed
 
+**brush up** 复习;擦亮;提高(技巧等)
+
 **bun in the oven** 怀孕
 
 **charge(cost) an arm and a leg** 极其昂贵

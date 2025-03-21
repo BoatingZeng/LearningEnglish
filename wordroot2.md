@@ -224,13 +224,15 @@
 
 **feit** (made, done) surfeit,counterfeit,forfeit
 
-**fer**
+**fer** (carry, bring, bear) transfer,suffer,differ,refer,prefer,fertile,infer,vociferous,circumference
+
+**fer** (wild) ferocious,fierce,feral
 
 **fest** (feast, holidays) fete,festal,festive,festoon,gabfest
 
-**fic**
+**fic** (make, do) deficient,difficult,purification,certification,pacific
 
-**fid**
+**fid** (trust, faith) confident,fidelity,confidant,perfidious,confide,diffident
 
 **for** (outside) foreclose,foreign,forecast,forfeit
 
@@ -302,6 +304,8 @@
 
 **oram** (sight, view) diorama,panorama
 
+**pac**
+
 **pend,pens** (hang, weigh) dependent,suspend,pensive
 
 **pend,pens** 花费 expend,expense,recompense,compensate
@@ -317,6 +321,8 @@
 **phor,pher** (a carrying) metaphor,euphoria,semaphore,periphery,paraphernalia,pheromone
 
 **preci**
+
+**prop**
 
 **puls**
 
