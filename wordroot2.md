@@ -36,6 +36,8 @@
 
 **ec** 超出,偏离(out of,from) eccentric,ecstasy,eclipse
 
+**ef**
+
 **epi** (upon, over) epidemic,epidermis,epilogue,epicenter,epigram,epigraph
 
 **eu** (well) euphoria,euphony,euphoric,euphemism,eulogy
@@ -182,7 +184,9 @@
 
 **centr** (center) central,concentrate,geocentric,heliocentric,egocentric,centripetal,centrifugal,epicenter
 
-**cept** (taken, seized) accept,except,intercept,susceptible
+**cept** (taken, seized) accept,except,intercept,susceptible,concept,incept
+
+**cip** (take) recipient,incipient,principle,disciple
 
 **cis** (cut) decide,homicide,herbicide
 
@@ -199,6 +203,8 @@
 **cret** 生长,扩大(grow) accrete,concrete
 
 **crit** (judge) critical,hypocritical,critic,criterion
+
+**curs** (ran, hurried) cursory,discursive,precursor,excursive,excursion,incursion,cursive,cursor
 
 **cuss** 打(strike) percussion,repercussion,concuss
 
@@ -236,11 +242,11 @@
 
 **for** (outside) foreclose,foreign,forecast,forfeit
 
-**fort**
+**fort** (strong, vigorous, powerful) fortress,fortify,effort,reinforce,comfort,forte
 
-**fract**
+**fract** (broken, crushed) refract,fracture,fractious,fraction,infraction
 
-**fus**
+**fus** (pour) fuse,suffuse,infuse,defuse,refuse,confuse,effusive,profuse,diffuse
 
 **fug** (flee) subterfuge,refuge,centrifugal,fugitive
 
