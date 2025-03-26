@@ -108,6 +108,8 @@
 
 ### 后缀 ###
 
+**age**
+
 **al** 与...有关的(of or relating to);表示过程或状态(action, process) practical,emotional,typical,dispersal,reprisal
 
 **ant** 构成形容词或名词;是...的;做...的;...人;...事物;(being in a state or condition) assistant,dominant,defendant,servant,significant,coolant,claimant
@@ -186,6 +188,8 @@
 
 **cept** (taken, seized) accept,except,intercept,susceptible,concept,incept
 
+**cid**
+
 **cip** (take) recipient,incipient,principle,disciple
 
 **cis** (cut) decide,homicide,herbicide
@@ -203,6 +207,8 @@
 **cret** 生长,扩大(grow) accrete,concrete
 
 **crit** (judge) critical,hypocritical,critic,criterion
+
+**cult**
 
 **curs** (ran, hurried) cursory,discursive,precursor,excursive,excursion,incursion,cursive,cursor
 
@@ -272,6 +278,8 @@
 
 **heri(heir,here)** 后继,继承(successor, one who inherits property) heritage,heir,inherit,heirloom,heredity
 
+**integr**
+
 **lat** 宽(wide) dilate,dilatory,latitude
 
 **luc** 光,透明,清晰(light,brightness,clarity) pellucid,elucidate,lucid,translucent
@@ -300,9 +308,17 @@
 
 **mur** (wall) immure,mural,extramural,intermural,intramural
 
+**nasc** (be born) nascent,Renaissance,renascent
+
+**nat** (born) innate,naive,preternatural,native,nation,cognate,postnatal,prenatal
+
+**neo**
+
 **not** 使知道,发现(gotten to know, found out);标记,符号(mark,sign) notorious,notice,notion,notify,note,annotate,keynote,notary,notarize,denote
 
 **nov**
+
+**omin**
 
 **oner** 负担(burden, load) exonerate,onerous
 
@@ -332,6 +348,10 @@
 
 **puls**
 
+**rat**
+
+**rect**
+
 **reg**
 
 **rog** 问,索求(ask,request) interrogate,abrogate,surrogate,prerogative,derogatory
@@ -344,7 +364,11 @@
 
 **script**
 
+**scrut**
+
 **simil**
+
+**sin**
 
 **soph**
 
@@ -352,25 +376,35 @@
 
 **stitut** (set up, decided) restitution,destitute,constitute,institute
 
+**sult**
+
 **tact**
 
 **tain** (have, hold) retain,contain,detain,abstain,obtain,pertain,maintain
 
-**tend** 倾向 distend,intend,extend,attend
+**temper**
+
+**tend** 倾向,伸展(stretch) distend,intend,extend,attend,tender
 
 **terr** 土地(earth,land) territory,terrain,Mediterranean
 
 **terr** 恐吓(frighten) terror,terrible,terrific
 
-**tin(tain,ten,tent)** (hold) continent,pertinent,continuous,maintain,detention,content,contain
+**test**
+
+**tin(tain,ten,tent)** (hold) continent,pertinent,continuous,maintain,detention,content,contain,tenacious
 
 **tom** 切(cut) anatomy,atom,appendectomy(有很多tomy结尾的表示某种切除手术)
+
+**toxic**
 
 **tum** 肿(swell);干扰,障碍,紊乱,骚乱(disturbance);骚动(uproar) tumor,tumid,tumescent,contumacious,tumult,tumultuous
 
 **trit**
 
 **vent** 来(come) advent,invent,event,prevent
+
+**verb**
 
 **verg**
 

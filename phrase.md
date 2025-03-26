@@ -36,15 +36,23 @@
 
 **next to nothing** 几乎没有
 
+**over-the-counter(OTC)** 非处方(药)
+
 **on (a) par with** 与...平分秋色
 
 **peace out** 再见
+
+**pep talk** 鼓舞的话
 
 **pink slip** 解雇通知书
 
 **pound key** 井号键
 
 **stay tuned** 继续收听;继续关注事情的发展;别换频道;敬请期待
+
+**stumble across** 偶尔发现
+
+**stumble on** 碰上
 
 **take a dip** 泡个澡;去游泳;为时不长的游泳
 
