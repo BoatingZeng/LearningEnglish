@@ -26,11 +26,19 @@
 
 **freak out** 崩溃;极度兴奋
 
+**get off work(shift)** (换)下班
+
 **hang loose** 放松
 
 **high pitched** 高音调的
 
+**hit upon** 碰巧发现;忽然想出
+
 **in(on) tap** 随时能取用的(酒);随时能买到的(债券的);〔美俚〕手边的
+
+**jet lag** 时差反应
+
+**last ditch** 最终手段;最后防线
 
 **lose it** 情绪失控
 
@@ -39,6 +47,8 @@
 **over-the-counter(OTC)** 非处方(药)
 
 **on (a) par with** 与...平分秋色
+
+**order in** 叫外卖
 
 **peace out** 再见
 

@@ -196,6 +196,8 @@
 
 **clud** 关,闭(shut, close) include,exclude,conclude,seclude,recluse
 
+**coc**
+
 **cogn** 知道,认识(learn, know) cognition,recognize,cognoscenti,connoisseur,incognito,reconnoiter,reconnaissance
 
 **cond** (hide, put away) ensconce,recondite,abscond,condiment
@@ -245,6 +247,8 @@
 **fic** (make, do) deficient,difficult,purification,certification,pacific
 
 **fid** (trust, faith) confident,fidelity,confidant,perfidious,confide,diffident
+
+**fili**
 
 **for** (outside) foreclose,foreign,forecast,forfeit
 
@@ -332,6 +336,8 @@
 
 **pend,pens** 花费 expend,expense,recompense,compensate
 
+**ped**
+
 **pet** (seek, attack, go for) petulant,competent,perpetuate,compete,appetite,petition,repeat,repetitive
 
 **phem**
@@ -358,6 +364,8 @@
 
 **rupt** (burst) disrupt,interrupt,erupt,abrupt,rupture,corrupt
 
+**sanct**
+
 **sat**
 
 **scrib**
@@ -369,6 +377,8 @@
 **simil**
 
 **sin**
+
+**sol**
 
 **soph**
 
