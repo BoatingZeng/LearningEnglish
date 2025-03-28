@@ -58,6 +58,8 @@
 
 **pound key** 井号键
 
+**sales pitch** 销售宣传
+
 **stay tuned** 继续收听;继续关注事情的发展;别换频道;敬请期待
 
 **stumble across** 偶尔发现

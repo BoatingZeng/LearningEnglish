@@ -12,6 +12,8 @@
 
 **ag** 向(to,toward) aggress,aggregate,agglomerate,aggrandize,aggravate
 
+**all**
+
 **ante** 在...前(before) anteroom,antedate,antecedent,antecede
 
 **apo** (away, from) apocryphal,apogee,apostate,apology,apostrophe
@@ -168,11 +170,17 @@
 
 **apt,ept** (suitable, fit) apt,aptitude,adept,adapt,inept
 
+**av**
+
+**bat**
+
 **cand** 亮白,发光,热(be of brilliant whiteness, shine, be hot) candor,candid,incendiary,incandescent,candle,candelabrum,candidate
 
 **carn** 肉(meat) carnal,carnage,carnation,carnival,carrion,incarnate
 
 **caust** 烧,红热(burnt,red hot) caustic,cauterize,cautery,holocaust
+
+**caval**
 
 **ced** (go,move) precede,secede,accede,antecede,recede,intercede,procedure
 
@@ -228,9 +236,13 @@
 
 **ego** 我(I) egotist,egotistical,egotism,egomaniac
 
+**egor**
+
 **enn** (year) perennial,millennium,biennium,centennial
 
 **err** 游荡(wander);错误(make a mistake) errant,errand,erratic,aberrant,error
+
+**ev**
 
 **facil** (easy, easily accomplished) facile,facilitate,facilitator,facility
 
@@ -304,6 +316,8 @@
 
 **math**
 
+**medi**
+
 **mit** (stay, remain) remnant,immanent,permanent
 
 **morph** (shape, form) metamorphose,amorphous,polymorph,morpheme,morphology
@@ -367,6 +381,8 @@
 **sanct**
 
 **sat**
+
+**scend**
 
 **scrib**
 
