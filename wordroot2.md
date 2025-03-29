@@ -152,6 +152,8 @@
 
 **ous,acious,eous,ious,itious,uous** 具有...特质的(of the nature of);多...的(full of, having);有...倾向的(inclined to, abounding in) luminous,famous,anonymous,solicitous,erroneous,courteous,gaseous,tenacious,veracious,rapacious,gracious,odious,fractious,furious,noxious,fictitious,adventitious,surreptitious,contiguous,continuous
 
+**os**
+
 **titis** 炎症 hepatitis,otitis
 
 **ure** ...的行动(或过程,结果等) composure,creature,sculpture
@@ -294,6 +296,8 @@
 
 **heri(heir,here)** 后继,继承(successor, one who inherits property) heritage,heir,inherit,heirloom,heredity
 
+**hibit**
+
 **integr**
 
 **lat** 宽(wide) dilate,dilatory,latitude
@@ -346,6 +350,8 @@
 
 **pac**
 
+**path**
+
 **pend,pens** (hang, weigh) dependent,suspend,pensive
 
 **pend,pens** 花费 expend,expense,recompense,compensate
@@ -389,6 +395,8 @@
 **script**
 
 **scrut**
+
+**sens**
 
 **simil**
 
