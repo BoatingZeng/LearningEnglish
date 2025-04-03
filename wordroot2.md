@@ -12,7 +12,7 @@
 
 **ag** 向(to,toward) aggress,aggregate,agglomerate,aggrandize,aggravate
 
-**all**
+**all** (other, different) allegory,allergy,allergen,parallel
 
 **ante** 在...前(before) anteroom,antedate,antecedent,antecede
 
@@ -23,6 +23,8 @@
 **bene** (well) benefit,benefaction,benefactor,benign,benevolent
 
 **cata** 完全(thoroughly) catastrophe,catalog,cataclysm
+
+**co** (with, together) coagulate,coalition,coalesce,correlate,cohesive,coordinate,coincide,coherent,cohort
 
 **con** (thoroughly,with,together) connive,conscript,confident,conclude,connect,convene,consensus,consent,concise
 
@@ -38,7 +40,7 @@
 
 **ec** 超出,偏离(out of,from) eccentric,ecstasy,eclipse
 
-**ef**
+**ef** (out of, from, thoroughly) efface,effusive,ineffable,effete,effrontery,effervescent,effulgent
 
 **epi** (upon, over) epidemic,epidermis,epilogue,epicenter,epigram,epigraph
 
@@ -122,6 +124,8 @@
 
 **ate** 有...性质的(possessing a certain quality);给予....性质(to make have a certain quality) disparate,desolate,desiccate,vitiate,liquidate,punctuate
 
+**atory**
+
 **en** 形容词后缀 sunken,spoken
 
 **ence** 构成名词,表性质(state or condition) transience,confluence,dependence,luminescence
@@ -150,9 +154,11 @@
 
 **ment** 表性质、状态;行为或结果 development
 
-**ous,acious,eous,ious,itious,uous** 具有...特质的(of the nature of);多...的(full of, having);有...倾向的(inclined to, abounding in) luminous,famous,anonymous,solicitous,erroneous,courteous,gaseous,tenacious,veracious,rapacious,gracious,odious,fractious,furious,noxious,fictitious,adventitious,surreptitious,contiguous,continuous
-
 **os**
+
+**ory**
+
+**ous,acious,eous,ious,itious,uous** 具有...特质的(of the nature of);多...的(full of, having);有...倾向的(inclined to, abounding in) luminous,famous,anonymous,solicitous,erroneous,courteous,gaseous,tenacious,veracious,rapacious,gracious,odious,fractious,furious,noxious,fictitious,adventitious,surreptitious,contiguous,continuous
 
 **titis** 炎症 hepatitis,otitis
 
@@ -222,6 +228,8 @@
 
 **cult**
 
+**curr**
+
 **curs** (ran, hurried) cursory,discursive,precursor,excursive,excursion,incursion,cursive,cursor
 
 **cuss** 打(strike) percussion,repercussion,concuss
@@ -234,6 +242,10 @@
 
 **doc** (teach) doctrine,docile,docent,doctor,document
 
+**dom** (house) domicile,dome,domestic,domesticate,domesticity,domiciliary
+
+**domin**
+
 **dot** (give) anecdote
 
 **ego** 我(I) egotist,egotistical,egotism,egomaniac
@@ -242,9 +254,13 @@
 
 **enn** (year) perennial,millennium,biennium,centennial
 
+**equ**
+
 **err** 游荡(wander);错误(make a mistake) errant,errand,erratic,aberrant,error
 
 **ev**
+
+**fab**
 
 **facil** (easy, easily accomplished) facile,facilitate,facilitator,facility
 
@@ -255,6 +271,8 @@
 **fer** (carry, bring, bear) transfer,suffer,differ,refer,prefer,fertile,infer,vociferous,circumference
 
 **fer** (wild) ferocious,fierce,feral
+
+**ferv**
 
 **fest** (feast, holidays) fete,festal,festive,festoon,gabfest
 
@@ -269,6 +287,8 @@
 **fort** (strong, vigorous, powerful) fortress,fortify,effort,reinforce,comfort,forte
 
 **fract** (broken, crushed) refract,fracture,fractious,fraction,infraction
+
+**fulg**
 
 **fus** (pour) fuse,suffuse,infuse,defuse,refuse,confuse,effusive,profuse,diffuse
 
@@ -298,6 +318,8 @@
 
 **hibit**
 
+**hort**
+
 **integr**
 
 **lat** 宽(wide) dilate,dilatory,latitude
@@ -318,9 +340,13 @@
 
 **man** (hand) manipulate,manual,manufacture,manage,manuscript
 
+**mand**
+
 **math**
 
 **medi**
+
+**merc**
 
 **mit** (stay, remain) remnant,immanent,permanent
 
@@ -347,6 +373,8 @@
 **onym** (name) anonym,pseudonym,synonym,antonym,homonym
 
 **oram** (sight, view) diorama,panorama
+
+**orn**
 
 **pac**
 
@@ -457,5 +485,7 @@
 **vok** 叫,喊(call, call upon) convoke,evoke,provoke,invoke,revoke
 
 **volat**
+
+**volv**
 
 **vor** 吃(eat) voracious,herbivore,herbivorous,carnivore,insectivore,omnivore,devour

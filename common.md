@@ -9,9 +9,11 @@
 * rag 抹布
 * razor 剃刀
 * rinse 冲洗,漂洗
+* scoop 勺(大的那种)
 * sell sth for...(price) 以...价格卖某物
 * set up a stall 摆摊
 * slipper 拖鞋
 * smear 涂抹
+* spoon 匙(小的那种)
 * sweep 扫
 * wring out 拧干
