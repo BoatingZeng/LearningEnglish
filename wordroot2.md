@@ -44,6 +44,8 @@
 
 **epi** (upon, over) epidemic,epidermis,epilogue,epicenter,epigram,epigraph
 
+**equi** (equal) equivocate,equidistant,equilibrium,equipoise,equivalent,equivocal
+
 **eu** (well) euphoria,euphony,euphoric,euphemism,eulogy
 
 **ex** 超出,偏离(out of,from);彻底(throughly) exit,exclude,exceed,exclaim,exact,exhaust,exhilarate
@@ -112,7 +114,7 @@
 
 ### 后缀 ###
 
-**age**
+**age** (to do something, state) envisage,homage,disparage,ravage,advantage,vantage,visage,bondage,carnage
 
 **al** 与...有关的(of or relating to);表示过程或状态(action, process) practical,emotional,typical,dispersal,reprisal
 
@@ -124,7 +126,7 @@
 
 **ate** 有...性质的(possessing a certain quality);给予....性质(to make have a certain quality) disparate,desolate,desiccate,vitiate,liquidate,punctuate
 
-**atory**
+**atory** (of or belonging to) ambulatory,amatory,accusatory,anticipatory,participatory
 
 **en** 形容词后缀 sunken,spoken
 
@@ -154,9 +156,11 @@
 
 **ment** 表性质、状态;行为或结果 development
 
-**os**
+**os** (forms a noun) bathos,mythos,chaos,thermos,pathos,cosmos
 
-**ory**
+**ory** (place) promontory,repository,armory,dormitory,factory,laboratory,territory
+
+**ory** (of or relating to) perfunctory,cursory,desultory,statutory,refractory,prefatory,inventory
 
 **ous,acious,eous,ious,itious,uous** 具有...特质的(of the nature of);多...的(full of, having);有...倾向的(inclined to, abounding in) luminous,famous,anonymous,solicitous,erroneous,courteous,gaseous,tenacious,veracious,rapacious,gracious,odious,fractious,furious,noxious,fictitious,adventitious,surreptitious,contiguous,continuous
 
@@ -481,6 +485,12 @@
 **vibr**
 
 **vin** 葡萄酒(wine) vine,vinegar,vintage
+
+**vis**
+
+**voc**
+
+**vocat**
 
 **vok** 叫,喊(call, call upon) convoke,evoke,provoke,invoke,revoke
 

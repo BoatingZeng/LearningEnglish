@@ -3,6 +3,8 @@
 * detergent 清洁剂
 * dustpan 垃圾铲
 * foam 泡沫
+* jog 慢跑
+* knee 膝盖
 * make a fortune 大赚一笔
 * make sound 发出声音
 * mop 地拖
