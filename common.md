@@ -1,10 +1,13 @@
 * at the price of... 以...价格
 * broom 扫把
+* contact 接触;隐形眼镜
+* decent price 合适的价格
 * detergent 清洁剂
 * dustpan 垃圾铲
 * foam 泡沫
 * jog 慢跑
 * knee 膝盖
+* lip 嘴唇
 * make a fortune 大赚一笔
 * make sound 发出声音
 * mop 地拖

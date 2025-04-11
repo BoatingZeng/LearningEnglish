@@ -10,11 +10,15 @@
 
 **bun in the oven** 怀孕
 
+**buy 10, get 2 free promotion** 买10送2促销
+
 **charge(cost) an arm and a leg** 极其昂贵
 
 **come out with it(the true)** 说出来;快说啊
 
 **crash** 借宿
+
+**decent price** 合适的价格
 
 **dig** understand;like
 
@@ -57,6 +61,8 @@
 **pink slip** 解雇通知书
 
 **pound key** 井号键
+
+**ride (How long is the train ride ?)** 车程要多久?
 
 **sales pitch** 销售宣传
 

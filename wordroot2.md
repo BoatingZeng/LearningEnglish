@@ -174,17 +174,23 @@
 
 **ag** 做(do, act, drive) agenda,agent,agitate,agile,coagulate
 
+**agr** (field, country) agrarian,agriculture
+
 **am** (love) amorous,amenity,enamored,enamor,amateur
 
+**ambul** (walk, go around) ambulate,amble,preamble,ambulance,ambulant,perambulate,somnambulate
+
 **ami** (friend) amity,amicable,amiable
+
+**anim** (mind, spirit) animal,animate,magnanimous,unanimous,equanimity
 
 **anthrop** (human) anthropology,anthropoid,misanthrope,anthropocentric,anthropomorphic
 
 **apt,ept** (suitable, fit) apt,aptitude,adept,adapt,inept
 
-**av**
+**av** (desire, be eager) avarice,avid
 
-**bat**
+**bat** (beat, pound) abate,batter,battle,combat,debate,rebate
 
 **cand** 亮白,发光,热(be of brilliant whiteness, shine, be hot) candor,candid,incendiary,incandescent,candle,candelabrum,candidate
 
@@ -192,7 +198,7 @@
 
 **caust** 烧,红热(burnt,red hot) caustic,cauterize,cautery,holocaust
 
-**caval**
+**caval** (horse) cavalry,cavalier,cavalcade,chivalry
 
 **ced** (go,move) precede,secede,accede,antecede,recede,intercede,procedure
 
@@ -208,7 +214,7 @@
 
 **cept** (taken, seized) accept,except,intercept,susceptible,concept,incept
 
-**cid**
+**cid** (fall) recidivism,recidivist,incident,coincide,accident,deciduous
 
 **cip** (take) recipient,incipient,principle,disciple
 
@@ -216,7 +222,7 @@
 
 **clud** 关,闭(shut, close) include,exclude,conclude,seclude,recluse
 
-**coc**
+**coc** (cook, ripen) precocious,concoct,decoct
 
 **cogn** 知道,认识(learn, know) cognition,recognize,cognoscenti,connoisseur,incognito,reconnoiter,reconnaissance
 
@@ -230,9 +236,9 @@
 
 **crit** (judge) critical,hypocritical,critic,criterion
 
-**cult**
+**cult** (grow) culture,cultivate,agriculture,horticulture,pisciculture,acculturate
 
-**curr**
+**curr** (run) course,cursive,cursor,current,curriculum,incur,recourse,discourse,excursion
 
 **curs** (ran, hurried) cursory,discursive,precursor,excursive,excursion,incursion,cursive,cursor
 
@@ -248,17 +254,17 @@
 
 **dom** (house) domicile,dome,domestic,domesticate,domesticity,domiciliary
 
-**domin**
+**domin** (master) dominion,dominant,dominate,domineer
 
 **dot** (give) anecdote
 
 **ego** 我(I) egotist,egotistical,egotism,egomaniac
 
-**egor**
+**egor** (assembly) allegory,category
 
 **enn** (year) perennial,millennium,biennium,centennial
 
-**equ**
+**equ** (equal) equation,equate,adequate,equilibrium,equator,equanimity
 
 **err** 游荡(wander);错误(make a mistake) errant,errand,erratic,aberrant,error
 
@@ -269,6 +275,8 @@
 **facil** (easy, easily accomplished) facile,facilitate,facilitator,facility
 
 **fact** (made, done) factual,factory,manufacture,artifact,malefactor,benefactor
+
+**fat**
 
 **feit** (made, done) surfeit,counterfeit,forfeit
 
@@ -286,6 +294,8 @@
 
 **fili**
 
+**flict**
+
 **for** (outside) foreclose,foreign,forecast,forfeit
 
 **fort** (strong, vigorous, powerful) fortress,fortify,effort,reinforce,comfort,forte
@@ -293,6 +303,8 @@
 **fract** (broken, crushed) refract,fracture,fractious,fraction,infraction
 
 **fulg**
+
+**funct**
 
 **fus** (pour) fuse,suffuse,infuse,defuse,refuse,confuse,effusive,profuse,diffuse
 
@@ -322,11 +334,15 @@
 
 **hibit**
 
+**hom**
+
 **hort**
 
 **integr**
 
 **lat** 宽(wide) dilate,dilatory,latitude
+
+**liber**
 
 **luc** 光,透明,清晰(light,brightness,clarity) pellucid,elucidate,lucid,translucent
 
@@ -382,6 +398,8 @@
 
 **pac**
 
+**par**
+
 **path**
 
 **pend,pens** (hang, weigh) dependent,suspend,pensive
@@ -402,11 +420,15 @@
 
 **preci**
 
+**prim**
+
 **prop**
 
 **puls**
 
 **rat**
+
+**rav**
 
 **rect**
 
@@ -436,9 +458,13 @@
 
 **sol**
 
+**somn**
+
 **soph**
 
 **sper**
+
+**stat**
 
 **stitut** (set up, decided) restitution,destitute,constitute,institute
 
@@ -467,6 +493,8 @@
 **tum** 肿(swell);干扰,障碍,紊乱,骚乱(disturbance);骚动(uproar) tumor,tumid,tumescent,contumacious,tumult,tumultuous
 
 **trit**
+
+**val**
 
 **vent** 来(come) advent,invent,event,prevent
 
