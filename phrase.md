@@ -18,6 +18,8 @@
 
 **crash** 借宿
 
+**cut to the chase** 直奔主题;切入重点;言归正传
+
 **decent price** 合适的价格
 
 **dig** understand;like
