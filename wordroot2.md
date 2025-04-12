@@ -268,15 +268,15 @@
 
 **err** 游荡(wander);错误(make a mistake) errant,errand,erratic,aberrant,error
 
-**ev**
+**ev** (time) longevity,primeval,coeval,medieval
 
-**fab**
+**fab** (talk) fable,affable,ineffable,confabulate,fabulous,fib
 
 **facil** (easy, easily accomplished) facile,facilitate,facilitator,facility
 
 **fact** (made, done) factual,factory,manufacture,artifact,malefactor,benefactor
 
-**fat**
+**fat** (speak, talk, say) prefatory
 
 **feit** (made, done) surfeit,counterfeit,forfeit
 
@@ -284,7 +284,7 @@
 
 **fer** (wild) ferocious,fierce,feral
 
-**ferv**
+**ferv** (boil, be hot) fervid,effervesce,fervent,fervor
 
 **fest** (feast, holidays) fete,festal,festive,festoon,gabfest
 
@@ -292,9 +292,9 @@
 
 **fid** (trust, faith) confident,fidelity,confidant,perfidious,confide,diffident
 
-**fili**
+**fili** (daughter, son) filial,affiliate
 
-**flict**
+**flict** (struck, struck down) afflict,conflict,inflict
 
 **for** (outside) foreclose,foreign,forecast,forfeit
 
@@ -302,9 +302,9 @@
 
 **fract** (broken, crushed) refract,fracture,fractious,fraction,infraction
 
-**fulg**
+**fulg** (shine, flash) effulgent,refulgent
 
-**funct**
+**funct** (perform, complete) perfunctory,fungible,defunct,function,malfunction
 
 **fus** (pour) fuse,suffuse,infuse,defuse,refuse,confuse,effusive,profuse,diffuse
 
@@ -322,7 +322,7 @@
 
 **gram** (line, stroke of a pen, letter) epigram,diagram,hologram,grammar,program,telegram
 
-**gran**
+**gran** (grain) granule,ingrain,garner,granary
 
 **greg** 聚集,群集(flock) aggregate,gregarious,congregate,segregate,egregious
 
@@ -332,13 +332,15 @@
 
 **heri(heir,here)** 后继,继承(successor, one who inherits property) heritage,heir,inherit,heirloom,heredity
 
-**hibit**
+**hibit** (hold) inhibit,exhibit,prohibit
 
-**hom**
+**hom** (human being, man) bonhomie,homage,homicide,hominid,homunculus
 
 **hort**
 
 **integr**
+
+**ig**
 
 **lat** 宽(wide) dilate,dilatory,latitude
 
