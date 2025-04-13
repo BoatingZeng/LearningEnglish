@@ -14,6 +14,10 @@
 
 **all** (other, different) allegory,allergy,allergen,parallel
 
+**amb**
+
+**ambi**
+
 **ante** 在...前(before) anteroom,antedate,antecedent,antecede
 
 **apo** (away, from) apocryphal,apogee,apostate,apology,apostrophe
@@ -72,7 +76,7 @@
 
 **intro** 内,在...之内(within) intrinsic,introspective,introvert
 
-**mal** 糟糕,坏,错误(bad,evil) mulfunction,mulformed,maltreat,malice
+**mal** 糟糕,坏,错误(bad,evil) malfunction,malformed,maltreat,malice
 
 **meta** (beyond, change) metaphor,metamorphose,metabolic,metaphysics
 
@@ -195,6 +199,8 @@
 **cand** 亮白,发光,热(be of brilliant whiteness, shine, be hot) candor,candid,incendiary,incandescent,candle,candelabrum,candidate
 
 **carn** 肉(meat) carnal,carnage,carnation,carnival,carrion,incarnate
+
+**cas**
 
 **caust** 烧,红热(burnt,red hot) caustic,cauterize,cautery,holocaust
 
@@ -336,15 +342,17 @@
 
 **hom** (human being, man) bonhomie,homage,homicide,hominid,homunculus
 
-**hort**
+**hort** (urge, encourage) exhort,hortatory,hortative
 
-**integr**
+**integr** (whole, entire) integrity,integrate,integer
 
-**ig**
+**ig** (do, act) intransigent,prodigal,ambiguous,mitigate,castigate,litigate,exiguous,navigate
 
 **lat** 宽(wide) dilate,dilatory,latitude
 
 **liber**
+
+**lit**
 
 **luc** 光,透明,清晰(light,brightness,clarity) pellucid,elucidate,lucid,translucent
 
@@ -360,6 +368,8 @@
 
 **mal**
 
+**man** (stay, remain) remnant,immanent,permanent
+
 **man** (hand) manipulate,manual,manufacture,manage,manuscript
 
 **mand**
@@ -370,7 +380,7 @@
 
 **merc**
 
-**mit** (stay, remain) remnant,immanent,permanent
+**mit**
 
 **morph** (shape, form) metamorphose,amorphous,polymorph,morpheme,morphology
 

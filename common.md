@@ -12,6 +12,7 @@
 * make a fortune 大赚一笔
 * make sound 发出声音
 * mop 地拖
+* packed 拥挤
 * rag 抹布
 * razor 剃刀
 * rinse 冲洗,漂洗

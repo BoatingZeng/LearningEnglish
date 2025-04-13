@@ -24,7 +24,7 @@
 
 **dig** understand;like
 
-**don't get me wrongh** don't misunderstand me
+**don't get me wrong** don't misunderstand me
 
 **fall for it(that)** 上当,信以为真(一定要用it,that等指代前述谎言)
 
@@ -45,6 +45,8 @@
 **jet lag** 时差反应
 
 **last ditch** 最终手段;最后防线
+
+**live out of** 以...为基地生活;靠...生活
 
 **lose it** 情绪失控
 
