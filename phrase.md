@@ -1,5 +1,9 @@
 **a close one** a situation that is almost dangerous but wasn't
 
+**act up** 捣蛋;耍脾气;胡闹;出毛病;行动起来
+
+**and the like; and so on** 等等
+
 **bar exam** 律师资格考试
 
 **beat around the bush** 绕圈子;拐弯抹角;旁敲侧击
@@ -81,6 +85,8 @@
 **the last streach** the last or final moments before an ending
 
 **throw in** include
+
+**true be told** 说实话
 
 **under the weather** ill,sick
 

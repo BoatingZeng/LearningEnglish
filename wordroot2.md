@@ -14,9 +14,7 @@
 
 **all** (other, different) allegory,allergy,allergen,parallel
 
-**amb**
-
-**ambi**
+**amb(i)** (both, around) ambiguous,ambit,ambient,ambivalent,ambidextrous
 
 **ante** 在...前(before) anteroom,antedate,antecedent,antecede
 
@@ -63,6 +61,8 @@
 **hydr(o)** 水,氢 hydrogen,hydrant,hydrophobic
 
 **hypo** (under, below) hypodermic,hypothermia,hypocritical,hypotenuse,hypothesis
+
+**id** (of or relating to) rancid,florid,limpid,fervid,insipid,livid
 
 **idio** (own, personal, private) idiosyncratic,idiocy,idiom,idiot
 
@@ -111,6 +111,8 @@
 **sur** (over, above) surreal,surmount,surfeit,surface,surpass,survey
 
 **sur** (under) surreptitious,surrogate,surmise
+
+**sym** (with, together) symbiotic,symmetry,symposium,symbol,sympathy,symphony,symptom
 
 **syn** (with, together) synergy,synchronize,synonym,symphony,symptom,sympathy,synapse,synthesis,symmetry
 
@@ -168,6 +170,8 @@
 
 **ous,acious,eous,ious,itious,uous** 具有...特质的(of the nature of);多...的(full of, having);有...倾向的(inclined to, abounding in) luminous,famous,anonymous,solicitous,erroneous,courteous,gaseous,tenacious,veracious,rapacious,gracious,odious,fractious,furious,noxious,fictitious,adventitious,surreptitious,contiguous,continuous
 
+**tic** (relating to a process or state) symbiotic,rustic,therapeutic,haptic,antibiotic,hypnotic,patriotic
+
 **titis** 炎症 hepatitis,otitis
 
 **ure** ...的行动(或过程,结果等) composure,creature,sculpture
@@ -192,15 +196,21 @@
 
 **apt,ept** (suitable, fit) apt,aptitude,adept,adapt,inept
 
+**arbor** (tree) arboreal,arboreta,arboretum
+
+**asper** (rough, harsh, roused to anger) exasperate,asperity
+
 **av** (desire, be eager) avarice,avid
 
 **bat** (beat, pound) abate,batter,battle,combat,debate,rebate
+
+**bol** (throw) hyperbole,parabola,metabolism,symbol
 
 **cand** 亮白,发光,热(be of brilliant whiteness, shine, be hot) candor,candid,incendiary,incandescent,candle,candelabrum,candidate
 
 **carn** 肉(meat) carnal,carnage,carnation,carnival,carrion,incarnate
 
-**cas**
+**cas** (fall) cascade,casual,occasion
 
 **caust** 烧,红热(burnt,red hot) caustic,cauterize,cautery,holocaust
 
@@ -219,6 +229,8 @@
 **centr** (center) central,concentrate,geocentric,heliocentric,egocentric,centripetal,centrifugal,epicenter
 
 **cept** (taken, seized) accept,except,intercept,susceptible,concept,incept
+
+**cess**
 
 **cid** (fall) recidivism,recidivist,incident,coincide,accident,deciduous
 
@@ -250,7 +262,11 @@
 
 **cuss** 打(strike) percussion,repercussion,concuss
 
+**decim** (tenth) decimate,decimal,hexadecimal
+
 **dem** (people) endemic,epidemic,pandemic,democracy,demography
+
+**dextr** (right) dexterous,ambidextrous
 
 **divid** (separate into parts) divide,individual,dividend
 
@@ -348,11 +364,13 @@
 
 **ig** (do, act) intransigent,prodigal,ambiguous,mitigate,castigate,litigate,exiguous,navigate
 
+**labor** (work) laborer,laborious,laboratory,collaborate,belabor
+
 **lat** 宽(wide) dilate,dilatory,latitude
 
-**liber**
+**liber** (free) liberal,liberty,libertine
 
-**lit**
+**lit** (lawsuit) litigate
 
 **luc** 光,透明,清晰(light,brightness,clarity) pellucid,elucidate,lucid,translucent
 
@@ -364,29 +382,35 @@
 
 **lut,luv,lug** 洗(wash) ablution,dilute,deluge,antediluvian,alluvial
 
-**magn**
+**magn** (large, great) magnify,magnitude,magnanimous
 
-**mal**
+**mal** (bad, evil) malfunction,malaria,malformed,malnutrition,dismal,malicious,malefactor
 
 **man** (stay, remain) remnant,immanent,permanent
 
 **man** (hand) manipulate,manual,manufacture,manage,manuscript
 
-**mand**
+**mand** (order) commandeer,command,countermand,mandate,demand,remand
 
-**math**
+**math** (learn, understand) polymath,mathematics,mathematician
 
-**medi**
+**medi** (middle, in the middle, in half) medium,mediocre,medieval,immediate,media,mediator,intermediate,median
 
-**merc**
+**merc** (trade) mercenary,commerce,merchant,mercantile,merchandise
 
-**mit**
+**miss** (sent) dismiss,remiss,missive,emissary,emission
+
+**mit** (send) emit,omit,permit,submit,commit,admit,transmit
 
 **morph** (shape, form) metamorphose,amorphous,polymorph,morpheme,morphology
 
 **mun** (gift, public service) munificent,immune,remunerate,municipal
 
 **mur** (wall) immure,mural,extramural,intermural,intramural
+
+**mut**
+
+**narc**
 
 **nasc** (be born) nascent,Renaissance,renascent
 
@@ -429,6 +453,8 @@
 **phon**
 
 **phor,pher** (a carrying) metaphor,euphoria,semaphore,periphery,paraphernalia,pheromone
+
+**pos**
 
 **preci**
 
@@ -476,6 +502,10 @@
 
 **sper**
 
+**spers**
+
+**splend**
+
 **stat**
 
 **stitut** (set up, decided) restitution,destitute,constitute,institute
@@ -496,9 +526,13 @@
 
 **test**
 
+**text**
+
 **tin(tain,ten,tent)** (hold) continent,pertinent,continuous,maintain,detention,content,contain,tenacious
 
 **tom** 切(cut) anatomy,atom,appendectomy(有很多tomy结尾的表示某种切除手术)
+
+**ton**
 
 **toxic**
 
