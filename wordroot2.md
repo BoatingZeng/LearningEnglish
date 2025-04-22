@@ -32,6 +32,10 @@
 
 **contra** (opposite, against) contradict,contrast,contrary,contraindicate
 
+**cor**
+
+**cumb** (lie down) incumbent,recumbent,succumb
+
 **de** 离开,除掉,去掉(off);来自(from);向下;相反;完全(thoroughly) decapitate,demote,derive,deduce,deject,decry,decease
 
 **dif** (apart, not, away from) diffuse,diffident,different,difficult,diffraction
@@ -107,6 +111,8 @@
 **retro** 向后(backward) retrograde,retrospect,retroactive,retrogress
 
 **se** 分开(apart) secret,select,separate,secede,seclude
+
+**suc** (under) succumb,succeed,successive
 
 **sur** (over, above) surreal,surmount,surfeit,surface,surpass,survey
 
@@ -220,6 +226,8 @@
 
 **cede** (yield) cede,concede
 
+**ceed** (go, move) proceed,exceed,succeed
+
 **ceiv** (take) perceive,conceive,deceive,receive,incisive,incise
 
 **cent** (hundred) percent,century,centennial,centimeter
@@ -230,7 +238,9 @@
 
 **cept** (taken, seized) accept,except,intercept,susceptible,concept,incept
 
-**cess**
+**cern** (sift, perceive, decide) discern,concern
+
+**cess** (go) access,excess,recess,recession,successor,process,ancestor
 
 **cid** (fall) recidivism,recidivist,incident,coincide,accident,deciduous
 
@@ -370,6 +380,10 @@
 
 **liber** (free) liberal,liberty,libertine
 
+**lict** (left behind, abandoned, forsaken) derelict,relic,delinquent
+
+**lig** (tie, bind) oblige,religion,ligament,rely,ally
+
 **lit** (lawsuit) litigate
 
 **luc** 光,透明,清晰(light,brightness,clarity) pellucid,elucidate,lucid,translucent
@@ -408,13 +422,15 @@
 
 **mur** (wall) immure,mural,extramural,intermural,intramural
 
-**mut**
+**mut** (change, alter) immutable,transmute,commute,mutable,mutate,mutual
 
 **narc**
 
 **nasc** (be born) nascent,Renaissance,renascent
 
 **nat** (born) innate,naive,preternatural,native,nation,cognate,postnatal,prenatal
+
+**neg**
 
 **neo**
 
@@ -573,3 +589,5 @@
 **volv**
 
 **vor** 吃(eat) voracious,herbivore,herbivorous,carnivore,insectivore,omnivore,devour
+
+**zeal**
