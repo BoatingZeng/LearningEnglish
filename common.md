@@ -13,6 +13,7 @@
 * make a fortune 大赚一笔
 * make sound 发出声音
 * mop 地拖
+* no wonder 难怪
 * packed 拥挤
 * pee 小便(动词)
 * rag 抹布
@@ -24,6 +25,8 @@
 * sell sth for...(price) 以...价格卖某物
 * set up a stall 摆摊
 * shaft 杆;轴;柄;竖井
+* shovel 铁锹,铁锨,铲子;铲(动词)
+* shower head 花洒头
 * slipper 拖鞋
 * smear 涂抹
 * spoon 匙(小的那种)
@@ -32,4 +35,5 @@
 * uncooked 未煮过的
 * undercooked 煮的不够熟的
 * urinate 小便(动词)
+* vice versa 反之亦然
 * wring out 拧干

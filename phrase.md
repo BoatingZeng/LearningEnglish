@@ -20,6 +20,8 @@
 
 **come out with it(the true)** 说出来;快说啊
 
+**couch potato** 老泡在电视机前的人;电视迷
+
 **crash** 借宿
 
 **cut to the chase** 直奔主题;切入重点;言归正传
@@ -44,7 +46,11 @@
 
 **hit upon** 碰巧发现;忽然想出
 
+**I hear you** 我懂你
+
 **in(on) tap** 随时能取用的(酒);随时能买到的(债券的);〔美俚〕手边的
+
+**internet troll** 网络喷子
 
 **jet lag** 时差反应
 
@@ -73,6 +79,8 @@
 **ride (How long is the train ride ?)** 车程要多久?
 
 **sales pitch** 销售宣传
+
+**set aside** 留出;拨出;搁置
 
 **stay tuned** 继续收听;继续关注事情的发展;别换频道;敬请期待
 

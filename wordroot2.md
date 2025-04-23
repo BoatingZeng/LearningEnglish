@@ -32,7 +32,7 @@
 
 **contra** (opposite, against) contradict,contrast,contrary,contraindicate
 
-**cor**
+**cor** (thoroughly) corroborate,incorrigible,corrugated,corrode,corrosion,correct,corrupt
 
 **cumb** (lie down) incumbent,recumbent,succumb
 
@@ -85,6 +85,8 @@
 **meta** (beyond, change) metaphor,metamorphose,metabolic,metaphysics
 
 **mono** (one, single) monopoly,monologue,monorail,monk,monarch
+
+**neo** (new) neophyte,neologism,neolithic,neonate,neon
 
 **ob** 阻碍,反对,对面(against) obstacle,object,obstruct
 
@@ -386,6 +388,8 @@
 
 **lit** (lawsuit) litigate
 
+**lith** (stone) monolithic,neolithic,lithium,lithograph,megalith,monolith
+
 **luc** 光,透明,清晰(light,brightness,clarity) pellucid,elucidate,lucid,translucent
 
 **lud(lus)** 玩弄(play,tric) delude(delusive),collude(collusive),allude(allusive),elude(elusive),illusive
@@ -424,19 +428,19 @@
 
 **mut** (change, alter) immutable,transmute,commute,mutable,mutate,mutual
 
-**narc**
+**narc** (numbness, deadness) narcotic,narcissus,narcissist,narcissistic
 
 **nasc** (be born) nascent,Renaissance,renascent
 
 **nat** (born) innate,naive,preternatural,native,nation,cognate,postnatal,prenatal
 
-**neg**
-
-**neo**
+**neg** (deny, say not) renege,abnegate,negate,negligent,negotiate,negative,negation
 
 **not** 使知道,发现(gotten to know, found out);标记,符号(mark,sign) notorious,notice,notion,notify,note,annotate,keynote,notary,notarize,denote
 
 **nov**
+
+**numer**
 
 **omin**
 
@@ -470,6 +474,8 @@
 
 **phor,pher** (a carrying) metaphor,euphoria,semaphore,periphery,paraphernalia,pheromone
 
+**phyt**
+
 **pos**
 
 **preci**
@@ -487,6 +493,8 @@
 **rect**
 
 **reg**
+
+**robor**
 
 **rog** 问,索求(ask,request) interrogate,abrogate,surrogate,prerogative,derogatory
 
