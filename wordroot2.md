@@ -376,6 +376,8 @@
 
 **ig** (do, act) intransigent,prodigal,ambiguous,mitigate,castigate,litigate,exiguous,navigate
 
+**juven**
+
 **labor** (work) laborer,laborious,laboratory,collaborate,belabor
 
 **lat** 宽(wide) dilate,dilatory,latitude

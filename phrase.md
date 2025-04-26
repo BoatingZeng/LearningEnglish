@@ -1,4 +1,4 @@
-**a close one** a situation that is almost dangerous but wasn't
+**a close one** (a situation that is almost dangerous but wasn't)
 
 **act up** 捣蛋;耍脾气;胡闹;出毛病;行动起来
 
@@ -8,7 +8,7 @@
 
 **beat around the bush** 绕圈子;拐弯抹角;旁敲侧击
 
-**be blown away** be suprised and amazed
+**be blown away** (be suprised and amazed)
 
 **brush up** 复习;擦亮;提高(技巧等)
 
@@ -28,9 +28,9 @@
 
 **decent price** 合适的价格
 
-**dig** understand;like
+**dig** (understand;like)
 
-**don't get me wrong** don't misunderstand me
+**don't get me wrong** (don't misunderstand me)
 
 **fall for it(that)** 上当,信以为真(一定要用it,that等指代前述谎言)
 
@@ -82,6 +82,8 @@
 
 **set aside** 留出;拨出;搁置
 
+**spill the beans** 泄露秘密
+
 **stay tuned** 继续收听;继续关注事情的发展;别换频道;敬请期待
 
 **stumble across** 偶尔发现
@@ -90,14 +92,18 @@
 
 **take a dip** 泡个澡;去游泳;为时不长的游泳
 
-**the last streach** the last or final moments before an ending
+**the last streach** (the last or final moments before an ending)
 
-**throw in** include
+**throw in** (include)
 
 **true be told** 说实话
 
-**under the weather** ill,sick
+**tune into** 调频到;收听
+
+**under the weather** (ill,sick)
 
 **wind down** (使)逐步收缩;(使)降级;(使)逐步结束;放松;放松一下;逐渐平静下来
+
+**work out** 作出;拟定;制定;计划一下;健身
 
 **writ large** 显而易见
