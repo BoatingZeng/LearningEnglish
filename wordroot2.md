@@ -278,6 +278,8 @@
 
 **dem** (people) endemic,epidemic,pandemic,democracy,demography
 
+**dens** (thick) dense,density,condense
+
 **dextr** (right) dexterous,ambidextrous
 
 **divid** (separate into parts) divide,individual,dividend
@@ -376,7 +378,7 @@
 
 **ig** (do, act) intransigent,prodigal,ambiguous,mitigate,castigate,litigate,exiguous,navigate
 
-**juven**
+**juven** (young, young man) juvenile,rejuvenate,juvenilia
 
 **labor** (work) laborer,laborious,laboratory,collaborate,belabor
 
@@ -423,6 +425,8 @@
 **mit** (send) emit,omit,permit,submit,commit,admit,transmit
 
 **morph** (shape, form) metamorphose,amorphous,polymorph,morpheme,morphology
+
+**mort** (death) mortal,mortician,postmortem,mortuary,mortgage
 
 **mun** (gift, public service) munificent,immune,remunerate,municipal
 
@@ -481,6 +485,8 @@
 **pos**
 
 **preci**
+
+**pred**
 
 **prim**
 
