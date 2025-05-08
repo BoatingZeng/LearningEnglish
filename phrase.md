@@ -82,6 +82,10 @@
 
 **set aside** 留出;拨出;搁置
 
+**silver lining** 一线希望(光明),一点慰籍
+
+**snooze button** 闹钟上的贪睡按钮
+
 **spill the beans** 泄露秘密
 
 **stay tuned** 继续收听;继续关注事情的发展;别换频道;敬请期待

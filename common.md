@@ -1,4 +1,5 @@
 * Are utilities included? 包水电吗？(utility指水、电、煤气等公共服务)
+* ask for (sick) leave 请(病)假
 * and the like; and so on 等等
 * at the price of... 以...价格
 * banquet 宴会
@@ -18,6 +19,7 @@
 * inhale 吸气
 * jog 慢跑
 * knee 膝盖
+* late (night) snack 夜宵
 * lease 租约;租(动词,租入和租出都是)
 * lessee 租用人;租户
 * lip 嘴唇
@@ -44,12 +46,14 @@
 * shaft 杆;轴;柄;竖井
 * shovel 铁锹,铁锨,铲子;铲(动词)
 * shower head 花洒头
+* skip classes 逃课
 * slipper 拖鞋
 * smear 涂抹;apply也可以用作涂和敷之意
 * soak 浸泡,浸湿(强调浸得比较久)
 * spoon 匙(小的那种)
 * sweep 扫
 * take a dump 上大号
+* take a sick day 请一天病假
 * tow 拖,牵引,拉
 * uncooked 未煮过的
 * undercooked 煮的不够熟的

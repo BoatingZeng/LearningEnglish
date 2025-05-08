@@ -22,6 +22,8 @@
 
 **at** 向(to,toward) attract,attend,attempt,attain,attenuate
 
+**be** (thoroughly,to treat in a certain way) belabor,berate,beset,beleaguer,belittle,beget,bestow,belie,bedevil
+
 **bene** (well) benefit,benefaction,benefactor,benign,benevolent
 
 **cata** 完全(thoroughly) catastrophe,catalog,cataclysm
@@ -354,6 +356,8 @@
 
 **glomerat** 聚集成团,积累(gathered into a ball-shaped mass, accumulated) agglomerate,conglomerate,glomerular
 
+**glori**
+
 **grad** (step) grade,graduate,gradual,centigrade,graduated
 
 **gram** (line, stroke of a pen, letter) epigram,diagram,hologram,grammar,program,telegram
@@ -520,6 +524,8 @@
 
 **scrut**
 
+**sen**
+
 **sens**
 
 **simil**
@@ -530,6 +536,8 @@
 
 **somn**
 
+**son**
+
 **soph**
 
 **sper**
@@ -537,6 +545,8 @@
 **spers**
 
 **splend**
+
+**spond**
 
 **stat**
 
