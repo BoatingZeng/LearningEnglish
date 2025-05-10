@@ -10,6 +10,8 @@
 
 **be blown away** (be suprised and amazed)
 
+**break a leg** 祝好运
+
 **brush up** 复习;擦亮;提高(技巧等)
 
 **bun in the oven** 怀孕
@@ -86,7 +88,7 @@
 
 **snooze button** 闹钟上的贪睡按钮
 
-**spill the beans** 泄露秘密
+**spill the beans** 泄露秘密(reveal a secret)
 
 **stay tuned** 继续收听;继续关注事情的发展;别换频道;敬请期待
 

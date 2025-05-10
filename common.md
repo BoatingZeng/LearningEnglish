@@ -5,6 +5,8 @@
 * banquet 宴会
 * bristle 刷子毛
 * broom 扫把
+* by the minute 每时每刻;迅速地
+* chin 下巴
 * contact 接触;隐形眼镜
 * counter 柜台;操作台
 * decent price 合适的价格
@@ -17,6 +19,7 @@
 * feel ill 感到不适
 * foam 泡沫
 * inhale 吸气
+* irk 使苦恼,使烦恼;厌烦,厌倦(名词)
 * jog 慢跑
 * knee 膝盖
 * late (night) snack 夜宵
@@ -39,6 +42,7 @@
 * resume 简历
 * rinse 冲洗,漂洗;漱洗,漱口
 * ripe 熟的(指水果之类的)
+* run out 用完;到期,过期;失效
 * scold 骂,责骂,训斥,怒骂
 * scoop 勺(大的那种)
 * sell sth for...(price) 以...价格卖某物

@@ -180,6 +180,8 @@
 
 **ous,acious,eous,ious,itious,uous** 具有...特质的(of the nature of);多...的(full of, having);有...倾向的(inclined to, abounding in) luminous,famous,anonymous,solicitous,erroneous,courteous,gaseous,tenacious,veracious,rapacious,gracious,odious,fractious,furious,noxious,fictitious,adventitious,surreptitious,contiguous,continuous
 
+**some** (having a certain quality) noisome,fulsome,toothsome,winsome,lissome,wholesome,irksome
+
 **tic** (relating to a process or state) symbiotic,rustic,therapeutic,haptic,antibiotic,hypnotic,patriotic
 
 **titis** 炎症 hepatitis,otitis
@@ -270,6 +272,8 @@
 
 **cult** (grow) culture,cultivate,agriculture,horticulture,pisciculture,acculturate
 
+**cum** (heap, pile) encumber,accumulate,cumulative,encumbrance,cumulus
+
 **curr** (run) course,cursive,cursor,current,curriculum,incur,recourse,discourse,excursion
 
 **curs** (ran, hurried) cursory,discursive,precursor,excursive,excursion,incursion,cursive,cursor
@@ -356,7 +360,7 @@
 
 **glomerat** 聚集成团,积累(gathered into a ball-shaped mass, accumulated) agglomerate,conglomerate,glomerular
 
-**glori**
+**glori** (praise) glory,glorious,vainglory,glorify,inglorious
 
 **grad** (step) grade,graduate,gradual,centigrade,graduated
 
@@ -448,9 +452,9 @@
 
 **not** 使知道,发现(gotten to know, found out);标记,符号(mark,sign) notorious,notice,notion,notify,note,annotate,keynote,notary,notarize,denote
 
-**nov**
+**nov** (new) novel,innovate,novelty,renovate,nova,novice,novitiate
 
-**numer**
+**numer** (number) supernumerary,numerous,enumerate,innumerable,numerable,numeral,numerate,numerator
 
 **omin**
 
@@ -569,6 +573,8 @@
 **test**
 
 **text**
+
+**thes**
 
 **tin(tain,ten,tent)** (hold) continent,pertinent,continuous,maintain,detention,content,contain,tenacious
 
