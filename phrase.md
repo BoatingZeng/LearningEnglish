@@ -40,6 +40,8 @@
 
 **freak out** 崩溃;极度兴奋
 
+**get caught up** 陷入,卷入
+
 **get off work(shift)** (换)下班
 
 **hang loose** 放松

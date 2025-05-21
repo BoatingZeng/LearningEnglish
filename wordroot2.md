@@ -30,6 +30,10 @@
 
 **co** (with, together) coagulate,coalition,coalesce,correlate,cohesive,coordinate,coincide,coherent,cohort
 
+**com** (thoroughly) complacent,complete,comprehend
+
+**com** (with, together) complicity,compete,combine,compromise,complex,compare
+
 **con** (thoroughly,with,together) connive,conscript,confident,conclude,connect,convene,consensus,consent,concise
 
 **contra** (opposite, against) contradict,contrast,contrary,contraindicate
@@ -180,6 +184,8 @@
 
 **ous,acious,eous,ious,itious,uous** 具有...特质的(of the nature of);多...的(full of, having);有...倾向的(inclined to, abounding in) luminous,famous,anonymous,solicitous,erroneous,courteous,gaseous,tenacious,veracious,rapacious,gracious,odious,fractious,furious,noxious,fictitious,adventitious,surreptitious,contiguous,continuous
 
+**rium** (place for; thing used for) aquarium,auditorium,crematorium,emporium,natatorium,planetarium,sanatorium,terrarium,vivarium
+
 **some** (having a certain quality) noisome,fulsome,toothsome,winsome,lissome,wholesome,irksome
 
 **tic** (relating to a process or state) symbiotic,rustic,therapeutic,haptic,antibiotic,hypnotic,patriotic
@@ -193,6 +199,8 @@
 ### 位置不定 ###
 
 **ag** 做(do, act, drive) agenda,agent,agitate,agile,coagulate
+
+**agog** (leading, drawing forth) pedagogy,pedagogue,demagogue
 
 **agr** (field, country) agrarian,agriculture
 
@@ -280,6 +288,8 @@
 
 **cuss** 打(strike) percussion,repercussion,concuss
 
+**cycl** (circle, wheel) cyclist,unicycle,tricycle,recycle,cyclone,cyclotron,encyclopedia
+
 **decim** (tenth) decimate,decimal,hexadecimal
 
 **dem** (people) endemic,epidemic,pandemic,democracy,demography
@@ -299,6 +309,8 @@
 **domin** (master) dominion,dominant,dominate,domineer
 
 **dot** (give) anecdote
+
+**duct,duce** (led) reductive,reduce,induct,induce,conduct,conduce,product,produce,aqueduct,ductile,abduct,seductive
 
 **ego** 我(I) egotist,egotistical,egotism,egomaniac
 
@@ -402,6 +414,8 @@
 
 **lith** (stone) monolithic,neolithic,lithium,lithograph,megalith,monolith
 
+**loqu** (talk, speak) loquacious,soliloquy,colloquial,eloquent,circumlocution,elocution
+
 **luc** 光,透明,清晰(light,brightness,clarity) pellucid,elucidate,lucid,translucent
 
 **lud(lus)** 玩弄(play,tric) delude(delusive),collude(collusive),allude(allusive),elude(elusive),illusive
@@ -425,6 +439,8 @@
 **math** (learn, understand) polymath,mathematics,mathematician
 
 **medi** (middle, in the middle, in half) medium,mediocre,medieval,immediate,media,mediator,intermediate,median
+
+**ment** (mind) demented,dementia,mental,comment,memento,mention,mentor
 
 **merc** (trade) mercenary,commerce,merchant,mercantile,merchandise
 
@@ -456,7 +472,7 @@
 
 **numer** (number) supernumerary,numerous,enumerate,innumerable,numerable,numeral,numerate,numerator
 
-**omin**
+**omin** (sign, omen) abominate,ominous,omen
 
 **oner** 负担(burden, load) exonerate,onerous
 
@@ -464,19 +480,19 @@
 
 **oram** (sight, view) diorama,panorama
 
-**orn**
+**orn** (decorate) adorn,ornate,ornament
 
-**pac**
+**pac** (peace) appease,pacific,pacify,pact
 
-**par**
-
-**path**
+**path** (feeling, disease) sympathy,empathy,apathy,antipathy,pathology,pathogen,psychopath,sociopath
 
 **pend,pens** (hang, weigh) dependent,suspend,pensive
 
 **pend,pens** 花费 expend,expense,recompense,compensate
 
-**ped**
+**ped(pod)** (foot) pedal,pedometer,pedestrian,biped,podium,antipode,podiatrist,expedition,pedestal
+
+**ped** (child) pedagogy,pedant,cyclopedia,encyclopedia,pediatrician
 
 **pet** (seek, attack, go for) petulant,competent,perpetuate,compete,appetite,petition,repeat,repetitive
 
@@ -489,6 +505,8 @@
 **phor,pher** (a carrying) metaphor,euphoria,semaphore,periphery,paraphernalia,pheromone
 
 **phyt**
+
+**plex**
 
 **pos**
 
@@ -528,6 +546,8 @@
 
 **scrut**
 
+**sect**
+
 **sen**
 
 **sens**
@@ -565,6 +585,8 @@
 **temper**
 
 **tend** 倾向,伸展(stretch) distend,intend,extend,attend,tender
+
+**termin**
 
 **terr** 土地(earth,land) territory,terrain,Mediterranean
 

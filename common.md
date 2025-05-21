@@ -1,3 +1,4 @@
+* (run,walk,swim) about 到处(跑,走,游)
 * Are utilities included? 包水电吗？(utility指水、电、煤气等公共服务)
 * ask for (sick) leave 请(病)假
 * and the like; and so on 等等
@@ -38,6 +39,7 @@
 * pee 小便(动词)
 * rag 抹布
 * razor 剃刀
+* reach out to 接触,联系;把手伸向
 * rent 租(动词,租入和租出都是);租金 I rented his car. He rented me the car.
 * resume 简历
 * rinse 冲洗,漂洗;漱洗,漱口
@@ -47,6 +49,7 @@
 * scoop 勺(大的那种)
 * sell sth for...(price) 以...价格卖某物
 * set up a stall 摆摊
+* shallow 浅的;肤浅的
 * shaft 杆;轴;柄;竖井
 * shovel 铁锹,铁锨,铲子;铲(动词)
 * shower head 花洒头
@@ -58,6 +61,7 @@
 * sweep 扫
 * take a dump 上大号
 * take a sick day 请一天病假
+* thrifty 节俭的
 * tow 拖,牵引,拉
 * uncooked 未煮过的
 * undercooked 煮的不够熟的
@@ -65,3 +69,4 @@
 * vice versa 反之亦然
 * wrap up 包起来;总结;结束
 * wring out 拧干
+* you bet (口语)当然,肯定,你说的没错(表支持认同);不客气
