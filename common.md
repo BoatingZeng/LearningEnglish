@@ -29,14 +29,18 @@
 * lip 嘴唇
 * make a fortune 大赚一笔
 * make sound 发出声音
+* mark off (用线条,符号等)划分,划分出,区分,划出
 * mop 地拖
 * mug 马克杯
 * no wonder 难怪
+* On your mark, get set, go! 各就位,预备,跑!
 * OTC(over-the-counter drug) 非处方药
 * packed 拥挤
+* pare 削;削皮;削减,使缩小;修剪
 * parking lot(place,area) 停车场
 * parking spot 停车位
 * pee 小便(动词)
+* peel 削皮,剥皮,去壳
 * rag 抹布
 * razor 剃刀
 * reach out to 接触,联系;把手伸向

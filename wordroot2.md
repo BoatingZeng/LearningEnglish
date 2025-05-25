@@ -30,6 +30,8 @@
 
 **co** (with, together) coagulate,coalition,coalesce,correlate,cohesive,coordinate,coincide,coherent,cohort
 
+**col** (with, together) colloquy,collude,collate,collaborate,collapse,collide,collect
+
 **com** (thoroughly) complacent,complete,comprehend
 
 **com** (with, together) complicity,compete,combine,compromise,complex,compare
@@ -272,6 +274,8 @@
 
 **crat** (rule) democrat,aristocrat,plutocrat,technocrat,bureaucrat,autocrat
 
+**cred** (believe, trust) credit,credible,credulous,credential,creditor,accredit,credo,creed
+
 **cret** 筛选,识别,分离(sift, discern, separate) discrete,discretion,excrete,secret
 
 **cret** 生长,扩大(grow) accrete,concrete
@@ -404,6 +408,8 @@
 
 **lat** 宽(wide) dilate,dilatory,latitude
 
+**later** (side) lateral,unilateral,bilateral,trilateral,quadrilateral,equilateral,multilateral
+
 **liber** (free) liberal,liberty,libertine
 
 **lict** (left behind, abandoned, forsaken) derelict,relic,delinquent
@@ -496,17 +502,19 @@
 
 **pet** (seek, attack, go for) petulant,competent,perpetuate,compete,appetite,petition,repeat,repetitive
 
-**phem**
+**phem** (saying, speech) euphemism,blaspheme
 
 **phil** (love) philosophy,philanthropist,philology
 
-**phon**
+**phon** (voice, sound) microphone,megaphone,telephone,saxophone,symphony,euphonious,cacophony,phonetics,homophone,phonograph
 
 **phor,pher** (a carrying) metaphor,euphoria,semaphore,periphery,paraphernalia,pheromone
 
-**phyt**
+**phyt** (plant) neophyte,saprophyte,zoophyte
 
 **plex**
+
+**plumb**
 
 **pos**
 
@@ -519,6 +527,8 @@
 **prop**
 
 **puls**
+
+**quir**
 
 **rat**
 
@@ -609,6 +619,8 @@
 **tum** 肿(swell);干扰,障碍,紊乱,骚乱(disturbance);骚动(uproar) tumor,tumid,tumescent,contumacious,tumult,tumultuous
 
 **trit**
+
+**ul**
 
 **val**
 
