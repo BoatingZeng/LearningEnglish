@@ -50,6 +50,8 @@
 
 **di(s)** 分开(apart);否定(not) distant,distract,disrupt,disease,disinter,dislocate,disband,dilatory,divest,digress,digest,dilate,divert,disperse
 
+**du** (two) duplicity,duplicate,dual,duet,duo,duplex
+
 **e** 超出,偏离(out of,from) egress,emerge,eject
 
 **ec** 超出,偏离(out of,from) eccentric,ecstasy,eclipse
@@ -142,6 +144,8 @@
 
 **ant** 构成形容词或名词;是...的;做...的;...人;...事物;(being in a state or condition) assistant,dominant,defendant,servant,significant,coolant,claimant
 
+**arian** (pertaining to) utilitarian,agrarian,totalitarian,egalitarian,humanitarian,vegetarian
+
 **ary** ...的;...的人;与...有关 hereditary
 
 **ast** 表示人 gymnast
@@ -221,6 +225,8 @@
 **arbor** (tree) arboreal,arboreta,arboretum
 
 **asper** (rough, harsh, roused to anger) exasperate,asperity
+
+**auth** (author) authentic,authorize,authority,authoritarian,authenticate,authorship
 
 **av** (desire, be eager) avarice,avid
 
@@ -388,7 +394,7 @@
 
 **gress** 步,行走(step) progress,regress,digress,ingress,transgress,egress,aggress,retrogress
 
-**he(r)** 粘住,附着,紧抓(stick, cling, hold fast) adhere,cohere,hesitate,cohesive
+**he(r/s)** 粘住,附着,紧抓(stick, cling, hold fast) adhere,cohere,hesitate,cohesive
 
 **heri(heir,here)** 后继,继承(successor, one who inherits property) heritage,heir,inherit,heirloom,heredity
 
@@ -403,6 +409,8 @@
 **ig** (do, act) intransigent,prodigal,ambiguous,mitigate,castigate,litigate,exiguous,navigate
 
 **juven** (young, young man) juvenile,rejuvenate,juvenilia
+
+**juxta**
 
 **labor** (work) laborer,laborious,laboratory,collaborate,belabor
 
@@ -512,11 +520,11 @@
 
 **phyt** (plant) neophyte,saprophyte,zoophyte
 
-**plex**
+**plex** (weave) complex,complexity,complexion,perplex,multiplex,duplex
 
-**plumb**
+**plumb** 垂直 plumb,plummet,plumber,plunge
 
-**pos**
+**pos** (put, place) transpose,interpose,dispose,predispose,propose,compose,depose,expose,impose,oppose,juxtapose,suppose
 
 **preci**
 

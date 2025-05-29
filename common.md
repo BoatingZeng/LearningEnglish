@@ -8,12 +8,14 @@
 * broom 扫把
 * by the minute 每时每刻;迅速地
 * chin 下巴
+* clothes peg 衣夹
 * contact 接触;隐形眼镜
 * counter 柜台;操作台
 * decent price 合适的价格
 * detergent 清洁剂
 * dip 浸一下,蘸(强调浸进去的时间不长,快速沾一下液体)
 * dizzy 头晕的;使头晕(动)
+* do the laundry 洗衣服
 * drowsy 困倦的;昏昏欲睡的;使人松弛的;令人疲乏的
 * dustpan 垃圾铲
 * exhale 呼气
@@ -41,6 +43,7 @@
 * parking spot 停车位
 * pee 小便(动词)
 * peel 削皮,剥皮,去壳
+* pull up 停车
 * rag 抹布
 * razor 剃刀
 * reach out to 接触,联系;把手伸向
@@ -71,6 +74,7 @@
 * undercooked 煮的不够熟的
 * urinate 小便(动词)
 * vice versa 反之亦然
+* washing line 晾衣绳
 * wrap up 包起来;总结;结束
 * wring out 拧干
 * you bet (口语)当然,肯定,你说的没错(表支持认同);不客气

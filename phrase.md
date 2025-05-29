@@ -100,7 +100,7 @@
 
 **take a dip** 泡个澡;去游泳;为时不长的游泳
 
-**the last streach** (the last or final moments before an ending)
+**the last stretch** (the last or final moments before an ending)
 
 **throw in** (include)
 
