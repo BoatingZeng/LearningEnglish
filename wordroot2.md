@@ -76,8 +76,6 @@
 
 **hypo** (under, below) hypodermic,hypothermia,hypocritical,hypotenuse,hypothesis
 
-**id** (of or relating to) rancid,florid,limpid,fervid,insipid,livid
-
 **idio** (own, personal, private) idiosyncratic,idiocy,idiom,idiot
 
 **im** 否定(not);向...内(in);在...上(on) improvise,imbibe,immanent
@@ -169,6 +167,8 @@
 **ic** ...的;与...有关的;由...产生的 novelistic,gymnastic
 
 **ice** 构成名词,有...性质 service,justice,cowardice
+
+**id** (of or relating to) rancid,florid,limpid,fervid,insipid,livid
 
 **ile** (tending to do or be something) servile,docile,tactile,volatile
 
@@ -410,7 +410,7 @@
 
 **juven** (young, young man) juvenile,rejuvenate,juvenilia
 
-**juxta**
+**juxta** (next to, beside) juxtapose
 
 **labor** (work) laborer,laborious,laboratory,collaborate,belabor
 
@@ -526,9 +526,9 @@
 
 **pos** (put, place) transpose,interpose,dispose,predispose,propose,compose,depose,expose,impose,oppose,juxtapose,suppose
 
-**preci**
+**preci** (worth, price) appreciate,precious,depreciate,appraise,praise,dispraise
 
-**pred**
+**pred** (plunder) predator,predation,predatory,depredation,prey
 
 **prim**
 

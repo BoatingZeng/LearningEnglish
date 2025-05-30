@@ -21,6 +21,7 @@
 * exhale 呼气
 * feel ill 感到不适
 * foam 泡沫
+* fry 煎,炸,炒
 * inhale 吸气
 * irk 使苦恼,使烦恼;厌烦,厌倦(名词)
 * jog 慢跑
@@ -43,6 +44,7 @@
 * parking spot 停车位
 * pee 小便(动词)
 * peel 削皮,剥皮,去壳
+* poach 水煮,小火煮;偷猎;窃取
 * pull up 停车
 * rag 抹布
 * razor 剃刀
@@ -54,6 +56,7 @@
 * run out 用完;到期,过期;失效
 * scold 骂,责骂,训斥,怒骂
 * scoop 勺(大的那种)
+* scramble (炒)蛋;争夺;攀登
 * sell sth for...(price) 以...价格卖某物
 * set up a stall 摆摊
 * shallow 浅的;肤浅的
@@ -65,6 +68,7 @@
 * smear 涂抹;apply也可以用作涂和敷之意
 * soak 浸泡,浸湿(强调浸得比较久)
 * spoon 匙(小的那种)
+* stir-fry 翻炒,快炒
 * sweep 扫
 * take a dump 上大号
 * take a sick day 请一天病假
