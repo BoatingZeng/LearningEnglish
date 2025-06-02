@@ -68,6 +68,7 @@
 * smear 涂抹;apply也可以用作涂和敷之意
 * soak 浸泡,浸湿(强调浸得比较久)
 * spoon 匙(小的那种)
+* sprain 扭伤
 * stir-fry 翻炒,快炒
 * sweep 扫
 * take a dump 上大号

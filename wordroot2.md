@@ -130,7 +130,7 @@
 
 **sym** (with, together) symbiotic,symmetry,symposium,symbol,sympathy,symphony,symptom
 
-**syn** (with, together) synergy,synchronize,synonym,symphony,symptom,sympathy,synapse,synthesis,symmetry
+**syn** (with, together) synergy,synchronize,synonym,synapse,synthesis
 
 **trans** 横过,穿越(across, through) transport,transgress,transfer,translate,transform
 
@@ -508,6 +508,8 @@
 
 **ped** (child) pedagogy,pedant,cyclopedia,encyclopedia,pediatrician
 
+**pel** (push) appellation,appeal,compel,dispel,expel,impel,propel,peal,propellant,propeller,repeal,repel
+
 **pet** (seek, attack, go for) petulant,competent,perpetuate,compete,appetite,petition,repeat,repetitive
 
 **phem** (saying, speech) euphemism,blaspheme
@@ -524,21 +526,23 @@
 
 **plumb** 垂直 plumb,plummet,plumber,plunge
 
+**plus,plur** (more) plural,surplus
+
 **pos** (put, place) transpose,interpose,dispose,predispose,propose,compose,depose,expose,impose,oppose,juxtapose,suppose
 
 **preci** (worth, price) appreciate,precious,depreciate,appraise,praise,dispraise
 
 **pred** (plunder) predator,predation,predatory,depredation,prey
 
-**prim**
+**prim** (first) primary,primer,prime number,primal,primitive,primate,premier
 
-**prop**
+**prop** (proper, fitting, one's own) expropriate,apropos,appropriate,propriety,proper,property,proprietary,proprietor
 
-**puls**
+**puls** (pushed) compulsive,impulse,repulse,expulsion,propulsion
 
-**quir**
+**quir** (seek, strive for) conquer,enquire,inquire,inquire,require
 
-**rat**
+**rat** (think) rationale,rational,rate,ration
 
 **rav**
 
