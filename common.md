@@ -4,6 +4,7 @@
 * and the like; and so on 等等
 * at the price of... 以...价格
 * banquet 宴会
+* bottle up 把...封在瓶内;压住(感情);封锁(交通等);捕获(逃犯等)
 * bristle 刷子毛
 * broom 扫把
 * by the minute 每时每刻;迅速地

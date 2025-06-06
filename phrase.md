@@ -82,6 +82,8 @@
 
 **ride (How long is the train ride ?)** 车程要多久?
 
+**roller coaster** 过山车
+
 **sales pitch** 销售宣传
 
 **set aside** 留出;拨出;搁置

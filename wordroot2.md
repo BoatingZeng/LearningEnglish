@@ -156,6 +156,8 @@
 
 **ence** 构成名词,表性质(state or condition) transience,confluence,dependence,luminescence
 
+**endo** (doing something) crescendo,decrescendo,diminuendo,innuendo
+
 **ennial** 年 bi-ennial,perennial
 
 **ent** 构成形容词或名词,有...性质的(人或事物)(being in a state or condition) luminescent,pungent,dissident,gradient
@@ -282,6 +284,8 @@
 
 **cred** (believe, trust) credit,credible,credulous,credential,creditor,accredit,credo,creed
 
+**cresc** (grow, arise, increase) crescendo,decrescendo,crescent,excrescence
+
 **cret** 筛选,识别,分离(sift, discern, separate) discrete,discretion,excrete,secret
 
 **cret** 生长,扩大(grow) accrete,concrete
@@ -400,6 +404,8 @@
 
 **hibit** (hold) inhibit,exhibit,prohibit
 
+**hilar** (cheerful, merry) hilarious,hilarity,exhilarate
+
 **hom** (human being, man) bonhomie,homage,homicide,hominid,homunculus
 
 **hort** (urge, encourage) exhort,hortatory,hortative
@@ -407,6 +413,8 @@
 **integr** (whole, entire) integrity,integrate,integer
 
 **ig** (do, act) intransigent,prodigal,ambiguous,mitigate,castigate,litigate,exiguous,navigate
+
+**journ** (pertaining to the day, daily) sojourn,journey,adjourn,journal
 
 **juven** (young, young man) juvenile,rejuvenate,juvenilia
 
@@ -458,6 +466,10 @@
 
 **merc** (trade) mercenary,commerce,merchant,mercantile,merchandise
 
+**min** (lean forward, threaten) imminent,prominent,eminent,preeminent
+
+**min** (lessen, make smaller) minuscule,miniscule,minutia,diminution,minimum,diminish,minor,minority,diminuendo,diminutive,minimal,minimize,minute,minus
+
 **miss** (sent) dismiss,remiss,missive,emissary,emission
 
 **mit** (send) emit,omit,permit,submit,commit,admit,transmit
@@ -497,6 +509,12 @@
 **orn** (decorate) adorn,ornate,ornament
 
 **pac** (peace) appease,pacific,pacify,pact
+
+**par** 产生,出现(come to sight) apparition,transparent,parent,antepartum,multipara,oviparous,parturition,postpartum,viviparous
+
+**par** (equal) disparate,disparity,disparage,nonpareil,compare,par,parity
+
+**par** 准备;防护(make, prepare) parry,prepare,apparatus,parachute,parade,parapet,parasol,rampart,repair,reparation
 
 **path** (feeling, disease) sympathy,empathy,apathy,antipathy,pathology,pathogen,psychopath,sociopath
 
@@ -544,11 +562,11 @@
 
 **rat** (think) rationale,rational,rate,ration
 
-**rav**
+**rav** (snatch, grab, seize) ravenous,ravage,ravish
 
-**rect**
+**rect** (ruled, guided, put right) rectitude,rectify,correct,direct,erect,rectangle
 
-**reg**
+**reg** (rule, guide, direct) regime,regimen,regiment,irregular,regulate,region,regal,regent,regency,regicide
 
 **robor**
 
@@ -625,6 +643,8 @@
 **tom** 切(cut) anatomy,atom,appendectomy(有很多tomy结尾的表示某种切除手术)
 
 **ton**
+
+**tort**
 
 **toxic**
 
