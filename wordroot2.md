@@ -272,6 +272,8 @@
 
 **cis** (cut) decide,homicide,herbicide
 
+**cit** (moved, stirred up) solicit,cite,incite,excite,recite,resuscitate
+
 **clud** 关,闭(shut, close) include,exclude,conclude,seclude,recluse
 
 **coc** (cook, ripen) precocious,concoct,decoct
@@ -279,6 +281,8 @@
 **cogn** 知道,认识(learn, know) cognition,recognize,cognoscenti,connoisseur,incognito,reconnoiter,reconnaissance
 
 **cond** (hide, put away) ensconce,recondite,abscond,condiment
+
+**corp** (body) corpulent,corporeal,corporal,corporate,corporation,corps,corpse
 
 **crat** (rule) democrat,aristocrat,plutocrat,technocrat,bureaucrat,autocrat
 
@@ -410,6 +414,8 @@
 
 **hort** (urge, encourage) exhort,hortatory,hortative
 
+**hum** (ground) exhume,posthumous,humble,humility,humiliate
+
 **integr** (whole, entire) integrity,integrate,integer
 
 **ig** (do, act) intransigent,prodigal,ambiguous,mitigate,castigate,litigate,exiguous,navigate
@@ -422,9 +428,17 @@
 
 **labor** (work) laborer,laborious,laboratory,collaborate,belabor
 
+**langu** (be sluggish, wilt, lack vigor) languid,languorous,languish,languor
+
 **lat** 宽(wide) dilate,dilatory,latitude
 
 **later** (side) lateral,unilateral,bilateral,trilateral,quadrilateral,equilateral,multilateral
+
+**leg** (bind, choose) relegate,delegate,legacy,elegant
+
+**leg** (gather, read) allege,sacrilege,legend,college,legible,legion
+
+**leg** (law) legislate,legitimate,legal,privilege,legalese,paralegal,legalese,legality,legitimacy
 
 **liber** (free) liberal,liberty,libertine
 
@@ -462,11 +476,13 @@
 
 **medi** (middle, in the middle, in half) medium,mediocre,medieval,immediate,media,mediator,intermediate,median
 
+**men** (threat) amenable(a表示倾向于,倾向于被威胁,顺从),menace
+
 **ment** (mind) demented,dementia,mental,comment,memento,mention,mentor
 
 **merc** (trade) mercenary,commerce,merchant,mercantile,merchandise
 
-**min** (lean forward, threaten) imminent,prominent,eminent,preeminent
+**min** (lean forward, threaten) imminent,prominent,eminent,preeminent,minatory
 
 **min** (lessen, make smaller) minuscule,miniscule,minutia,diminution,minimum,diminish,minor,minority,diminuendo,diminutive,minimal,minimize,minute,minus
 
@@ -568,23 +584,23 @@
 
 **reg** (rule, guide, direct) regime,regimen,regiment,irregular,regulate,region,regal,regent,regency,regicide
 
-**robor**
+**robor** (oak, strength) corroborate,robust
 
 **rog** 问,索求(ask,request) interrogate,abrogate,surrogate,prerogative,derogatory
 
 **rupt** (burst) disrupt,interrupt,erupt,abrupt,rupture,corrupt
 
-**sanct**
+**sacr** (sacred, holy) sacrosanct,execrate,sacrilege,sacred,sacrifice
 
-**sat**
+**sanct** (holy) sanction,sacrosanct,sanctity,sanctimony,sanctimonious,sanctuary,sanctum
 
-**scend**
+**sat** (enough) sate,satiate,insatiable,satisfy,saturate
 
-**scrib**
+**scend** (climb, mount) transcend,descend,condescend,ascend
 
-**script**
+**scrib,script** (write) scribe,transcribe,scribble,inscribe,prescribe,describe,script,manuscript,subscribe,postscript,nondescript
 
-**scrut**
+**scrut** (probe, examine) inscrutable,scrutineer,scrutiny,scrutinize
 
 **sect**
 
@@ -607,6 +623,8 @@
 **sper**
 
 **spers**
+
+**spic**
 
 **splend**
 
@@ -649,6 +667,8 @@
 **toxic**
 
 **tum** 肿(swell);干扰,障碍,紊乱,骚乱(disturbance);骚动(uproar) tumor,tumid,tumescent,contumacious,tumult,tumultuous
+
+**turb**
 
 **trit**
 

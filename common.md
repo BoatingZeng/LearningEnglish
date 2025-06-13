@@ -9,6 +9,7 @@
 * broom 扫把
 * by the minute 每时每刻;迅速地
 * chin 下巴
+* clap 鼓掌
 * clothes peg 衣夹
 * contact 接触;隐形眼镜
 * counter 柜台;操作台
@@ -23,6 +24,7 @@
 * feel ill 感到不适
 * foam 泡沫
 * fry 煎,炸,炒
+* grin from ear to ear 笑得合不拢嘴
 * inhale 吸气
 * irk 使苦恼,使烦恼;厌烦,厌倦(名词)
 * jog 慢跑
@@ -34,8 +36,10 @@
 * make a fortune 大赚一笔
 * make sound 发出声音
 * mark off (用线条,符号等)划分,划分出,区分,划出
+* mess around 浪费时间;混日子;闲混;胡闹
 * mop 地拖
 * mug 马克杯
+* no point 没理由;没有意义;没有必要
 * no wonder 难怪
 * On your mark, get set, go! 各就位,预备,跑!
 * OTC(over-the-counter drug) 非处方药
@@ -43,6 +47,7 @@
 * pare 削;削皮;削减,使缩小;修剪
 * parking lot(place,area) 停车场
 * parking spot 停车位
+* pay off 还(清),付(清)(债,工资);回报
 * pee 小便(动词)
 * peel 削皮,剥皮,去壳
 * poach 水煮,小火煮;偷猎;窃取
@@ -68,6 +73,7 @@
 * slipper 拖鞋
 * smear 涂抹;apply也可以用作涂和敷之意
 * soak 浸泡,浸湿(强调浸得比较久)
+* soy 大豆;酱油(soy sauce)
 * spoon 匙(小的那种)
 * sprain 扭伤
 * stir-fry 翻炒,快炒
