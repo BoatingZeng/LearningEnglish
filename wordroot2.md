@@ -350,6 +350,8 @@
 
 **fat** (speak, talk, say) prefatory
 
+**feas** (make, do) feasible,indefeasible,malfeasance
+
 **feit** (made, done) surfeit,counterfeit,forfeit
 
 **fer** (carry, bring, bear) transfer,suffer,differ,refer,prefer,fertile,infer,vociferous,circumference
@@ -365,6 +367,8 @@
 **fid** (trust, faith) confident,fidelity,confidant,perfidious,confide,diffident
 
 **fili** (daughter, son) filial,affiliate
+
+**flat** (blow) conflate,deflate,inflate
 
 **flict** (struck, struck down) afflict,conflict,inflict
 
@@ -602,13 +606,13 @@
 
 **scrut** (probe, examine) inscrutable,scrutineer,scrutiny,scrutinize
 
-**sect**
+**sect** (cut) insect,segment,bisect,intersect,secant,dissect,section
 
-**sen**
+**sen** (old man, elder, old) senescent,senile,senate,senator,senior
 
-**sens**
+**sens,sent** (felt, sensed, perceived) dissent,consent,consensus,sensitive,desensitize,sensate,sense,sensor,sensual,sensuous,sentiment,assent,resent,sentinel,sentry
 
-**simil**
+**simil** (like) similitude,verisimilitude,assimilate,similar,facsimile(fax),simile
 
 **sin**
 
