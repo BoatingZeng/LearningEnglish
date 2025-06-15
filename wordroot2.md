@@ -252,7 +252,7 @@
 
 **ceed** (go, move) proceed,exceed,succeed
 
-**ceiv** (take) perceive,conceive,deceive,receive,incisive,incise
+**ceiv** (take) perceive,conceive,deceive,receive
 
 **cent** (hundred) percent,century,centennial,centimeter
 
@@ -270,7 +270,7 @@
 
 **cip** (take) recipient,incipient,principle,disciple
 
-**cis** (cut) decide,homicide,herbicide
+**cis** (cut) decide,homicide,herbicide,incisive,incise
 
 **cit** (moved, stirred up) solicit,cite,incite,excite,recite,resuscitate
 
