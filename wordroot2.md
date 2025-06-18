@@ -120,7 +120,7 @@
 
 **retro** 向后(backward) retrograde,retrospect,retroactive,retrogress
 
-**se** 分开(apart) secret,select,separate,secede,seclude
+**se** 分开(apart) secret,secrete,select,separate,secede,seclude
 
 **suc** (under) succumb,succeed,successive
 
@@ -163,6 +163,8 @@
 **ent** 构成形容词或名词,有...性质的(人或事物)(being in a state or condition) luminescent,pungent,dissident,gradient
 
 **ery** 构成名词,表性质,职业,场所,类,状态 foolery,bravery,cutlery,bribery
+
+**escent,escence** (becoming; beginning to be) senescent,convalescent,effervescent,iridescent,obsolescent,tumescent,adolescent,coalescent,fluorescent,incandescent,luminescent,putrescent
 
 **ful** 充满...的(full of);有...性质或倾向的(resembling) grateful,graceful,baleful,healthful
 
@@ -288,9 +290,11 @@
 
 **cred** (believe, trust) credit,credible,credulous,credential,creditor,accredit,credo,creed
 
+**crep** (burst, crack) decrepit,decrepitude,discrepant,discrepancy
+
 **cresc** (grow, arise, increase) crescendo,decrescendo,crescent,excrescence
 
-**cret** 筛选,识别,分离(sift, discern, separate) discrete,discretion,excrete,secret
+**cret** 筛选,识别,分离(sift, discern, separate) discrete,discretion,excrete,secret,secrete
 
 **cret** 生长,扩大(grow) accrete,concrete
 
@@ -614,9 +618,17 @@
 
 **simil** (like) similitude,verisimilitude,assimilate,similar,facsimile(fax),simile
 
-**sin**
+**sin** (curve, fold, hollow) sine,cosine,sinuous,insinuate
 
-**sol**
+**sol** (alone) soliloquy,desolate,solitary,solipsism,solo,soloist,sole,soliloquize,solitude
+
+**sol** (comfort) console,consolable,disconsolate,solace
+
+**sol** (be in the habit of) obsolete,obsolescent,insolent
+
+**sol** (sun) solstice,insolation,parasol
+
+**sol** (whole, firm) solemn,consolidate,solder,solid
 
 **somn**
 

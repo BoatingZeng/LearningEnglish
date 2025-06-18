@@ -39,6 +39,7 @@
 * mess around 浪费时间;混日子;闲混;胡闹
 * mop 地拖
 * mug 马克杯
+* news anchor 新闻主播
 * no point 没理由;没有意义;没有必要
 * no wonder 难怪
 * On your mark, get set, go! 各就位,预备,跑!
@@ -60,6 +61,7 @@
 * rinse 冲洗,漂洗;漱洗,漱口
 * ripe 熟的(指水果之类的)
 * run out 用完;到期,过期;失效
+* season (a dish) 给(菜肴)加调料
 * scold 骂,责骂,训斥,怒骂
 * scoop 勺(大的那种)
 * scramble (炒)蛋;争夺;攀登
@@ -80,6 +82,7 @@
 * sweep 扫
 * take a dump 上大号
 * take a sick day 请一天病假
+* take out 拿出;去掉,除去(污点等);放倒,撂倒
 * thrifty 节俭的
 * tow 拖,牵引,拉
 * uncooked 未煮过的

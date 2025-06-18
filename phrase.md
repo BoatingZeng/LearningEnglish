@@ -29,6 +29,7 @@
 * in(on) tap 随时能取用的(酒);随时能买到的(债券的);〔美俚〕手边的
 * internet troll 网络喷子
 * jet lag 时差反应
+* leap to feet 快速站起来
 * last ditch 最终手段;最后防线
 * live out of 以...为基地生活;靠...生活
 * lose it 情绪失控
@@ -44,6 +45,7 @@
 * roller coaster 过山车
 * sales pitch 销售宣传
 * set aside 留出;拨出;搁置
+* sign off 广播结束(时的用语)
 * silver lining 一线希望(光明),一点慰籍
 * slip up 滑倒;犯错,失败
 * snooze button 闹钟上的贪睡按钮
