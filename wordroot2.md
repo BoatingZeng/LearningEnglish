@@ -108,6 +108,8 @@
 
 **para** 平行,并行,与...一起(beside, alongside) paradox,parallel,parasite,paramount
 
+**pen**
+
 **per** 通过(through);彻底(thoroughly) permit,persevere
 
 **peri** (around, near, about) peripatetic,periphery,perigee,perihelion,perimeter,period,periscope
@@ -164,6 +166,8 @@
 
 **ery** 构成名词,表性质,职业,场所,类,状态 foolery,bravery,cutlery,bribery
 
+**esce** (to do something) coalesce,convalesce,liquesce,deliquesce,effervesce,fluoresce
+
 **escent,escence** (becoming; beginning to be) senescent,convalescent,effervescent,iridescent,obsolescent,tumescent,adolescent,coalescent,fluorescent,incandescent,luminescent,putrescent
 
 **ful** 充满...的(full of);有...性质或倾向的(resembling) grateful,graceful,baleful,healthful
@@ -213,6 +217,8 @@
 **agog** (leading, drawing forth) pedagogy,pedagogue,demagogue
 
 **agr** (field, country) agrarian,agriculture
+
+**al** (cause to grow, feed) coalition,coalesce,aliment,alumnus,exalt
 
 **am** (love) amorous,amenity,enamored,enamor,amateur
 
@@ -396,6 +402,8 @@
 
 **geni** 内在性质,天赋(innate quality, inborn talent) genius,ingenious,genial,congenial
 
+**gest**
+
 **glomerat** 聚集成团,积累(gathered into a ball-shaped mass, accumulated) agglomerate,conglomerate,glomerular
 
 **glori** (praise) glory,glorious,vainglory,glorify,inglorious
@@ -424,9 +432,13 @@
 
 **hum** (ground) exhume,posthumous,humble,humility,humiliate
 
+**insul** (island) insular,insulate
+
 **integr** (whole, entire) integrity,integrate,integer
 
 **ig** (do, act) intransigent,prodigal,ambiguous,mitigate,castigate,litigate,exiguous,navigate
+
+**itiner** (journey) itinerant,itinerary
 
 **journ** (pertaining to the day, daily) sojourn,journey,adjourn,journal
 
@@ -584,6 +596,8 @@
 
 **quir** (seek, strive for) conquer,enquire,inquire,inquire,require
 
+**quisit**
+
 **rat** (think) rationale,rational,rate,ration
 
 **rav** (snatch, grab, seize) ravenous,ravage,ravish
@@ -630,13 +644,13 @@
 
 **sol** (whole, firm) solemn,consolidate,solder,solid
 
-**somn**
+**somn** (sleep) somnolent,insomnia,somnambulism
 
-**son**
+**son** (sound) sonic,sonar,sonata,sonnet,assonance,dissonance,unison,resonate,resound
 
-**soph**
+**soph** (wise, clever) sophist,sophistry,sophism,philosophy,sophisticate,sophomore
 
-**sper**
+**sper** (hope) prosper,prosperity,despair,desperate,desperado
 
 **spers**
 
@@ -692,7 +706,7 @@
 
 **val**
 
-**vent** 来(come) advent,invent,event,prevent
+**ven(t)** 来(come) advent,invent,event,prevent,convene,venue,revenue,intervene,convention,convenient
 
 **verb**
 

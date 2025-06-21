@@ -52,6 +52,7 @@
 * pee 小便(动词)
 * peel 削皮,剥皮,去壳
 * poach 水煮,小火煮;偷猎;窃取
+* pros and cons 利弊
 * pull up 停车
 * rag 抹布
 * razor 剃刀
@@ -67,8 +68,9 @@
 * scramble (炒)蛋;争夺;攀登
 * sell sth for...(price) 以...价格卖某物
 * set up a stall 摆摊
-* shallow 浅的;肤浅的
 * shaft 杆;轴;柄;竖井
+* shaker 振动器;混合器;(盖上有孔的)佐料瓶
+* shallow 浅的;肤浅的
 * shovel 铁锹,铁锨,铲子;铲(动词)
 * shower head 花洒头
 * skip classes 逃课

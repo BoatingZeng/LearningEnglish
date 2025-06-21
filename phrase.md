@@ -28,6 +28,7 @@
 * I hear you 我懂你
 * in(on) tap 随时能取用的(酒);随时能买到的(债券的);〔美俚〕手边的
 * internet troll 网络喷子
+* It follows that ... 由此可见...
 * jet lag 时差反应
 * leap to feet 快速站起来
 * last ditch 最终手段;最后防线
