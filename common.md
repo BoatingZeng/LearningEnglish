@@ -22,10 +22,14 @@
 * dustpan 垃圾铲
 * exhale 呼气
 * feel ill 感到不适
+* first aid (kit) 急救(包)
 * foam 泡沫
 * fry 煎,炸,炒
 * grin from ear to ear 笑得合不拢嘴
 * inhale 吸气
+* instead of... 代替...
+* in stead 代替
+* in sb's stead 代替某人
 * irk 使苦恼,使烦恼;厌烦,厌倦(名词)
 * jog 慢跑
 * knee 膝盖
@@ -80,6 +84,7 @@
 * soy 大豆;酱油(soy sauce)
 * spoon 匙(小的那种)
 * sprain 扭伤
+* stand someone in good stead;stand in good stead for someone 对某人有好处(用处)
 * stir-fry 翻炒,快炒
 * sweep 扫
 * take a dump 上大号

@@ -108,7 +108,7 @@
 
 **para** 平行,并行,与...一起(beside, alongside) paradox,parallel,parasite,paramount
 
-**pen**
+**pen** (almost, nearly) peninsula,penumbra
 
 **per** 通过(through);彻底(thoroughly) permit,persevere
 
@@ -282,6 +282,8 @@
 
 **cit** (moved, stirred up) solicit,cite,incite,excite,recite,resuscitate
 
+**clin** (lean) incline,decline,recline
+
 **clud** 关,闭(shut, close) include,exclude,conclude,seclude,recluse
 
 **coc** (cook, ripen) precocious,concoct,decoct
@@ -402,7 +404,7 @@
 
 **geni** 内在性质,天赋(innate quality, inborn talent) genius,ingenious,genial,congenial
 
-**gest**
+**gest** (bear carry) gesticulate,gestate,digest,congest,gesture,ingest,suggest
 
 **glomerat** 聚集成团,积累(gathered into a ball-shaped mass, accumulated) agglomerate,conglomerate,glomerular
 
@@ -552,6 +554,8 @@
 
 **par** 准备;防护(make, prepare) parry,prepare,apparatus,parachute,parade,parapet,parasol,rampart,repair,reparation
 
+**parl** (talk, speak) parlance,parley,parliament,parlor
+
 **path** (feeling, disease) sympathy,empathy,apathy,antipathy,pathology,pathogen,psychopath,sociopath
 
 **pend,pens** (hang, weigh) dependent,suspend,pensive
@@ -576,6 +580,8 @@
 
 **phyt** (plant) neophyte,saprophyte,zoophyte
 
+**plen** (full) plenary,plenipotentiary,replenish,plenitude,plentiful,plenty,aplenty
+
 **plex** (weave) complex,complexity,complexion,perplex,multiplex,duplex
 
 **plumb** 垂直 plumb,plummet,plumber,plunge
@@ -590,13 +596,17 @@
 
 **prim** (first) primary,primer,prime number,primal,primitive,primate,premier
 
+**prompt** (ready) impromptu,prompt,promptness
+
 **prop** (proper, fitting, one's own) expropriate,apropos,appropriate,propriety,proper,property,proprietary,proprietor
 
 **puls** (pushed) compulsive,impulse,repulse,expulsion,propulsion
 
-**quir** (seek, strive for) conquer,enquire,inquire,inquire,require
+**quir** (seek, strive for) conquer,enquire,inquire,inquire,require,acquire
 
-**quisit**
+**quisit** (seek, ask) requisite,requisition,prerequisite,acquisitive,inquisitive,exquisite,perquisite
+
+**ras** (scrape, scratch) abrade,abrasion,erase,rascal,rash,razor,rasp
 
 **rat** (think) rationale,rational,rate,ration
 
@@ -652,19 +662,19 @@
 
 **sper** (hope) prosper,prosperity,despair,desperate,desperado
 
-**spers**
+**spers** (scatter, sprinkle) aspersion,disperse,intersperse,sparse
 
-**spic**
+**spic** (see, observe, look, watch over) auspicious,perspicacity,perspicacious,perspicuous,despicable,conspicuous,suspicious
 
-**splend**
+**splend** (bright, shining) resplendent,splendid,splendour,splendorous
 
-**spond**
+**spond** (pledge, promise) despondent,respond,correspond,sponsor,spontaneous
 
-**stat**
+**stat** (stands) station,status,stature,statue,statute,state,statement,ecstatic,distant,misstate
 
-**stitut** (set up, decided) restitution,destitute,constitute,institute
+**stitut** (set up, decided) restitution,destitute,constitute,institute,superstition
 
-**sult**
+**sult** (leap, spring forward, jump) desultory,exult,assault,insult,result
 
 **tact**
 
@@ -703,6 +713,8 @@
 **trit**
 
 **ul**
+
+**umbr**
 
 **val**
 
