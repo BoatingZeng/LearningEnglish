@@ -55,6 +55,7 @@
 * stumble across 偶尔发现
 * stumble on 碰上
 * take a dip 泡个澡;去游泳;为时不长的游泳
+* tap into 开发;利用
 * the last stretch (the last or final moments before an ending)
 * throw in (include)
 * true be told 说实话

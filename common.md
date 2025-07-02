@@ -23,9 +23,11 @@
 * exhale 呼气
 * feel ill 感到不适
 * first aid (kit) 急救(包)
+* fit in 融入
 * foam 泡沫
 * fry 煎,炸,炒
 * grin from ear to ear 笑得合不拢嘴
+* I see 原来如此
 * inhale 吸气
 * instead of... 代替...
 * in stead 代替
@@ -82,6 +84,7 @@
 * smear 涂抹;apply也可以用作涂和敷之意
 * soak 浸泡,浸湿(强调浸得比较久)
 * soy 大豆;酱油(soy sauce)
+* spare me 饶了我吧
 * spoon 匙(小的那种)
 * sprain 扭伤
 * stand someone in good stead;stand in good stead for someone 对某人有好处(用处)

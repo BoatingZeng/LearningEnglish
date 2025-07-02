@@ -504,6 +504,8 @@
 
 **merc** (trade) mercenary,commerce,merchant,mercantile,merchandise
 
+**migr** (move) emigrate,emigre,immigrate,migrate,migratory,transmigrate
+
 **min** (lean forward, threaten) imminent,prominent,eminent,preeminent,minatory
 
 **min** (lessen, make smaller) minuscule,miniscule,minutia,diminution,minimum,diminish,minor,minority,diminuendo,diminutive,minimal,minimize,minute,minus
@@ -513,6 +515,8 @@
 **mit** (send) emit,omit,permit,submit,commit,admit,transmit
 
 **morph** (shape, form) metamorphose,amorphous,polymorph,morpheme,morphology
+
+**mors** (bite) remorse,morsel,remorseful,remorseless
 
 **mort** (death) mortal,mortician,postmortem,mortuary,mortgage
 
@@ -580,6 +584,8 @@
 
 **phyt** (plant) neophyte,saprophyte,zoophyte
 
+**ple,pli,ply** (fill) supply,supplement,comply,compliant,complement,implement,complimentary,compliment,accomplish,complete
+
 **plen** (full) plenary,plenipotentiary,replenish,plenitude,plentiful,plenty,aplenty
 
 **plex** (weave) complex,complexity,complexion,perplex,multiplex,duplex
@@ -587,6 +593,8 @@
 **plumb** 垂直 plumb,plummet,plumber,plunge
 
 **plus,plur** (more) plural,surplus
+
+**ponder** (weigh, consider) ponder,preponderance,ponderous,imponderable
 
 **pos** (put, place) transpose,interpose,dispose,predispose,propose,compose,depose,expose,impose,oppose,juxtapose,suppose
 
@@ -674,27 +682,29 @@
 
 **stitut** (set up, decided) restitution,destitute,constitute,institute,superstition
 
+**su** (follow) ensue,pursue,sue,suit,suitor
+
 **sult** (leap, spring forward, jump) desultory,exult,assault,insult,result
 
-**tact**
+**tact** (touched) tactile,contact,intact,tact,tactful,tactless,tactility
 
 **tain** (have, hold) retain,contain,detain,abstain,obtain,pertain,maintain
 
-**temper**
+**temper** (regulate, modify) temperament,temperamental,temperance,temperate,temperature
 
 **tend** 倾向,伸展(stretch) distend,intend,extend,attend,tender
 
-**termin**
+**termin** (boundary, end, limit) terminate,terminable,determine,coterminous,exterminate,terminal,terminology,terminus
 
 **terr** 土地(earth,land) territory,terrain,Mediterranean
 
 **terr** 恐吓(frighten) terror,terrible,terrific
 
-**test**
+**test** (witness, proof, indicator) intestate,attest,contest,detest,protest,testament,testify,testimony,testimonial
 
-**text**
+**text** (weave) textile,texture,pretext
 
-**thes**
+**thes** (put, place) hypothesis,antithesis,synthesis,thesis,parenthesis,thesaurus
 
 **tin(tain,ten,tent)** (hold) continent,pertinent,continuous,maintain,detention,content,contain,tenacious
 
