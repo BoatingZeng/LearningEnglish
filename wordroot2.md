@@ -126,6 +126,8 @@
 
 **suc** (under) succumb,succeed,successive
 
+**suf** (under, from below) suffuse,suffrage,suffer,suffice,sufficient,suffix,suffocate
+
 **sur** (over, above) surreal,surmount,surfeit,surface,surpass,survey
 
 **sur** (under) surreptitious,surrogate,surmise
@@ -157,6 +159,8 @@
 **en** 形容词后缀 sunken,spoken
 
 **ence** 构成名词,表性质(state or condition) transience,confluence,dependence,luminescence
+
+**end** 过去式,结束,尽头(that which is to be ...ed) addendum,referendum,stupendous,tremendous,dividend,legend,addend,subtrahend
 
 **endo** (doing something) crescendo,decrescendo,diminuendo,innuendo
 
@@ -228,6 +232,8 @@
 
 **anim** (mind, spirit) animal,animate,magnanimous,unanimous,equanimity
 
+**ann**
+
 **anthrop** (human) anthropology,anthropoid,misanthrope,anthropocentric,anthropomorphic
 
 **apt,ept** (suitable, fit) apt,aptitude,adept,adapt,inept
@@ -242,6 +248,8 @@
 
 **bat** (beat, pound) abate,batter,battle,combat,debate,rebate
 
+**bio** (life) biology,microbiology,biography,amphibian,symbiosis,aerobic,anaerobic,biosphere
+
 **bol** (throw) hyperbole,parabola,metabolism,symbol
 
 **cand** 亮白,发光,热(be of brilliant whiteness, shine, be hot) candor,candid,incendiary,incandescent,candle,candelabrum,candidate
@@ -251,6 +259,8 @@
 **cas** (fall) cascade,casual,occasion
 
 **caust** 烧,红热(burnt,red hot) caustic,cauterize,cautery,holocaust
+
+**cav**
 
 **caval** (horse) cavalry,cavalier,cavalcade,chivalry
 
@@ -415,6 +425,8 @@
 **gram** (line, stroke of a pen, letter) epigram,diagram,hologram,grammar,program,telegram
 
 **gran** (grain) granule,ingrain,garner,granary
+
+**graph**
 
 **greg** 聚集,群集(flock) aggregate,gregarious,congregate,segregate,egregious
 
@@ -590,6 +602,8 @@
 
 **plex** (weave) complex,complexity,complexion,perplex,multiplex,duplex
 
+**plor**
+
 **plumb** 垂直 plumb,plummet,plumber,plunge
 
 **plus,plur** (more) plural,surplus
@@ -609,6 +623,8 @@
 **prop** (proper, fitting, one's own) expropriate,apropos,appropriate,propriety,proper,property,proprietary,proprietor
 
 **puls** (pushed) compulsive,impulse,repulse,expulsion,propulsion
+
+**quaint** (know, learn) quaint,acquaint,acquaintance
 
 **quir** (seek, strive for) conquer,enquire,inquire,inquire,require,acquire
 
@@ -682,6 +698,8 @@
 
 **stitut** (set up, decided) restitution,destitute,constitute,institute,superstition
 
+**stup**
+
 **su** (follow) ensue,pursue,sue,suit,suitor
 
 **sult** (leap, spring forward, jump) desultory,exult,assault,insult,result
@@ -710,15 +728,17 @@
 
 **tom** 切(cut) anatomy,atom,appendectomy(有很多tomy结尾的表示某种切除手术)
 
-**ton**
+**ton** (sound) intone,monotonous,tonal,atonal,attune,intonation
 
-**tort**
+**tort** (twisted, wound, wrapped) tortuous,distort,retort,contort,extortionate,torture
 
-**toxic**
+**toxic** (poison) toxicity,toxicology,antitoxin,detox,intoxicate,intoxicant,toxin
 
 **tum** 肿(swell);干扰,障碍,紊乱,骚乱(disturbance);骚动(uproar) tumor,tumid,tumescent,contumacious,tumult,tumultuous
 
-**turb**
+**turb** (confusion, turmoil, disorder) imperturbable,turbid,turbulence,disturb,perturb,trouble,turbine
+
+**trem**
 
 **trit**
 
@@ -727,6 +747,8 @@
 **umbr**
 
 **val**
+
+**vari**
 
 **ven(t)** 来(come) advent,invent,event,prevent,convene,venue,revenue,intervene,convention,convenient
 

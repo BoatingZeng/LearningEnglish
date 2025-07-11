@@ -48,6 +48,7 @@
 * news anchor 新闻主播
 * no point 没理由;没有意义;没有必要
 * no wonder 难怪
+* on the pretext of... 以...为借口
 * On your mark, get set, go! 各就位,预备,跑!
 * OTC(over-the-counter drug) 非处方药
 * packed 拥挤
@@ -60,6 +61,7 @@
 * poach 水煮,小火煮;偷猎;窃取
 * pros and cons 利弊
 * pull up 停车
+* rack 衣架,挂架,搁架
 * rag 抹布
 * razor 剃刀
 * reach out to 接触,联系;把手伸向
