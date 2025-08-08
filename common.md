@@ -8,6 +8,7 @@
 * bristle 刷子毛
 * broom 扫把
 * by the minute 每时每刻;迅速地
+* cash in 兑现
 * chin 下巴
 * clap 鼓掌
 * clothes peg 衣夹
@@ -26,12 +27,15 @@
 * fit in 融入
 * foam 泡沫
 * fry 煎,炸,炒
+* full(y)-fledged 成熟的;发育全面的
+* give lectures 上课
 * grin from ear to ear 笑得合不拢嘴
 * I see 原来如此
 * inhale 吸气
 * instead of... 代替...
 * in stead 代替
 * in sb's stead 代替某人
+* in terms of... 依...;从...方面;根据...
 * irk 使苦恼,使烦恼;厌烦,厌倦(名词)
 * jog 慢跑
 * knee 膝盖
@@ -39,9 +43,11 @@
 * lease 租约;租(动词,租入和租出都是)
 * lessee 租用人;租户
 * lip 嘴唇
+* live up to 履行;兑现;符合
 * make a fortune 大赚一笔
 * make sound 发出声音
 * mark off (用线条,符号等)划分,划分出,区分,划出
+* mark papers 改试卷
 * mess around 浪费时间;混日子;闲混;胡闹
 * mop 地拖
 * mug 马克杯
@@ -51,10 +57,12 @@
 * on the pretext of... 以...为借口
 * On your mark, get set, go! 各就位,预备,跑!
 * OTC(over-the-counter drug) 非处方药
+* overtake 超过;赶上;(不好的事)突然发生
 * packed 拥挤
 * pare 削;削皮;削减,使缩小;修剪
 * parking lot(place,area) 停车场
 * parking spot 停车位
+* pass the buck 推卸责任
 * pay off 还(清),付(清)(债,工资);回报
 * pee 小便(动词)
 * peel 削皮,剥皮,去壳
@@ -83,14 +91,18 @@
 * shower head 花洒头
 * skip classes 逃课
 * slipper 拖鞋
+* small hours 凌晨
 * smear 涂抹;apply也可以用作涂和敷之意
 * soak 浸泡,浸湿(强调浸得比较久)
+* sort of 有点;稍微
 * soy 大豆;酱油(soy sauce)
 * spare me 饶了我吧
+* spin off 拆分;剥离;衍生(动词或名词都行)
 * spoon 匙(小的那种)
 * sprain 扭伤
 * stand someone in good stead;stand in good stead for someone 对某人有好处(用处)
 * stir-fry 翻炒,快炒
+* supervise exams 监考
 * sweep 扫
 * take a dump 上大号
 * take a sick day 请一天病假

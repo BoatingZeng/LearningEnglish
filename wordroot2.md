@@ -22,6 +22,8 @@
 
 **at** 向(to,toward) attract,attend,attempt,attain,attenuate
 
+**auto** (self, same) autograph,autobiography,automobile,automotive,automation,automaton,autonomous,autopilot,automatic,autofocus,autocracy
+
 **be** (thoroughly,to treat in a certain way) belabor,berate,beset,beleaguer,belittle,beget,bestow,belie,bedevil
 
 **bene** (well) benefit,benefaction,benefactor,benign,benevolent
@@ -114,6 +116,8 @@
 
 **peri** (around, near, about) peripatetic,periphery,perigee,perihelion,perimeter,period,periscope
 
+**pict** (paint, portray) depict,pictograph,pictogram,pictorial,picture,pigment,pixel
+
 **poly** (many) polygon,polyhedron,polynomial,polymath,polysyllabic
 
 **pro** 在前 proactive,profess,progress
@@ -143,6 +147,8 @@
 **age** (to do something, state) envisage,homage,disparage,ravage,advantage,vantage,visage,bondage,carnage
 
 **al** 与...有关的(of or relating to);表示过程或状态(action, process) practical,emotional,typical,dispersal,reprisal
+
+**ang** (distress) angst,anguish
 
 **ant** 构成形容词或名词;是...的;做...的;...人;...事物;(being in a state or condition) assistant,dominant,defendant,servant,significant,coolant,claimant
 
@@ -216,13 +222,19 @@
 
 ### 位置不定 ###
 
+**acr** (sharp, keen, fierce) acrimonious,acrid,acrimony,acrostic
+
 **ag** 做(do, act, drive) agenda,agent,agitate,agile,coagulate
 
 **agog** (leading, drawing forth) pedagogy,pedagogue,demagogue
 
+**agon** (struggle, contest, conflict) antagonist,antagonism,antagonistic,antagonize,protagonist,agon,agony,agonal,agonize
+
 **agr** (field, country) agrarian,agriculture
 
 **al** (cause to grow, feed) coalition,coalesce,aliment,alumnus,exalt
+
+**alt** (high) exalt,altitude,altimeter
 
 **am** (love) amorous,amenity,enamored,enamor,amateur
 
@@ -232,11 +244,13 @@
 
 **anim** (mind, spirit) animal,animate,magnanimous,unanimous,equanimity
 
-**ann**
+**ann** (year) anniversary,annual,biannual,annals
 
 **anthrop** (human) anthropology,anthropoid,misanthrope,anthropocentric,anthropomorphic
 
 **apt,ept** (suitable, fit) apt,aptitude,adept,adapt,inept
+
+**arbitr** (think, judge) arbitrary,arbiter,arbitrator,arbitrate,arbitrable,arbitrament,arbitration
 
 **arbor** (tree) arboreal,arboreta,arboretum
 
@@ -252,6 +266,12 @@
 
 **bol** (throw) hyperbole,parabola,metabolism,symbol
 
+**brev** (short) brief,brevity,abbreviation
+
+**cal** (beauty) calligraphy,calisthenics,kaleidoscope
+
+**cal** (warm, be hot) nonchalant,calorie,calory,cauldron,caldron,scald
+
 **cand** 亮白,发光,热(be of brilliant whiteness, shine, be hot) candor,candid,incendiary,incandescent,candle,candelabrum,candidate
 
 **carn** 肉(meat) carnal,carnage,carnation,carnival,carrion,incarnate
@@ -260,7 +280,7 @@
 
 **caust** 烧,红热(burnt,red hot) caustic,cauterize,cautery,holocaust
 
-**cav**
+**cav** (hollow) cavern,cavernous,cavity,concave,excavate
 
 **caval** (horse) cavalry,cavalier,cavalcade,chivalry
 
@@ -322,6 +342,8 @@
 
 **cum** (heap, pile) encumber,accumulate,cumulative,encumbrance,cumulus
 
+**cur** (worry, anxiety, attention) curio,curious,cure,curator,curative,secure,accurate,procure,pedicure,manicure
+
 **curr** (run) course,cursive,cursor,current,curriculum,incur,recourse,discourse,excursion
 
 **curs** (ran, hurried) cursory,discursive,precursor,excursive,excursion,incursion,cursive,cursor
@@ -352,9 +374,13 @@
 
 **duct,duce** (led) reductive,reduce,induct,induce,conduct,conduce,product,produce,aqueduct,ductile,abduct,seductive
 
+**dyn** (power) dynamic,dynamo,dynamite,dynasty
+
 **ego** 我(I) egotist,egotistical,egotism,egomaniac
 
 **egor** (assembly) allegory,category
+
+**empt** (buy, take) peremptory,exempt,preempt,redemption,redeem
 
 **enn** (year) perennial,millennium,biennium,centennial
 
@@ -426,7 +452,9 @@
 
 **gran** (grain) granule,ingrain,garner,granary
 
-**graph**
+**graph** (write) geography,biography,bibliography,calligraphy,cinematography,photography,telegraph,autograph,graffiti
+
+**grat** (pleasing, welcome) ingrate,ingratiate,gratify,congratulate,grateful,gratis,gratitude
 
 **greg** 聚集,群集(flock) aggregate,gregarious,congregate,segregate,egregious
 
@@ -446,13 +474,19 @@
 
 **hum** (ground) exhume,posthumous,humble,humility,humiliate
 
+**impet** (impulse, attack) impetus,impetuous,impetigo
+
 **insul** (island) insular,insulate
 
 **integr** (whole, entire) integrity,integrate,integer
 
+**intellig** (understand) intelligent,intelligible,intelligentsia
+
 **ig** (do, act) intransigent,prodigal,ambiguous,mitigate,castigate,litigate,exiguous,navigate
 
 **itiner** (journey) itinerant,itinerary
+
+**joc** (joke) jocular,jocose
 
 **journ** (pertaining to the day, daily) sojourn,journey,adjourn,journal
 
@@ -479,6 +513,8 @@
 **lict** (left behind, abandoned, forsaken) derelict,relic,delinquent
 
 **lig** (tie, bind) oblige,religion,ligament,rely,ally
+
+**lips** (leave) eclipse,ellipse,elliptic,elliptical,ellipsis
 
 **lit** (lawsuit) litigate
 
@@ -516,6 +552,8 @@
 
 **merc** (trade) mercenary,commerce,merchant,mercantile,merchandise
 
+**metr**
+
 **migr** (move) emigrate,emigre,immigrate,migrate,migratory,transmigrate
 
 **min** (lean forward, threaten) imminent,prominent,eminent,preeminent,minatory
@@ -546,6 +584,8 @@
 
 **neg** (deny, say not) renege,abnegate,negate,negligent,negotiate,negative,negation
 
+**nihil** (nothing) nihilism,annihilate,nil
+
 **not** 使知道,发现(gotten to know, found out);标记,符号(mark,sign) notorious,notice,notion,notify,note,annotate,keynote,notary,notarize,denote
 
 **nov** (new) novel,innovate,novelty,renovate,nova,novice,novitiate
@@ -558,11 +598,17 @@
 
 **onym** (name) anonym,pseudonym,synonym,antonym,homonym
 
+**op** (eye) myopic,myopia,synoptic,synopsis,optic,optical,optician,ophthalmology
+
 **oram** (sight, view) diorama,panorama
 
 **orn** (decorate) adorn,ornate,ornament
 
 **pac** (peace) appease,pacific,pacify,pact
+
+**past** (dough, paste) paste,pastel,pastry,pasta,pasty,pastiche
+
+**past** (feed) pastoral,pastor,pasture,repast
 
 **par** 产生,出现(come to sight) apparition,transparent,parent,antepartum,multipara,oviparous,parturition,postpartum,viviparous
 
@@ -596,19 +642,21 @@
 
 **phyt** (plant) neophyte,saprophyte,zoophyte
 
-**ple,pli,ply** (fill) supply,supplement,comply,compliant,complement,implement,complimentary,compliment,accomplish,complete
+**ple,plet,pli,ply** (fill) supply,supplement,comply,compliant,complement,implement,complimentary,compliment,accomplish,complete,deplete
 
 **plen** (full) plenary,plenipotentiary,replenish,plenitude,plentiful,plenty,aplenty
 
 **plex** (weave) complex,complexity,complexion,perplex,multiplex,duplex
 
-**plor**
+**plor** (weep over, cry) explore,deplore,implore
 
 **plumb** 垂直 plumb,plummet,plumber,plunge
 
 **plus,plur** (more) plural,surplus
 
 **ponder** (weigh, consider) ponder,preponderance,ponderous,imponderable
+
+**por** (passage) porous,pore,porosity,osteoporosis
 
 **pos** (put, place) transpose,interpose,dispose,predispose,propose,compose,depose,expose,impose,oppose,juxtapose,suppose
 
@@ -618,21 +666,27 @@
 
 **prim** (first) primary,primer,prime number,primal,primitive,primate,premier
 
+**prob** (prove, test, approve) probate,probation,reprobate,probity,approbation,approve,probable,probe,proof,prove,reproof
+
 **prompt** (ready) impromptu,prompt,promptness
 
 **prop** (proper, fitting, one's own) expropriate,apropos,appropriate,propriety,proper,property,proprietary,proprietor
 
 **puls** (pushed) compulsive,impulse,repulse,expulsion,propulsion
 
+**pung** (point, pierce, prick) pungent,pungency,poignant,expunge
+
 **quaint** (know, learn) quaint,acquaint,acquaintance
 
-**quir** (seek, strive for) conquer,enquire,inquire,inquire,require,acquire
+**quer** (complain, protest) querulous,quarrel,quarrelsome
+
+**quir** (seek, strive for) conquer,enquire,inquire,require,acquire
 
 **quisit** (seek, ask) requisite,requisition,prerequisite,acquisitive,inquisitive,exquisite,perquisite
 
 **ras** (scrape, scratch) abrade,abrasion,erase,rascal,rash,razor,rasp
 
-**rat** (think) rationale,rational,rate,ration
+**rat** (think) rationale,rational,rate,ration,ratify
 
 **rav** (snatch, grab, seize) ravenous,ravage,ravish
 
@@ -696,21 +750,31 @@
 
 **stat** (stands) station,status,stature,statue,statute,state,statement,ecstatic,distant,misstate
 
+**stig** (mark, brand, tattoo-mark) stigma,instigate,astigmatism
+
+**still** (drop) distill,distillate,instill
+
 **stitut** (set up, decided) restitution,destitute,constitute,institute,superstition
 
-**stup**
+**stup** (become dazed, be amazed, be brainless) stupor,stupendous,stupefaction,stupefy,stupid,stupidity
 
 **su** (follow) ensue,pursue,sue,suit,suitor
 
 **sult** (leap, spring forward, jump) desultory,exult,assault,insult,result
 
+**tabl** (board, plank) table,tablet,tabloid,tabulate,tabular,tabulation
+
 **tact** (touched) tactile,contact,intact,tact,tactful,tactless,tactility
+
+**tail** (a cutting) detail,entail,retail,tailor,curtail
 
 **tain** (have, hold) retain,contain,detain,abstain,obtain,pertain,maintain
 
 **temper** (regulate, modify) temperament,temperamental,temperance,temperate,temperature
 
-**tend** 倾向,伸展(stretch) distend,intend,extend,attend,tender
+**tend** 倾向,伸展(stretch) distend,intend,extend,attend,tender,contend
+
+**tent** (stretched, stretched out, tend的过去式) portent,contention,contentious,attention,attentive,detente,extent,intention,ostentation
 
 **termin** (boundary, end, limit) terminate,terminable,determine,coterminous,exterminate,terminal,terminology,terminus
 
@@ -722,9 +786,13 @@
 
 **text** (weave) textile,texture,pretext
 
+**therm**
+
 **thes** (put, place) hypothesis,antithesis,synthesis,thesis,parenthesis,thesaurus
 
 **tin(tain,ten,tent)** (hold) continent,pertinent,continuous,maintain,detention,content,contain,tenacious
+
+**ting** (touch, reach, affect) contingent,contingency,contiguity
 
 **tom** 切(cut) anatomy,atom,appendectomy(有很多tomy结尾的表示某种切除手术)
 
@@ -738,19 +806,25 @@
 
 **turb** (confusion, turmoil, disorder) imperturbable,turbid,turbulence,disturb,perturb,trouble,turbine
 
-**trem**
+**trem** (shake, tremble) tremulous,tremendous,tremble,tremolo,tremor
 
-**trit**
+**tribut**
 
-**ul**
+**trit** (rubbed, worn away, old) tribulation,attrition,trite,contrite,detritus,detriment
 
-**umbr**
+**ul** (repeated activity) garrulous,petulant,credulous,querulous,tremulous,regulate,bibulous
+
+**umbr** (shadow, shade) umbrage,adumbrate,somber,umbrella
 
 **val**
 
 **vari**
 
+**vel**
+
 **ven(t)** 来(come) advent,invent,event,prevent,convene,venue,revenue,intervene,convention,convenient
+
+**ver**
 
 **verb**
 
@@ -762,9 +836,15 @@
 
 **vest** 衣服,服装(clothing, garments) vest,divest,travesty,invest,vestment
 
+**veter**
+
 **vey**
 
+**vi**
+
 **vibr**
+
+**vil** (mean, base 两个词都取形容词的含义,刻薄的,卑鄙的等含义) revile,vile,vileness,vilify,vilification
 
 **vin** 葡萄酒(wine) vine,vinegar,vintage
 

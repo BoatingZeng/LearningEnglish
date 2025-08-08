@@ -1,5 +1,6 @@
 * a close one (a situation that is almost dangerous but wasn't)
 * act up 捣蛋;耍脾气;胡闹;出毛病;行动起来
+* at(on) the double 马上,立即
 * and the like; and so on 等等
 * bar exam 律师资格考试
 * beat around the bush 绕圈子;拐弯抹角;旁敲侧击
@@ -19,12 +20,14 @@
 * fall for it(that) 上当,信以为真(一定要用it,that等指代前述谎言)
 * far out 不寻常的;(政见等)极端的;奥秘的
 * freak out 崩溃;极度兴奋
+* get cast in 被选中参演
 * get caught up 陷入,卷入
 * get off work(shift) (换)下班
 * hang loose 放松
 * high five 击掌(以示庆祝或高兴)
 * high pitched 高音调的
 * hit upon 碰巧发现;忽然想出
+* Holy Grail
 * I hear you 我懂你
 * in(on) tap 随时能取用的(酒);随时能买到的(债券的);〔美俚〕手边的
 * internet troll 网络喷子
@@ -55,6 +58,7 @@
 * stumble across 偶尔发现
 * stumble on 碰上
 * take a dip 泡个澡;去游泳;为时不长的游泳
+* take a spill 摔倒
 * tap into 开发;利用
 * the last stretch (the last or final moments before an ending)
 * throw in (include)
