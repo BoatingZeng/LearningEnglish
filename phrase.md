@@ -23,6 +23,7 @@
 * get cast in 被选中参演
 * get caught up 陷入,卷入
 * get off work(shift) (换)下班
+* get up to speed on... 了解...(最新情况)
 * hang loose 放松
 * high five 击掌(以示庆祝或高兴)
 * high pitched 高音调的

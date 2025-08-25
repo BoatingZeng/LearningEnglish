@@ -14,6 +14,8 @@
 * clothes peg 衣夹
 * contact 接触;隐形眼镜
 * counter 柜台;操作台
+* count on 指望
+* cutting corners 偷工减料;走捷径
 * decent price 合适的价格
 * detergent 清洁剂
 * dip 浸一下,蘸(强调浸进去的时间不长,快速沾一下液体)
@@ -54,6 +56,7 @@
 * news anchor 新闻主播
 * no point 没理由;没有意义;没有必要
 * no wonder 难怪
+* on behalf of... 代表...;为...的利益
 * on the pretext of... 以...为借口
 * On your mark, get set, go! 各就位,预备,跑!
 * OTC(over-the-counter drug) 非处方药
