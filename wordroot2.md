@@ -22,6 +22,8 @@
 
 **apo** (away, from) apocryphal,apogee,apostate,apology,apostrophe
 
+**arch** (chief, principal) archetype,archipelago,archangel,archenemy,architect,architecture
+
 **at** 向(to,toward) attract,attend,attempt,attain,attenuate
 
 **auto** (self, same) autograph,autobiography,automobile,automotive,automation,automaton,autonomous,autopilot,automatic,autofocus,autocracy
@@ -260,6 +262,10 @@
 
 **arbor** (tree) arboreal,arboreta,arboretum
 
+**arch** (ancient) archaic,archaeology,archaism,archive
+
+**arch** (rule) archon,monarch,monarchy,oligarchy,matriarch,patriarch,anarchy,hierarchy
+
 **ard** (burn, be on fire) ardour,arid,ardent,arson
 
 **asper** (rough, harsh, roused to anger) exasperate,asperity
@@ -314,6 +320,8 @@
 
 **cess** (go) access,excess,recess,recession,successor,process,ancestor
 
+**chart** (sheet of paper) uncharted,cartography,cartographer,carton,cartoon,cartridge,cartel
+
 **chron** (time) chronograph,chronometer,synchronize,chronicle,chronological,anachronism,chronic,crony
 
 **cid** (fall) recidivism,recidivist,incident,coincide,accident,deciduous
@@ -350,6 +358,8 @@
 
 **crit** (judge) critical,hypocritical,critic,criterion
 
+**cruc** (cross) crux,excruciating,crucial,cruciate,crucify,crucifix,cruciform,crusade
+
 **cult** (grow) culture,cultivate,agriculture,horticulture,pisciculture,acculturate
 
 **cum** (heap, pile) encumber,accumulate,cumulative,encumbrance,cumulus
@@ -371,6 +381,8 @@
 **dens** (thick) dense,density,condense
 
 **dextr** (right) dexterous,ambidextrous
+
+**dign** (worthy, deserving) condign,disdain,indignant,dignify,dignitary,indignity,undignified
 
 **divid** (separate into parts) divide,individual,dividend
 
@@ -431,6 +443,8 @@
 **flat** (blow) conflate,deflate,inflate
 
 **flict** (struck, struck down) afflict,conflict,inflict
+
+**foli** (leaf) defoliate,exfoliate,foliage,portfolio
 
 **for** (outside) foreclose,foreign,forecast,forfeit
 
@@ -562,6 +576,8 @@
 
 **math** (learn, understand) polymath,mathematics,mathematician
 
+**matr** (mother) maternity,maternal,matrimony,material,matter,matrix,matriarch,matron,matriculate
+
 **medi** (middle, in the middle, in half) medium,mediocre,medieval,immediate,media,mediator,intermediate,median
 
 **men** (threat) amenable(a表示倾向于,倾向于被威胁,顺从),menace
@@ -645,6 +661,8 @@
 **parl** (talk, speak) parlance,parley,parliament,parlor
 
 **path** (feeling, disease) sympathy,empathy,apathy,antipathy,pathology,pathogen,psychopath,sociopath
+
+**patr** (father) patron,patronize,paternal,paternity,patriarch,patriot,compatriot,expatriate,repatriate
 
 **pend,pens** (hang, weigh) dependent,suspend,pensive
 
@@ -753,6 +771,8 @@
 **scrut** (probe, examine) inscrutable,scrutineer,scrutiny,scrutinize
 
 **sect** (cut) insect,segment,bisect,intersect,secant,dissect,section
+
+**secut** (follow) consecutive,persecute,prosecute
 
 **sen** (old man, elder, old) senescent,senile,senate,senator,senior
 
@@ -868,13 +888,15 @@
 
 **ven(t)** 来(come) advent,invent,event,prevent,convene,venue,revenue,intervene,convention,convenient
 
-**ver**
+**ver** (fear) revere,reverent,irreverent,reverential,reverend
 
-**verb**
+**ver** (truth) verdict,verify,veracity,very
 
-**verg**
+**verb** (word) adverb,verbal,verbalize,verbose,verbiage,proverb,verbatim
 
-**vers**
+**verg** (move) converge,diverge,verge
+
+**vers** (turned) averse,converse,reverse,obverse,universe,adversary,adverse,versus,anniversary,verse,diverse,version
 
 **vert** 转(turn) invert,revert,divert,avert,extrovert,introvert,vertigo
 
@@ -885,6 +907,8 @@
 **vey**
 
 **vi**
+
+**vig**
 
 **vibr**
 

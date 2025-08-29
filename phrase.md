@@ -39,12 +39,15 @@
 * live out of 以...为基地生活;靠...生活
 * lose it 情绪失控
 * next to nothing 几乎没有
+* off the bat 马上;立即;从一开始
 * over-the-counter(OTC) 非处方(药)
 * on (a) par with 与...平分秋色
 * order in 叫外卖
 * peace out 再见
 * pep talk 鼓舞的话
 * pink slip 解雇通知书
+* plan backfire 计划适得其反
+* point blank 直截了当(的,地)
 * pound key 井号键
 * ride (How long is the train ride ?) 车程要多久?
 * roller coaster 过山车

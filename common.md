@@ -15,6 +15,7 @@
 * contact 接触;隐形眼镜
 * counter 柜台;操作台
 * count on 指望
+* crank up 增强,调大,调高(音量,光...)
 * cutting corners 偷工减料;走捷径
 * decent price 合适的价格
 * detergent 清洁剂
@@ -38,6 +39,7 @@
 * in stead 代替
 * in sb's stead 代替某人
 * in terms of... 依...;从...方面;根据...
+* in the offing 不久的将来
 * irk 使苦恼,使烦恼;厌烦,厌倦(名词)
 * jog 慢跑
 * knee 膝盖
@@ -56,6 +58,7 @@
 * news anchor 新闻主播
 * no point 没理由;没有意义;没有必要
 * no wonder 难怪
+* Now it all clicks. 原来如此
 * on behalf of... 代表...;为...的利益
 * on the pretext of... 以...为借口
 * On your mark, get set, go! 各就位,预备,跑!
@@ -110,7 +113,9 @@
 * take a dump 上大号
 * take a sick day 请一天病假
 * take out 拿出;去掉,除去(污点等);放倒,撂倒
+* That explains it. 原来如此
 * thrifty 节俭的
+* throttle 油门
 * tow 拖,牵引,拉
 * uncooked 未煮过的
 * undercooked 煮的不够熟的
