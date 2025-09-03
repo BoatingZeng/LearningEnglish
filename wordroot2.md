@@ -230,6 +230,8 @@
 
 ### 位置不定 ###
 
+**(a)esthet** (feel, perceive) aesthetic,aesthete,anaesthetic,esthetic,anesthetic
+
 **acr** (sharp, keen, fierce) acrimonious,acrid,acrimony,acrostic
 
 **ag** 做(do, act, drive) agenda,agent,agitate,agile,coagulate
@@ -241,6 +243,8 @@
 **agr** (field, country) agrarian,agriculture
 
 **al** (cause to grow, feed) coalition,coalesce,aliment,alumnus,exalt
+
+**alg** (pain) nostalgic,analgesic,neuralgia
 
 **alt** (high) exalt,altitude,altimeter
 
@@ -288,6 +292,8 @@
 
 **cand** 亮白,发光,热(be of brilliant whiteness, shine, be hot) candor,candid,incendiary,incandescent,candle,candelabrum,candidate
 
+**cap** (take, seize) capacious,capacity,capable,capsule,encapsulate
+
 **capt** (taken, seized) captious,captive,captivate,capture,caption,captor
 
 **carn** 肉(meat) carnal,carnage,carnation,carnival,carrion,incarnate
@@ -322,6 +328,8 @@
 
 **chart** (sheet of paper) uncharted,cartography,cartographer,carton,cartoon,cartridge,cartel
 
+**chol** (bile, gall) choleric,melancholy,choler,cholera,cholesterol
+
 **chron** (time) chronograph,chronometer,synchronize,chronicle,chronological,anachronism,chronic,crony
 
 **cid** (fall) recidivism,recidivist,incident,coincide,accident,deciduous
@@ -331,6 +339,8 @@
 **cis** (cut) decide,homicide,herbicide,incisive,incise
 
 **cit** (moved, stirred up) solicit,cite,incite,excite,recite,resuscitate
+
+**clair** (clear, bright) clairvoyant,clairaudient
 
 **clin** (lean) incline,decline,recline
 
@@ -373,6 +383,8 @@
 **cuss** 打(strike) percussion,repercussion,concuss
 
 **cycl** (circle, wheel) cyclist,unicycle,tricycle,recycle,cyclone,cyclotron,encyclopedia
+
+**cyn** (dog) cynosure,cynic,cynical,cynicism
 
 **decim** (tenth) decimate,decimal,hexadecimal
 
@@ -545,6 +557,8 @@
 **lict** (left behind, abandoned, forsaken) derelict,relic,delinquent
 
 **lig** (tie, bind) oblige,religion,ligament,rely,ally
+
+**limin** (doorway, threshold) preliminary,eliminate,prelim,subliminal
 
 **lips** (leave) eclipse,ellipse,elliptic,elliptical,ellipsis
 
@@ -782,6 +796,8 @@
 
 **sin** (curve, fold, hollow) sine,cosine,sinuous,insinuate
 
+**skept** (examine, consider) skeptic,skeptical,sceptical
+
 **sol** (alone) soliloquy,desolate,solitary,solipsism,solo,soloist,sole,soliloquize,solitude
 
 **sol** (comfort) console,consolable,disconsolate,solace
@@ -850,6 +866,8 @@
 
 **thes** (put, place) hypothesis,antithesis,synthesis,thesis,parenthesis,thesaurus
 
+**tim** (fear, be afraid) timorous,timid,intimidate
+
 **tin(tain,ten,tent)** (hold) continent,pertinent,continuous,maintain,detention,content,contain,tenacious
 
 **ting** (touch, reach, affect) contingent,contingency,contiguity
@@ -878,6 +896,8 @@
 
 **umbr** (shadow, shade) umbrage,adumbrate,somber,umbrella
 
+**vag** (wander, roam, rove) vagary,extravagant,vagabond,vagrant,vague
+
 **val** (be strong, be of value) convalesce,ambivalent,validate,prevail,valiant,available,evaluate,devalue,equivalent,invalid,valuable,invaluable,prevalent,valid,valor,valuate,value
 
 **vari** (different, diverse) variegated,variable,variant,variety,vary,various,variance
@@ -902,32 +922,30 @@
 
 **vest** 衣服,服装(clothing, garments) vest,divest,travesty,invest,vestment
 
-**veter**
+**veter** (old, long-standing) inveterate,veteran,veterinary
 
-**vey**
+**vey** (see, look at) clairvoyant,survey
 
-**vi**
+**vig** (act, be lively) vigilant,vigor,vigil
 
-**vig**
-
-**vibr**
+**vibr** (shake, quickly move to and fro) vibrant,vibe,vibrate
 
 **vil** (mean, base 两个词都取形容词的含义,刻薄的,卑鄙的等含义) revile,vile,vileness,vilify,vilification
 
 **vin** 葡萄酒(wine) vine,vinegar,vintage
 
-**vis**
+**vis** (see, look at, observe) vision,visual,visible,advise,visit,video,evidence,revise
 
-**voc**
+**voc** (call) vocal,vocalize,voice,vocabulary,vociferous,advocate,invocation,revocable,provocation,evocation
 
-**vocat**
+**vocat** (called, called upon) evocative,equivocate,convocation,provocative
 
 **vok** 叫,喊(call, call upon) convoke,evoke,provoke,invoke,revoke
 
-**volat**
+**volat** (fly, move swiftly, speed) volatile,volley
 
-**volv**
+**volv** (roll, wrap up, turn round) revolve,involve,revolution,revolt,evolve,volume
 
 **vor** 吃(eat) voracious,herbivore,herbivorous,carnivore,insectivore,omnivore,devour
 
-**zeal**
+**zeal** (eager rivalry, fierceness) zealous,jealous,zealot,zealotry
