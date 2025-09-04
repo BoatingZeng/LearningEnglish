@@ -314,6 +314,8 @@
 
 **ceiv** (take) perceive,conceive,deceive,receive
 
+**cens** (assessed, judged, rated) censure,censor,census
+
 **cent** (hundred) percent,century,centennial,centimeter
 
 **cent** (sing) accent,accentuate,incentive
@@ -373,6 +375,8 @@
 **cult** (grow) culture,cultivate,agriculture,horticulture,pisciculture,acculturate
 
 **cum** (heap, pile) encumber,accumulate,cumulative,encumbrance,cumulus
+
+**cup** (take, seize) occupy,preoccupy,recuperate,cupidity
 
 **cur** (worry, anxiety, attention) curio,curious,cure,curator,curative,secure,accurate,procure,pedicure,manicure
 
@@ -655,6 +659,8 @@
 **op** (eye) myopic,myopia,synoptic,synopsis,optic,optical,optician,ophthalmology
 
 **oper** (work) opus,operate,operative,opera,operable
+
+**opt** (wish, choose) optimist,adopt,option,optimal,optimize
 
 **oram** (sight, view) diorama,panorama
 
@@ -943,6 +949,8 @@
 **vok** 叫,喊(call, call upon) convoke,evoke,provoke,invoke,revoke
 
 **volat** (fly, move swiftly, speed) volatile,volley
+
+**volut** (rolled, wrapped up) convoluted,devolution,evolution,revolt,revolution,vault
 
 **volv** (roll, wrap up, turn round) revolve,involve,revolution,revolt,evolve,volume
 

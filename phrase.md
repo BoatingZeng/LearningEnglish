@@ -38,6 +38,7 @@
 * last ditch 最终手段;最后防线
 * live out of 以...为基地生活;靠...生活
 * lose it 情绪失控
+* low-key 低调的
 * next to nothing 几乎没有
 * off the bat 马上;立即;从一开始
 * over-the-counter(OTC) 非处方(药)
