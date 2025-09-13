@@ -568,6 +568,8 @@
 
 **lit** (lawsuit) litigate
 
+**liter** (letter of the alphabet) alliteration,literal,illiterate,letter,literacy,literature,obliterate,transliterate
+
 **lith** (stone) monolithic,neolithic,lithium,lithograph,megalith,monolith
 
 **loqu** (talk, speak) loquacious,soliloquy,colloquial,eloquent,circumlocution,elocution
@@ -606,7 +608,7 @@
 
 **metr** (measure) symmetry,asymmetry,metric,metre,meter,metronome,barometer,diameter,geometry,odometer,parameter,pedometer,perimeter
 
-**metr** (大城市)  metropolitan,metroplex,metropolis,metro
+**metr** (mother)  metropolitan,metroplex,metropolis,metro
 
 **migr** (move) emigrate,emigre,immigrate,migrate,migratory,transmigrate
 
@@ -710,6 +712,8 @@
 
 **phyt** (plant) neophyte,saprophyte,zoophyte
 
+**pir** (attempt, attack) empirical,perilous,imperil,peril,pirate,piracy
+
 **plaud** (applaud, clap) applaud,plaudit,explode,implode
 
 **plaus** (applaud, strike) applause,plausible,explosion,implosion
@@ -725,6 +729,8 @@
 **plumb** 垂直 plumb,plummet,plumber,plunge
 
 **plus,plur** (more) plural,surplus
+
+**polit** (citizen) politic,metropolitan,cosmopolitan,apolitical,impolitic,police,policy,political,politician,polity,politics
 
 **ponder** (weigh, consider) ponder,preponderance,ponderous,imponderable
 
@@ -743,6 +749,8 @@
 **prompt** (ready) impromptu,prompt,promptness
 
 **prop** (proper, fitting, one's own) expropriate,apropos,appropriate,propriety,proper,property,proprietary,proprietor
+
+**propiti** (pleasingly inclined, encouraging) propitious,propitiate
 
 **proxim** (next, nearest) proximity,proximate,approximate
 
@@ -853,6 +861,8 @@
 **tain** (have, hold) retain,contain,detain,abstain,obtain,pertain,maintain
 
 **temper** (regulate, modify) temperament,temperamental,temperance,temperate,temperature
+
+**ten** (hold) tenant,maintenance,tenable,tenet,tenacious,tenure,sustenance
 
 **tend** 倾向,伸展(stretch) distend,intend,extend,attend,tender,contend
 

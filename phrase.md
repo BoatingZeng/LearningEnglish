@@ -19,6 +19,7 @@
 * don't get me wrong (don't misunderstand me)
 * fall for it(that) 上当,信以为真(一定要用it,that等指代前述谎言)
 * far out 不寻常的;(政见等)极端的;奥秘的
+* fizzle out 告吹,失败,宣告破灭
 * freak out 崩溃;极度兴奋
 * get cast in 被选中参演
 * get caught up 陷入,卷入

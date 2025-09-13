@@ -24,6 +24,8 @@
 * do the laundry 洗衣服
 * drowsy 困倦的;昏昏欲睡的;使人松弛的;令人疲乏的
 * dustpan 垃圾铲
+* eke out a living 勉强维持生活
+* eke out sb.'s saving 节省某人的积蓄
 * exhale 呼气
 * feel ill 感到不适
 * first aid (kit) 急救(包)
@@ -56,6 +58,7 @@
 * mop 地拖
 * mug 马克杯
 * news anchor 新闻主播
+* next of kin 最亲的亲戚
 * no point 没理由;没有意义;没有必要
 * no wonder 难怪
 * Now it all clicks. 原来如此
@@ -96,6 +99,7 @@
 * shovel 铁锹,铁锨,铲子;铲(动词)
 * shower head 花洒头
 * skip classes 逃课
+* slam dunk 扣篮;十拿九稳,万无一失的事;可预料的必然结果
 * slipper 拖鞋
 * small hours 凌晨
 * smear 涂抹;apply也可以用作涂和敷之意
@@ -116,6 +120,7 @@
 * That explains it. 原来如此
 * thrifty 节俭的
 * throttle 油门
+* tit for tat 以牙还牙,针锋相对
 * tow 拖,牵引,拉
 * uncooked 未煮过的
 * undercooked 煮的不够熟的
