@@ -2,6 +2,7 @@
 * Are utilities included? 包水电吗？(utility指水、电、煤气等公共服务)
 * ask for (sick) leave 请(病)假
 * and the like; and so on 等等
+* (at) full tilt 全速,全力
 * at the price of... 以...价格
 * banquet 宴会
 * bottle up 把...封在瓶内;压住(感情);封锁(交通等);捕获(逃犯等)
@@ -35,6 +36,7 @@
 * full(y)-fledged 成熟的;发育全面的
 * give lectures 上课
 * grin from ear to ear 笑得合不拢嘴
+* hit home 击中要害
 * I see 原来如此
 * inhale 吸气
 * instead of... 代替...
@@ -76,6 +78,7 @@
 * pee 小便(动词)
 * peel 削皮,剥皮,去壳
 * poach 水煮,小火煮;偷猎;窃取
+* poke fun at 取笑,戏弄
 * pros and cons 利弊
 * pull up 停车
 * rack 衣架,挂架,搁架

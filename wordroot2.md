@@ -98,6 +98,8 @@
 
 **intro** 内,在...之内(within) intrinsic,introspective,introvert
 
+**juxta** (next to, beside) juxtapose,jostle
+
 **mal** 糟糕,坏,错误(bad,evil) malfunction,malformed,maltreat,malice
 
 **meta** (beyond, change) metaphor,metamorphose,metabolic,metaphysics
@@ -113,6 +115,8 @@
 **ob** (to, toward) obtain,observe,oblige
 
 **omni** 总,全,遍(all) omnibus,omniscient,omnipotent,omnipresent
+
+**orth** (right) orthography,orthodox,orthodontics,orthotics
 
 **pan** (all) panacea,pandemic,pandemonium,panorama,pantheon
 
@@ -206,6 +210,8 @@
 
 **ity** 构成名词,表状态或性质(state or quality) gravity,enormity,luminosity,verity
 
+**logy** (study, science, theory) biology,technology,anthropology,archaeology,philology,psychology,trilogy
+
 **ment** 表性质、状态;行为或结果 development
 
 **os** (forms a noun) bathos,mythos,chaos,thermos,pathos,cosmos
@@ -273,6 +279,8 @@
 **ard** (burn, be on fire) ardour,arid,ardent,arson
 
 **asper** (rough, harsh, roused to anger) exasperate,asperity
+
+**aud** (hear, listen to) audible,audition,audio,audit,auditor,auditory,auditorium
 
 **auth** (author) authentic,authorize,authority,authoritarian,authenticate,authorship
 
@@ -355,6 +363,8 @@
 **cond** (hide, put away) ensconce,recondite,abscond,condiment
 
 **corp** (body) corpulent,corporeal,corporal,corporate,corporation,corps,corpse
+
+**coup** (buffet, cuff, blow) recoup,coupon,coup
 
 **crat** (rule) democrat,aristocrat,plutocrat,technocrat,bureaucrat,autocrat
 
@@ -742,6 +752,8 @@
 
 **pred** (plunder) predator,predation,predatory,depredation,prey
 
+**prehend,prehens** (seize, seized hold of) comprehend,apprehend,misapprehend,reprehend,reprehensible,apprehension,apprehensive,prehensile,comprehensible
+
 **prim** (first) primary,primer,prime number,primal,primitive,primate,premier
 
 **prob** (prove, test, approve) probate,probation,reprobate,probity,approbation,approve,probable,probe,proof,prove,reproof
@@ -769,6 +781,8 @@
 **quisit** (seek, ask) requisite,requisition,prerequisite,acquisitive,inquisitive,exquisite,perquisite
 
 **rad** (ray) radiant,radial,radius,radar,radiate,radio,radioactive,irradiate
+
+**rap** (snatch, grab, seize) rapt,rapacious,rapture,rapturous,rape,rapid,rapine
 
 **ras** (scrape, scratch) abrade,abrasion,erase,rascal,rash,razor,rasp
 
@@ -911,6 +925,10 @@
 **ul** (repeated activity) garrulous,petulant,credulous,querulous,tremulous,regulate,bibulous
 
 **umbr** (shadow, shade) umbrage,adumbrate,somber,umbrella
+
+**und** (wave) inundate,undulate,redundant,abundant,redound,abound,surround
+
+**vad,vas** (go, proceed, advance) pervade,pervasive,evade,evasive,invade,invasion
 
 **vag** (wander, roam, rove) vagary,extravagant,vagabond,vagrant,vague
 
