@@ -53,6 +53,7 @@
 * point blank 直截了当(的,地)
 * pound key 井号键
 * ride (How long is the train ride ?) 车程要多久?
+* ride-hailing 打车服务
 * roller coaster 过山车
 * sales pitch 销售宣传
 * set aside 留出;拨出;搁置
@@ -74,5 +75,6 @@
 * tune into 调频到;收听
 * under the weather (ill,sick)
 * wind down (使)逐步收缩;(使)降级;(使)逐步结束;放松;放松一下;逐渐平静下来
+* window dressing 弄虚作假
 * work out 作出;拟定;制定;计划一下;健身
 * writ large 显而易见

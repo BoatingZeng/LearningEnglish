@@ -286,6 +286,8 @@
 
 **av** (desire, be eager) avarice,avid
 
+**bar(r)** (barrier) bar,barrier,barrage,barrel,barrette,barricade,barrister,debar,disbar,embarrass
+
 **bat** (beat, pound) abate,batter,battle,combat,debate,rebate
 
 **bio** (life) biology,microbiology,biography,amphibian,symbiosis,aerobic,anaerobic,biosphere
@@ -450,6 +452,8 @@
 
 **feas** (make, do) feasible,indefeasible,malfeasance
 
+**fect** (make) perfect,affect,effect,defect,infect,confection,refectory,refection
+
 **feit** (made, done) surfeit,counterfeit,forfeit
 
 **fer** (carry, bring, bear) transfer,suffer,differ,refer,prefer,fertile,infer,vociferous,circumference
@@ -612,6 +616,8 @@
 
 **men** (threat) amenable(a表示倾向于,倾向于被威胁,顺从),menace
 
+**mens** (act of measuring, ascertaining dimension) commensurate,commensurable,immense,dimension,measure
+
 **ment** (mind) demented,dementia,mental,comment,memento,mention,mentor
 
 **merc** (trade) mercenary,commerce,merchant,mercantile,merchandise
@@ -631,6 +637,8 @@
 **miss** (sent) dismiss,remiss,missive,emissary,emission
 
 **mit** (send) emit,omit,permit,submit,commit,admit,transmit
+
+**mod** (measure, method, manner) modicum,moderate,accommodate,modest,modal,mode,model,modem,modern,modify,modish,modulate
 
 **mor** (custom, habit, manner) morose,morale,moral,amoral
 
@@ -777,6 +785,8 @@
 **quer** (complain, protest) querulous,quarrel,quarrelsome
 
 **quir** (seek, strive for) conquer,enquire,inquire,require,acquire
+
+**quit** (rest, be still, stay calm) requite,acquit
 
 **quisit** (seek, ask) requisite,requisition,prerequisite,acquisitive,inquisitive,exquisite,perquisite
 
@@ -927,6 +937,8 @@
 **umbr** (shadow, shade) umbrage,adumbrate,somber,umbrella
 
 **und** (wave) inundate,undulate,redundant,abundant,redound,abound,surround
+
+**urb** (of a city) urbane,urban,exurbia,interurban,suburb,suburbanite
 
 **vad,vas** (go, proceed, advance) pervade,pervasive,evade,evasive,invade,invasion
 
