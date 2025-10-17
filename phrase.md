@@ -17,6 +17,7 @@
 * decent price 合适的价格
 * dig (understand;like)
 * don't get me wrong (don't misunderstand me)
+* (every) once in a while 偶尔;每过不久
 * fall for it(that) 上当,信以为真(一定要用it,that等指代前述谎言)
 * far out 不寻常的;(政见等)极端的;奥秘的
 * fizzle out 告吹,失败,宣告破灭
@@ -71,6 +72,7 @@
 * tap into 开发;利用
 * the last stretch (the last or final moments before an ending)
 * throw in (include)
+* throw in the towel 认输,投降
 * true be told 说实话
 * tune into 调频到;收听
 * under the weather (ill,sick)

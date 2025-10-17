@@ -32,6 +32,8 @@
 
 **bene** (well) benefit,benefaction,benefactor,benign,benevolent
 
+**burs** (purse) disburse,reimburse,bursar,bursary,bursitis
+
 **cata** 完全(thoroughly) catastrophe,catalog,cataclysm
 
 **co** (with, together) coagulate,coalition,coalesce,correlate,cohesive,coordinate,coincide,coherent,cohort
@@ -77,6 +79,8 @@
 **exo** 外(outside) exotic,exoskeleton,exothermic
 
 **extra(extro)** 外,在...之外,超出(outside) extra,extraordinary,extrovert
+
+**hetero** (other) heterodox,heterogeneous,heterosexual
 
 **holo** 全 holocaust,hologram
 
@@ -662,6 +666,8 @@
 
 **neg** (deny, say not) renege,abnegate,negate,negligent,negotiate,negative,negation
 
+**nex** (tied, bound) nexus,annex,connexion,connect
+
 **nihil** (nothing) nihilism,annihilate,nil
 
 **not** 使知道,发现(gotten to know, found out);标记,符号(mark,sign) notorious,notice,notion,notify,note,annotate,keynote,notary,notarize,denote
@@ -731,6 +737,8 @@
 **phyt** (plant) neophyte,saprophyte,zoophyte
 
 **pir** (attempt, attack) empirical,perilous,imperil,peril,pirate,piracy
+
+**plas** (form, mold) plastic,plasma,plaster,plasticity,protoplasm
 
 **plaud** (applaud, clap) applaud,plaudit,explode,implode
 
@@ -945,6 +953,8 @@
 **vag** (wander, roam, rove) vagary,extravagant,vagabond,vagrant,vague
 
 **val** (be strong, be of value) convalesce,ambivalent,validate,prevail,valiant,available,evaluate,devalue,equivalent,invalid,valuable,invaluable,prevalent,valid,valor,valuate,value
+
+**van** (empty, illusory) evanescent,vaunt,vainglorious,vain,vanish,vanity
 
 **vari** (different, diverse) variegated,variable,variant,variety,vary,various,variance
 
