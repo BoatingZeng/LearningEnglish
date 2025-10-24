@@ -750,6 +750,8 @@
 
 **plex** (weave) complex,complexity,complexion,perplex,multiplex,duplex
 
+**pli** (fold, bend) pliant,imply,pliable,pliers,ply
+
 **plor** (weep over, cry) explore,deplore,implore
 
 **plumb** 垂直 plumb,plummet,plumber,plunge
@@ -931,6 +933,8 @@
 **tum** 肿(swell);干扰,障碍,紊乱,骚乱(disturbance);骚动(uproar) tumor,tumid,tumescent,contumacious,tumult,tumultuous
 
 **turb** (confusion, turmoil, disorder) imperturbable,turbid,turbulence,disturb,perturb,trouble,turbine
+
+**tract** (drag, pull) tractor,attract,detract,subtract,distract,extract,tractable,intractable,contract,retract,protract,traction
 
 **trem** (shake, tremble) tremulous,tremendous,tremble,tremolo,tremor
 
