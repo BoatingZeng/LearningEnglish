@@ -170,6 +170,8 @@
 
 **arian** (pertaining to) utilitarian,agrarian,totalitarian,egalitarian,humanitarian,vegetarian
 
+**ar** (pertaining to) registrar,annular,insular,vernacular,titular,jocular,secular,avuncular,circular,irregular,similar,particular,familiar,oracular,polar,popular,spectacular,stellar
+
 **ary** ...的;...的人;与...有关 hereditary
 
 **ast** 表示人 gymnast
@@ -195,6 +197,8 @@
 **esce** (to do something) coalesce,convalesce,liquesce,deliquesce,effervesce,fluoresce
 
 **escent,escence** (becoming; beginning to be) senescent,convalescent,effervescent,iridescent,obsolescent,tumescent,adolescent,coalescent,fluorescent,incandescent,luminescent,putrescent
+
+**ette** (lessening) vignette,cassette,cigarette,diskette,coquette,gazette,kitchenette,launderette,palette,pipette,towelette
 
 **ful** 充满...的(full of);有...性质或倾向的(resembling) grateful,graceful,baleful,healthful
 
@@ -307,6 +311,8 @@
 **cand** 亮白,发光,热(be of brilliant whiteness, shine, be hot) candor,candid,incendiary,incandescent,candle,candelabrum,candidate
 
 **cap** (take, seize) capacious,capacity,capable,capsule,encapsulate
+
+**capit** (head) capital,captain,decapitate,chapter,recapitulate
 
 **capt** (taken, seized) captious,captive,captivate,capture,caption,captor
 
@@ -611,6 +617,8 @@
 **man** (hand) manipulate,manual,manufacture,manage,manuscript
 
 **mand** (order) commandeer,command,countermand,mandate,demand,remand
+
+**mania** (madness, frenzy) megalomania,egomania,kleptomania,pyromania,pyromaniac
 
 **math** (learn, understand) polymath,mathematics,mathematician
 
@@ -928,6 +936,8 @@
 
 **tort** (twisted, wound, wrapped) tortuous,distort,retort,contort,extortionate,torture
 
+**tour** (circle) entourage,attorney,contour,detour,tourist,tournament,tourney,tourniquet
+
 **toxic** (poison) toxicity,toxicology,antitoxin,detox,intoxicate,intoxicant,toxin
 
 **tum** 肿(swell);干扰,障碍,紊乱,骚乱(disturbance);骚动(uproar) tumor,tumid,tumescent,contumacious,tumult,tumultuous
@@ -943,6 +953,8 @@
 **tric** (entangle, make difficulties) extricate,intricate,trick,trickster
 
 **trit** (rubbed, worn away, old) tribulation,attrition,trite,contrite,detritus,detriment
+
+**trud** (thrust, push) obtrude,intrude,protrude,extrude
 
 **ul** (repeated activity) garrulous,petulant,credulous,querulous,tremulous,regulate,bibulous
 

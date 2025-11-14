@@ -26,6 +26,7 @@
 * get caught up 陷入,卷入
 * get off work(shift) (换)下班
 * get up to speed on... 了解...(最新情况)
+* gritty reality 残酷的现实
 * hang loose 放松
 * high five 击掌(以示庆祝或高兴)
 * high pitched 高音调的
@@ -53,6 +54,7 @@
 * plan backfire 计划适得其反
 * point blank 直截了当(的,地)
 * pound key 井号键
+* red tape 繁文缛节;原指扎文件的红带;官僚习气
 * ride (How long is the train ride ?) 车程要多久?
 * ride-hailing 打车服务
 * roller coaster 过山车

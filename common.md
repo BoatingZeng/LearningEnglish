@@ -78,6 +78,7 @@
 * pay off 还(清),付(清)(债,工资);回报
 * pee 小便(动词)
 * peel 削皮,剥皮,去壳
+* phase out 逐渐淘汰
 * poach 水煮,小火煮;偷猎;窃取
 * poke fun at 取笑,戏弄
 * pros and cons 利弊
