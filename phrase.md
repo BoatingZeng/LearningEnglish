@@ -10,6 +10,7 @@
 * bun in the oven 怀孕
 * buy 10, get 2 free promotion 买10送2促销
 * charge(cost) an arm and a leg 极其昂贵
+* churn rate (员工、客户)流失率
 * come out with it(the true) 说出来;快说啊
 * couch potato 老泡在电视机前的人;电视迷
 * crash 借宿
@@ -27,6 +28,7 @@
 * get off work(shift) (换)下班
 * get up to speed on... 了解...(最新情况)
 * gritty reality 残酷的现实
+* grunt work 乏味的重活;单调乏味的苦差使;体力劳动;老土的
 * hang loose 放松
 * high five 击掌(以示庆祝或高兴)
 * high pitched 高音调的

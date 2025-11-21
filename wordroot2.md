@@ -22,7 +22,7 @@
 
 **apo** (away, from) apocryphal,apogee,apostate,apology,apostrophe
 
-**arch** (chief, principal) archetype,archipelago,archangel,archenemy,architect,architecture
+**arch** (chief, principal) archetype,archipelago,archangel,archenemy,architect,architecture,archrival
 
 **at** 向(to,toward) attract,attend,attempt,attain,attenuate
 
@@ -768,6 +768,8 @@
 
 **polit** (citizen) politic,metropolitan,cosmopolitan,apolitical,impolitic,police,policy,political,politician,polity,politics
 
+**pon** (put, place) exponent,proponent,postpone,opponent,component
+
 **ponder** (weigh, consider) ponder,preponderance,ponderous,imponderable
 
 **por** (passage) porous,pore,porosity,osteoporosis
@@ -821,6 +823,8 @@
 **rect** (ruled, guided, put right) rectitude,rectify,correct,direct,erect,rectangle
 
 **reg** (rule, guide, direct) regime,regimen,regiment,irregular,regulate,region,regal,regent,regency,regicide
+
+**riv** (stream) arrive,derive,rivulet,river
 
 **robor** (oak, strength) corroborate,robust
 
