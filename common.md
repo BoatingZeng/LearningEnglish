@@ -85,6 +85,7 @@
 * pull up 停车
 * rack 衣架,挂架,搁架
 * rag 抹布
+* ramp up 增加
 * razor 剃刀
 * reach out to 接触,联系;把手伸向
 * rent 租(动词,租入和租出都是);租金 I rented his car. He rented me the car.

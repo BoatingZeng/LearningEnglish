@@ -416,6 +416,8 @@
 
 **dem** (people) endemic,epidemic,pandemic,democracy,demography
 
+**demn** (loss, penalty, injury) indemnify,indemnity,condemn,damage,damn
+
 **dens** (thick) dense,density,condense
 
 **dextr** (right) dexterous,ambidextrous
@@ -701,6 +703,8 @@
 **orn** (decorate) adorn,ornate,ornament
 
 **pac** (peace) appease,pacific,pacify,pact
+
+**pan** (bread) company,pantry
 
 **past** (dough, paste) paste,pastel,pastry,pasta,pasty,pastiche
 
