@@ -50,8 +50,6 @@
 
 **cor** (thoroughly) corroborate,incorrigible,corrugated,corrode,corrosion,correct,corrupt
 
-**cumb** (lie down) incumbent,recumbent,succumb
-
 **de** 离开,除掉,去掉(off);来自(from);向下;相反;完全(thoroughly) decapitate,demote,derive,deduce,deject,decry,decease
 
 **dia** (through, across) dialect,diagonal,diameter,diagram,diaphanous,diachronic,dialogue
@@ -372,6 +370,8 @@
 
 **cogn** 知道,认识(learn, know) cognition,recognize,cognoscenti,connoisseur,incognito,reconnoiter,reconnaissance
 
+**concil** (join, win over) conciliate,reconcile
+
 **cond** (hide, put away) ensconce,recondite,abscond,condiment
 
 **corp** (body) corpulent,corporeal,corporal,corporate,corporation,corps,corpse
@@ -397,6 +397,8 @@
 **cult** (grow) culture,cultivate,agriculture,horticulture,pisciculture,acculturate
 
 **cum** (heap, pile) encumber,accumulate,cumulative,encumbrance,cumulus
+
+**cumb** (lie down) incumbent,recumbent,succumb
 
 **cup** (take, seize) occupy,preoccupy,recuperate,cupidity
 
@@ -680,6 +682,10 @@
 
 **nihil** (nothing) nihilism,annihilate,nil
 
+**nom** (name) nominate,nominee,binomial,nomenclature,denominator,denominate,misnomer
+
+**nom** (law, custom) autonomy,taxonomy,agronomy,anomie,astronomy,metronome
+
 **not** 使知道,发现(gotten to know, found out);标记,符号(mark,sign) notorious,notice,notion,notify,note,annotate,keynote,notary,notarize,denote
 
 **nov** (new) novel,innovate,novelty,renovate,nova,novice,novitiate
@@ -816,6 +822,8 @@
 
 **rad** (ray) radiant,radial,radius,radar,radiate,radio,radioactive,irradiate
 
+**radic** (root) eradicate,radical,deracinate
+
 **rap** (snatch, grab, seize) rapt,rapacious,rapture,rapturous,rape,rapid,rapine
 
 **ras** (scrape, scratch) abrade,abrasion,erase,rascal,rash,razor,rasp
@@ -827,6 +835,8 @@
 **rect** (ruled, guided, put right) rectitude,rectify,correct,direct,erect,rectangle
 
 **reg** (rule, guide, direct) regime,regimen,regiment,irregular,regulate,region,regal,regent,regency,regicide
+
+**rid** (laugh at) ridicule,deride
 
 **riv** (stream) arrive,derive,rivulet,river
 
@@ -890,6 +900,8 @@
 
 **stat** (stands) station,status,stature,statue,statute,state,statement,ecstatic,distant,misstate
 
+**stereo** (solid) stereotype,cholesterol,progesterone,stereo,steroid,testosterone
+
 **stig** (mark, brand, tattoo-mark) stigma,instigate,astigmatism
 
 **still** (drop) distill,distillate,instill
@@ -927,6 +939,8 @@
 **test** (witness, proof, indicator) intestate,attest,contest,detest,protest,testament,testify,testimony,testimonial
 
 **text** (weave) textile,texture,pretext
+
+**the** (god) pantheon,apotheosis,atheism,atheist,monotheism,polytheism,polytheistic,theocratic,theocracy,theologian,theology
 
 **therm** (heat) thermal,thermodynamics,hyperthermia,hypothermia,thermometer,thermostat,thermos
 
@@ -1029,5 +1043,7 @@
 **volv** (roll, wrap up, turn round) revolve,involve,revolution,revolt,evolve,volume
 
 **vor** 吃(eat) voracious,herbivore,herbivorous,carnivore,insectivore,omnivore,devour
+
+**vulg** (make common, publish) divulge,promulgate,vulgar
 
 **zeal** (eager rivalry, fierceness) zealous,jealous,zealot,zealotry

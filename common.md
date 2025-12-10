@@ -5,6 +5,7 @@
 * (at) full tilt 全速,全力
 * at the price of... 以...价格
 * a wealth of 大量的
+* banknote 钞票
 * banquet 宴会
 * bottle up 把...封在瓶内;压住(感情);封锁(交通等);捕获(逃犯等)
 * bristle 刷子毛

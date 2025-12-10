@@ -14,6 +14,7 @@
 * come out with it(the true) 说出来;快说啊
 * couch potato 老泡在电视机前的人;电视迷
 * crash 借宿
+* cut corner 抄小路
 * cut to the chase 直奔主题;切入重点;言归正传
 * decent price 合适的价格
 * dig (understand;like)
