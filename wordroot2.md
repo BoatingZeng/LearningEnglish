@@ -370,6 +370,8 @@
 
 **cogn** 知道,认识(learn, know) cognition,recognize,cognoscenti,connoisseur,incognito,reconnoiter,reconnaissance
 
+**commod** (suitable, convenient, desirable) commodious,accommodate,commode,commodity
+
 **concil** (join, win over) conciliate,reconcile
 
 **cond** (hide, put away) ensconce,recondite,abscond,condiment
@@ -664,6 +666,8 @@
 
 **mort** (death) mortal,mortician,postmortem,mortuary,mortgage
 
+**mot** (move) automotive,motorcar,motorist,locomotive,motorcycle,motor,motion,motel,motivate,promote,demote,remote,emotion
+
 **mun** (gift, public service) munificent,immune,remunerate,municipal
 
 **mur** (wall) immure,mural,extramural,intermural,intramural
@@ -922,6 +926,8 @@
 
 **tain** (have, hold) retain,contain,detain,abstain,obtain,pertain,maintain
 
+**temp** (time) temporal,contemporary,contemporaneous,extemporaneous,temporary,tempo,temporize,extemporize,tempest
+
 **temper** (regulate, modify) temperament,temperamental,temperance,temperate,temperature
 
 **ten** (hold) tenant,maintenance,tenable,tenet,tenacious,tenure,sustenance
@@ -999,6 +1005,8 @@
 **veh** (carry, bring) vehement,inveigh,vehicle,vehicular
 
 **vel** (curtain) revelation,revelatory,reveal,veil
+
+**veng** (get even, revenge) vengeful,avenge,revenge,vengeance
 
 **ven(t)** 来(come) advent,invent,event,prevent,convene,venue,revenue,intervene,convention,convenient
 

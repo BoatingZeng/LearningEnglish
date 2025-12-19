@@ -23,6 +23,7 @@
 * fall for it(that) 上当,信以为真(一定要用it,that等指代前述谎言)
 * far out 不寻常的;(政见等)极端的;奥秘的
 * fizzle out 告吹,失败,宣告破灭
+* full blown (花)盛开的;充分发展的
 * freak out 崩溃;极度兴奋
 * get cast in 被选中参演
 * get caught up 陷入,卷入
@@ -57,6 +58,7 @@
 * plan backfire 计划适得其反
 * point blank 直截了当(的,地)
 * pound key 井号键
+* profit off... 从...获利
 * red tape 繁文缛节;原指扎文件的红带;官僚习气
 * ride (How long is the train ride ?) 车程要多久?
 * ride-hailing 打车服务

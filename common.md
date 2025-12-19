@@ -36,6 +36,7 @@
 * foam 泡沫
 * fry 煎,炸,炒
 * full(y)-fledged 成熟的;发育全面的
+* get even 认真对待;定下心来做;报复
 * give lectures 上课
 * grin from ear to ear 笑得合不拢嘴
 * hit home 击中要害
@@ -80,6 +81,7 @@
 * pee 小便(动词)
 * peel 削皮,剥皮,去壳
 * phase out 逐渐淘汰
+* piss off 激怒
 * poach 水煮,小火煮;偷猎;窃取
 * poke fun at 取笑,戏弄
 * pros and cons 利弊
