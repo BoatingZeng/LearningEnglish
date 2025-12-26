@@ -350,6 +350,8 @@
 
 **chol** (bile, gall) choleric,melancholy,choler,cholera,cholesterol
 
+**chrom** (color) monochrome,chromatic,achromatic,chrome,chromium
+
 **chron** (time) chronograph,chronometer,synchronize,chronicle,chronological,anachronism,chronic,crony
 
 **cid** (fall) recidivism,recidivist,incident,coincide,accident,deciduous
@@ -466,6 +468,8 @@
 
 **fat** (speak, talk, say) prefatory
 
+**fatu** (foolish, silly, stupid) fatuous,fatuousness,fatuity,infatuate
+
 **feas** (make, do) feasible,indefeasible,malfeasance
 
 **fect** (make) perfect,affect,effect,defect,infect,confection,refectory,refection
@@ -517,6 +521,8 @@
 **glomerat** 聚集成团,积累(gathered into a ball-shaped mass, accumulated) agglomerate,conglomerate,glomerular
 
 **glori** (praise) glory,glorious,vainglory,glorify,inglorious
+
+**glut** (swallow, gulp down) glut,glutton,gluttonous,gluttony
 
 **gnost** (know) diagnosis,prognosis,gnostic,agnostic
 
@@ -649,6 +655,8 @@
 **min** (lean forward, threaten) imminent,prominent,eminent,preeminent,minatory
 
 **min** (lessen, make smaller) minuscule,miniscule,minutia,diminution,minimum,diminish,minor,minority,diminuendo,diminutive,minimal,minimize,minute,minus
+
+**misc** (mix) miscellaneous,miscellany,miscible,admixture,intermix,promiscuous
 
 **miser** (wretched) miser,miserable,misery,commiserate
 
@@ -892,6 +900,8 @@
 
 **soph** (wise, clever) sophist,sophistry,sophism,philosophy,sophisticate,sophomore
 
+**spect** (see, observe, look, watch over) spectator,expect,spectacular,spectacle,specter,inspect,suspect,perspective,respect,spectate,speculate
+
 **sper** (hope) prosper,prosperity,despair,desperate,desperado
 
 **spers** (scatter, sprinkle) aspersion,disperse,intersperse,sparse
@@ -911,6 +921,8 @@
 **still** (drop) distill,distillate,instill
 
 **stitut** (set up, decided) restitution,destitute,constitute,institute,superstition
+
+**strat** (covering, spread) strata,prostrate,stratify,stratosphere,substrate
 
 **stup** (become dazed, be amazed, be brainless) stupor,stupendous,stupefaction,stupefy,stupid,stupidity
 
@@ -1005,6 +1017,8 @@
 **veh** (carry, bring) vehement,inveigh,vehicle,vehicular
 
 **vel** (curtain) revelation,revelatory,reveal,veil
+
+**vener** (worship, revere, honor) venerate,venerable
 
 **veng** (get even, revenge) vengeful,avenge,revenge,vengeance
 

@@ -71,6 +71,7 @@
 * snooze button 闹钟上的贪睡按钮
 * spill the beans 泄露秘密(reveal a secret)
 * spin-off 拆分;副产品
+* sputter out 停息
 * stay tuned 继续收听;继续关注事情的发展;别换频道;敬请期待
 * stumble across 偶尔发现
 * stumble on 碰上
@@ -82,6 +83,7 @@
 * throw in the towel 认输,投降
 * true be told 说实话
 * tune into 调频到;收听
+* turf war 地盘争夺
 * under the weather (ill,sick)
 * wind down (使)逐步收缩;(使)降级;(使)逐步结束;放松;放松一下;逐渐平静下来
 * window dressing 弄虚作假
