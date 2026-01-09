@@ -288,6 +288,8 @@
 
 **aud** (hear, listen to) audible,audition,audio,audit,auditor,auditory,auditorium
 
+**augur** (diviner, seer) augur,augury,inaugurate
+
 **auth** (author) authentic,authorize,authority,authoritarian,authenticate,authorship
 
 **av** (desire, be eager) avarice,avid
@@ -347,6 +349,8 @@
 **cess** (go) access,excess,recess,recession,successor,process,ancestor
 
 **chart** (sheet of paper) uncharted,cartography,cartographer,carton,cartoon,cartridge,cartel
+
+**chast** (pure, without stain) chastise,castigate,chaste,chasten
 
 **chol** (bile, gall) choleric,melancholy,choler,cholera,cholesterol
 
@@ -439,6 +443,8 @@
 **dom** (house) domicile,dome,domestic,domesticate,domesticity,domiciliary
 
 **domin** (master) dominion,dominant,dominate,domineer
+
+**dors** (back) endorse,dorsal,dorsum
 
 **dot** (give) anecdote
 
@@ -591,6 +597,8 @@
 **leg** (gather, read) allege,sacrilege,legend,college,legible,legion
 
 **leg** (law) legislate,legitimate,legal,privilege,legalese,paralegal,legalese,legality,legitimacy
+
+**lev** (light, of little weight) levitate,elevate,lever,leverage,relieve,alleviate,relevant,levy
 
 **liber** (free) liberal,liberty,libertine
 
@@ -798,6 +806,8 @@
 
 **pos** (put, place) transpose,interpose,dispose,predispose,propose,compose,depose,expose,impose,oppose,juxtapose,suppose
 
+**potent** (capable, powerful) potentate,potential,potency,plenipotentiary,omnipotent,impotent
+
 **preci** (worth, price) appreciate,precious,depreciate,appraise,praise,dispraise
 
 **pred** (plunder) predator,predation,predatory,depredation,prey
@@ -941,6 +951,8 @@
 **temp** (time) temporal,contemporary,contemporaneous,extemporaneous,temporary,tempo,temporize,extemporize,tempest
 
 **temper** (regulate, modify) temperament,temperamental,temperance,temperate,temperature
+
+**tempt** (try) attempt,tempter,temptation
 
 **ten** (hold) tenant,maintenance,tenable,tenet,tenacious,tenure,sustenance
 

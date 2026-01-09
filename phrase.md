@@ -51,6 +51,7 @@
 * over-the-counter(OTC) 非处方(药)
 * on (a) par with 与...平分秋色
 * order in 叫外卖
+* out of whack 紊乱;不正常
 * pair back 削减
 * peace out 再见
 * pep talk 鼓舞的话
@@ -85,6 +86,7 @@
 * tune into 调频到;收听
 * turf war 地盘争夺
 * under the weather (ill,sick)
+* white-knuckle 紧张;咬紧牙关
 * wind down (使)逐步收缩;(使)降级;(使)逐步结束;放松;放松一下;逐渐平静下来
 * window dressing 弄虚作假
 * work out 作出;拟定;制定;计划一下;健身
