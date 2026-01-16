@@ -84,7 +84,9 @@
 * piss off 激怒
 * poach 水煮,小火煮;偷猎;窃取
 * poke fun at 取笑,戏弄
+* prop up 支撑
 * pros and cons 利弊
+* pukk off 努力实现;赢得;完成;停车
 * pull up 停车
 * rack 衣架,挂架,搁架
 * rag 抹布

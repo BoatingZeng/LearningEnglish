@@ -412,7 +412,7 @@
 
 **cur** (worry, anxiety, attention) curio,curious,cure,curator,curative,secure,accurate,procure,pedicure,manicure
 
-**curr** (run) course,cursive,cursor,current,curriculum,incur,recourse,discourse,excursion
+**curr** (run) recur,course,cursive,cursor,current,curriculum,incur,recourse,discourse,excursion
 
 **curs** (ran, hurried) cursory,discursive,precursor,excursive,excursion,incursion,cursive,cursor
 

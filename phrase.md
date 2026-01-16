@@ -86,6 +86,7 @@
 * tune into 调频到;收听
 * turf war 地盘争夺
 * under the weather (ill,sick)
+* whip hand 控制权;优势
 * white-knuckle 紧张;咬紧牙关
 * wind down (使)逐步收缩;(使)降级;(使)逐步结束;放松;放松一下;逐渐平静下来
 * window dressing 弄虚作假
