@@ -196,7 +196,7 @@
 
 **escent,escence** (becoming; beginning to be) senescent,convalescent,effervescent,iridescent,obsolescent,tumescent,adolescent,coalescent,fluorescent,incandescent,luminescent,putrescent
 
-**ette** (lessening) vignette,cassette,cigarette,diskette,coquette,gazette,kitchenette,launderette,palette,pipette,towelette
+**ette** 常用作名词后缀,表示缩小化,风格化(lessening) vignette,cassette,cigarette,diskette,coquette,gazette,kitchenette,launderette,palette,pipette,towelette
 
 **ful** 充满...的(full of);有...性质或倾向的(resembling) grateful,graceful,baleful,healthful
 
