@@ -36,6 +36,8 @@
 
 **cata** 完全(thoroughly) catastrophe,catalog,cataclysm
 
+**circum** (around, about) circumstance,circumnavigate,circumference,circumvent
+
 **co** (with, together) coagulate,coalition,coalesce,correlate,cohesive,coordinate,coincide,coherent,cohort
 
 **col** (with, together) colloquy,collude,collate,collaborate,collapse,collide,collect
@@ -362,6 +364,8 @@
 
 **cip** (take) recipient,incipient,principle,disciple
 
+**circ** (ring) circuit,circuitous,circulate,circular,circle,circuitry,encircle,semicircle
+
 **cis** (cut) decide,homicide,herbicide,incisive,incise
 
 **cit** (moved, stirred up) solicit,cite,incite,excite,recite,resuscitate
@@ -664,6 +668,8 @@
 
 **min** (lessen, make smaller) minuscule,miniscule,minutia,diminution,minimum,diminish,minor,minority,diminuendo,diminutive,minimal,minimize,minute,minus
 
+**mis** (send) demise,premise,promise,compromise,surmise
+
 **misc** (mix) miscellaneous,miscellany,miscible,admixture,intermix,promiscuous
 
 **miser** (wretched) miser,miserable,misery,commiserate
@@ -863,6 +869,8 @@
 **riv** (stream) arrive,derive,rivulet,river
 
 **robor** (oak, strength) corroborate,robust
+
+**rod** (chew, eat away) erode,rodent,corrode
 
 **rog** 问,索求(ask,request) interrogate,abrogate,surrogate,prerogative,derogatory
 
