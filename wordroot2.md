@@ -148,6 +148,8 @@
 
 **suf** (under, from below) suffuse,suffrage,suffer,suffice,sufficient,suffix,suffocate
 
+**super** (over, above) superfluous,Superman,superstar,superintendent,supervisor,superlative
+
 **sur** (over, above) surreal,surmount,surfeit,surface,surpass,survey
 
 **sur** (under) surreptitious,surrogate,surmise
@@ -386,6 +388,8 @@
 
 **cond** (hide, put away) ensconce,recondite,abscond,condiment
 
+**congru** (come together, agree) congruent,congruous
+
 **corp** (body) corpulent,corporeal,corporal,corporate,corporation,corps,corpse
 
 **coup** (buffet, cuff, blow) recoup,coupon,coup
@@ -403,6 +407,8 @@
 **cret** 生长,扩大(grow) accrete,concrete
 
 **crit** (judge) critical,hypocritical,critic,criterion
+
+**crypt** (hidden) apocryphal,crypt,cryptic,encrypt,decrypt,cryptography,cryptogram
 
 **cruc** (cross) crux,excruciating,crucial,cruciate,crucify,crucifix,cruciform,crusade
 
@@ -504,6 +510,8 @@
 
 **flict** (struck, struck down) afflict,conflict,inflict
 
+**flu** (flow, stream, glide) influenza,flux,influential,influence,fluent,fluorine,fluid,effluent,confluence,affluence
+
 **foli** (leaf) defoliate,exfoliate,foliage,portfolio
 
 **for** (outside) foreclose,foreign,forecast,forfeit
@@ -563,6 +571,8 @@
 **hort** (urge, encourage) exhort,hortatory,hortative
 
 **hum** (ground) exhume,posthumous,humble,humility,humiliate
+
+**imper** (command, provide leadership) imperious,imperative,imperial
 
 **impet** (impulse, attack) impetus,impetuous,impetigo
 
@@ -680,13 +690,15 @@
 
 **mod** (measure, method, manner) modicum,moderate,accommodate,modest,modal,mode,model,modem,modern,modify,modish,modulate
 
+**moment** (movement) momentous,momentum,momentary
+
 **mor** (custom, habit, manner) morose,morale,moral,amoral
 
 **morph** (shape, form) metamorphose,amorphous,polymorph,morpheme,morphology
 
 **mors** (bite) remorse,morsel,remorseful,remorseless
 
-**mort** (death) mortal,mortician,postmortem,mortuary,mortgage
+**mort** (die, decay, death) mortal,mortician,postmortem,mortuary,mortgage,mortify
 
 **mot** (move) automotive,motorcar,motorist,locomotive,motorcycle,motor,motion,motel,motivate,promote,demote,remote,emotion
 
@@ -735,6 +747,8 @@
 **orn** (decorate) adorn,ornate,ornament
 
 **pac** (peace) appease,pacific,pacify,pact
+
+**palp**
 
 **pan** (bread) company,pantry
 
@@ -797,6 +811,8 @@
 **pli** (fold, bend) pliant,imply,pliable,pliers,ply
 
 **plor** (weep over, cry) explore,deplore,implore
+
+**ploy** (fold) employ,deploy
 
 **plumb** 垂直 plumb,plummet,plumber,plunge
 

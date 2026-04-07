@@ -19,6 +19,7 @@
 * counter 柜台;操作台
 * count on 指望
 * crank up 增强,调大,调高(音量,光...)
+* cross out 划掉
 * cutting corners 偷工减料;走捷径
 * decent price 合适的价格
 * detergent 清洁剂
@@ -38,7 +39,9 @@
 * full(y)-fledged 成熟的;发育全面的
 * get even 认真对待;定下心来做;报复
 * give lectures 上课
+* gloss over 掩盖
 * grin from ear to ear 笑得合不拢嘴
+* grunt work 繁琐的工作
 * hit home 击中要害
 * I see 原来如此
 * inhale 吸气
@@ -48,6 +51,7 @@
 * in terms of... 依...;从...方面;根据...
 * in the offing 不久的将来
 * irk 使苦恼,使烦恼;厌烦,厌倦(名词)
+* jack up 提高;顶起
 * jog 慢跑
 * knee 膝盖
 * late (night) snack 夜宵
@@ -62,6 +66,7 @@
 * mess around 浪费时间;混日子;闲混;胡闹
 * mop 地拖
 * mug 马克杯
+* mull over 仔细思考
 * news anchor 新闻主播
 * next of kin 最亲的亲戚
 * no point 没理由;没有意义;没有必要
@@ -97,6 +102,7 @@
 * resume 简历
 * rinse 冲洗,漂洗;漱洗,漱口
 * ripe 熟的(指水果之类的)
+* ripple effect 连波效应;连锁反应
 * run out 用完;到期,过期;失效
 * season (a dish) 给(菜肴)加调料
 * scold 骂,责骂,训斥,怒骂
@@ -138,6 +144,7 @@
 * urinate 小便(动词)
 * vice versa 反之亦然
 * washing line 晾衣绳
+* wear off 逐渐减少;逐渐消失
 * wrap up 包起来;总结;结束
 * wring out 拧干
 * you bet (口语)当然,肯定,你说的没错(表支持认同);不客气
