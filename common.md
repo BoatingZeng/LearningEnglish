@@ -1,3 +1,4 @@
+* 10^89 ten to the eighty-nine
 * (run,walk,swim) about 到处(跑,走,游)
 * Are utilities included? 包水电吗？(utility指水、电、煤气等公共服务)
 * ask for (sick) leave 请(病)假

@@ -748,7 +748,7 @@
 
 **pac** (peace) appease,pacific,pacify,pact
 
-**palp**
+**palp** (stroke, caress, touch) palpate,palpable,palpitate
 
 **pan** (bread) company,pantry
 
@@ -827,6 +827,8 @@
 **por** (passage) porous,pore,porosity,osteoporosis
 
 **pos** (put, place) transpose,interpose,dispose,predispose,propose,compose,depose,expose,impose,oppose,juxtapose,suppose
+
+**posit** (placed, put) posit,position,positive,deposit,opposite,apposite,composite
 
 **potent** (capable, powerful) potentate,potential,potency,plenipotentiary,omnipotent,impotent
 
@@ -1077,6 +1079,8 @@
 **veter** (old, long-standing) inveterate,veteran,veterinary
 
 **vey** (see, look at) clairvoyant,survey
+
+**vid** (see, take care) provide,provident,providence,providential,evident,evidence,video
 
 **vig** (act, be lively) vigilant,vigor,vigil
 
