@@ -308,6 +308,8 @@
 
 **brev** (short) brief,brevity,abbreviation
 
+**cad** (fall) cadence,decadent,decadence,cadaver,cadaverous,cascade
+
 **cal** (beauty) calligraphy,calisthenics,kaleidoscope
 
 **cal** (warm, be hot) nonchalant,calorie,calory,cauldron,caldron,scald
@@ -576,7 +578,7 @@
 
 **impet** (impulse, attack) impetus,impetuous,impetigo
 
-**insul** (island) insular,insulate
+**insul** (island) insular,insulate,peninsula
 
 **integr** (whole, entire) integrity,integrate,integer
 
@@ -595,6 +597,8 @@
 **juven** (young, young man) juvenile,rejuvenate,juvenilia
 
 **juxta** (next to, beside) juxtapose
+
+**kine** (moving) kinetic,kinesthetic,telekinesi,psychokinesis,cinematic
 
 **labor** (work) laborer,laborious,laboratory,collaborate,belabor
 
@@ -896,11 +900,17 @@
 
 **sacr** (sacred, holy) sacrosanct,execrate,sacrilege,sacred,sacrifice
 
+**sal** (leap, spring forward, jump) salient,assailant,assail,sally,resilience
+
+**sal** (health, safety) salubrious,salutary,salute,salutation
+
 **sanct** (holy) sanction,sacrosanct,sanctity,sanctimony,sanctimonious,sanctuary,sanctum
 
 **sat** (enough) sate,satiate,insatiable,satisfy,saturate
 
 **scend** (climb, mount) transcend,descend,condescend,ascend
+
+**sci** (know) omniscient,unconscionable,prescient,conscientious,conscience,conscious
 
 **scrib,script** (write) scribe,transcribe,scribble,inscribe,prescribe,describe,script,manuscript,subscribe,postscript,nondescript
 
@@ -965,6 +975,8 @@
 **su** (follow) ensue,pursue,sue,suit,suitor
 
 **sult** (leap, spring forward, jump) desultory,exult,assault,insult,result
+
+**surg** (rise) resurge,surge,upsurge,insurgent,insurgency
 
 **tabl** (board, plank) table,tablet,tabloid,tabulate,tabular,tabulation
 

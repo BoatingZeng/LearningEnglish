@@ -8,6 +8,7 @@
 * a wealth of 大量的
 * banknote 钞票
 * banquet 宴会
+* bleed over 渗透
 * bottle up 把...封在瓶内;压住(感情);封锁(交通等);捕获(逃犯等)
 * bristle 刷子毛
 * broom 扫把
@@ -135,6 +136,7 @@
 * take a dump 上大号
 * take a sick day 请一天病假
 * take out 拿出;去掉,除去(污点等);放倒,撂倒
+* taxi rank 出租汽车站
 * That explains it. 原来如此
 * thrifty 节俭的
 * throttle 油门

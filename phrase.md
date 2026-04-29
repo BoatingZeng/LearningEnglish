@@ -11,6 +11,7 @@
 * buy 10, get 2 free promotion 买10送2促销
 * charge(cost) an arm and a leg 极其昂贵
 * churn rate (员工、客户)流失率
+* clear up front 提前澄清
 * come out with it(the true) 说出来;快说啊
 * couch potato 老泡在电视机前的人;电视迷
 * crash 借宿
@@ -58,6 +59,7 @@
 * pink slip 解雇通知书
 * plan backfire 计划适得其反
 * point blank 直截了当(的,地)
+* pop the hood 打开引擎盖
 * pound key 井号键
 * profit off... 从...获利
 * red tape 繁文缛节;原指扎文件的红带;官僚习气
