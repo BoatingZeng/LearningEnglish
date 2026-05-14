@@ -214,11 +214,17 @@
 
 **ion** 构成名词;表示行为的过程;表示状态,情况(act,state,or result of doing something) operation,commutation,translation
 
-**ive** 构成形容词;与...有关的(of or that which does something);倾向于...活动的 abortive,impassive
+**ish** (to do something) blandishment,burnish,embellish,abolish,refurbish,admonish,impoverish,replenish,relinquish,diminish,accomplish,perish
+
+**ish** (of) lavish,squeamish,knavish,devilish,mulish,waggish,pettish,snobbish,puckish
+
+**ish** (verging upon, somewhat) churlish,mawkish,brackish,bookish,peckish,bullish,coldish
 
 **itude** (state or quality of) latitude,turpitude,platitude,fortitude,magnitude
 
 **ity** 构成名词,表状态或性质(state or quality) gravity,enormity,luminosity,verity
+
+**ive** 构成形容词;与...有关的(of or that which does something);倾向于...活动的 abortive,impassive
 
 **logy** (study, science, theory) biology,technology,anthropology,archaeology,philology,psychology,trilogy
 
@@ -696,6 +702,8 @@
 
 **moment** (movement) momentous,momentum,momentary
 
+**mon** (warn, advise, remind) admonish,monument,monitor,monition,premonitory,summon
+
 **mor** (custom, habit, manner) morose,morale,moral,amoral
 
 **morph** (shape, form) metamorphose,amorphous,polymorph,morpheme,morphology
@@ -833,6 +841,8 @@
 **pos** (put, place) transpose,interpose,dispose,predispose,propose,compose,depose,expose,impose,oppose,juxtapose,suppose
 
 **posit** (placed, put) posit,position,positive,deposit,opposite,apposite,composite
+
+**postulat** (demand) postulate,expostulate
 
 **potent** (capable, powerful) potentate,potential,potency,plenipotentiary,omnipotent,impotent
 

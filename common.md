@@ -55,6 +55,7 @@
 * irk 使苦恼,使烦恼;厌烦,厌倦(名词)
 * jack up 提高;顶起
 * jog 慢跑
+* kind of 某种程度上,或多或少
 * knee 膝盖
 * late (night) snack 夜宵
 * lease 租约;租(动词,租入和租出都是)
